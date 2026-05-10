@@ -9,7 +9,7 @@
  */
 
 import { writeFileSync, mkdirSync, readFileSync } from 'fs';
-import { execSync } from 'child_process';
+import { classify } from './classifier.mjs';
 
 const NPM_REGISTRY = 'https://registry.npmjs.org';
 const PAGE_SIZE = 250;
@@ -97,99 +97,7 @@ async function fetchAllPackages() {
 }
 
 // ============================================================================
-// Phase 2: Classify
-// ============================================================================
-
-function classify(pkg) {
-  const name = pkg.name.toLowerCase();
-  const desc = (pkg.desc || '').toLowerCase();
-  const kw = new Set(pkg.keywords.map(k => k.toLowerCase()));
-
-  if (kw.has('mcp') || kw.has('model-context-protocol') || kw.has('acp')) return 'MCP';
-  if (kw.has('provider') || kw.has('llm-provider') || (name.includes('provider') && !name.includes('web'))) return 'Provider';
-  if (kw.has('memory') || kw.has('persistent-memory') || kw.has('vector-search') || kw.has('knowledge-graph') ||
-      name.includes('memory') || name.includes('hindsight') || name.includes('memctx') || name.includes('total-recall'))
-    return 'Memory';
-  if (kw.has('context') || kw.has('compaction') || kw.has('context-management') || kw.has('handoff') ||
-      kw.has('context-window') || name.includes('context') || name.includes('handoff') || name.includes('prune'))
-    return 'Context';
-  if (kw.has('web-search') || kw.has('web-fetch') || kw.has('scraping') || 
-      name.includes('web-') || name.includes('tavily') || name.includes('firecrawl') ||
-      kw.has('research') && kw.has('pi-package'))
-    return 'Web';
-  if (kw.has('subagent') || kw.has('subagents') || kw.has('multi-agent') || kw.has('orchestration') || kw.has('swarm') ||
-      name.includes('subagent') || name.includes('minion') || name.includes('crew') || name.includes('team'))
-    return 'SubAgent';
-  if (kw.has('workflow') || kw.has('planning') || kw.has('gsd') || kw.has('plan-review') || kw.has('plannotator') ||
-      name.includes('workflow') || name.includes('gsd') || name.includes('plannotator'))
-    return 'Workflow';
-  if (kw.has('code-review') || kw.has('linter') || kw.has('lsp') || kw.has('language-server') || kw.has('refactor') ||
-      name.includes('lens') || name.includes('simplify') || name.includes('lsp'))
-    return 'CodeQuality';
-  if (kw.has('skill') || kw.has('skills') || kw.has('agent-skills') || kw.has('pi-skill') || name.includes('skill'))
-    return 'Skill';
-  if (kw.has('tui') || kw.has('footer') || kw.has('status-line') || kw.has('powerline') || kw.has('statusbar') ||
-      name.includes('footer') || name.includes('powerline') || name.includes('glance') || name.includes('tool-display'))
-    return 'TUI';
-  if (kw.has('sandbox') || kw.has('permissions') || kw.has('guardrails') || kw.has('security') ||
-      name.includes('sandbox') || name.includes('permission') || name.includes('guard'))
-    return 'Tool';
-  if (kw.has('prompt') || kw.has('prompt-template') || kw.has('prompt-suggester') || name.includes('prompt'))
-    return 'Prompt';
-  if (kw.has('discord') || kw.has('telegram') || kw.has('whatsapp') || kw.has('notion') || kw.has('convex') ||
-      kw.has('1password') || name.includes('telegram') || name.includes('whatsapp') || name.includes('discord'))
-    return 'Integration';
-  if (kw.has('tts') || kw.has('voice') || kw.has('audio') || name.includes('voice') || name.includes('speech') || name.includes('tts'))
-    return 'Audio';
-  if (kw.has('notification') || kw.has('notify') || name.includes('notify'))
-    return 'Notification';
-  if (kw.has('theme') || kw.has('pi-theme') || kw.has('themes'))
-    return 'Theme';
-  if (kw.has('dashboard') || kw.has('observability') || kw.has('metrics') || name.includes('dashboard'))
-    return 'Dashboard';
-  if (kw.has('package-manager') || kw.has('unipi') || kw.has('resource') || name.includes('depo'))
-    return 'Meta';
-  if (kw.has('autonomous') || kw.has('agent-mode') || kw.has('ralph') || name.includes('ralph') || name.includes('boomerang') ||
-      name.includes('autoresearch') || name.includes('caveman'))
-    return 'AgentMode';
-  if (kw.has('browser-automation') || name.includes('agent-browser') || kw.has('playwright'))
-    return 'Browser';
-  if (kw.has('markdown') && kw.has('pi-package') || kw.has('preview') || name.includes('markdown'))
-    return 'MarkdownPreview';
-  if (kw.has('fuzzy') || kw.has('file-search') || kw.has('fff') || name.includes('fff'))
-    return 'FileSearch';
-  if (kw.has('settings') || kw.has('configuration') || kw.has('config') || name.includes('settings'))
-    return 'Settings';
-  if (kw.has('charts') || kw.has('vega') || kw.has('diagram') || kw.has('mermaid') ||
-      name.includes('chart') || name.includes('mermaid') || name.includes('drawio'))
-    return 'DataViz';
-  if (kw.has('ask') || kw.has('ask-user') || kw.has('interview') || kw.has('todo') ||
-      name.includes('ask-user') || name.includes('interview') || name.includes('todo') || name.includes('btw'))
-    return 'UserInteraction';
-  if (kw.has('testing') || kw.has('test-harness') || kw.has('diagnostics') || 
-      name.includes('test') && kw.has('pi-package') || name.includes('diag'))
-    return 'Testing';
-  if (kw.has('shared') || kw.has('utilities') || kw.has('utility') || name.includes('shared'))
-    return 'Utils';
-  if (kw.has('learning') || kw.has('continuous-learning') || kw.has('instinct') || name.includes('continuous'))
-    return 'Learning';
-  if (kw.has('proxy') || kw.has('rotation') || kw.has('quota') || kw.has('free-models') ||
-      name.includes('rotator') || name.includes('proxy') || name.includes('free'))
-    return 'CostProxy';
-  if (kw.has('output') || kw.has('truncation') || name.includes('output') || name.includes('truncat'))
-    return 'Output';
-  if (kw.has('session') || name.includes('session'))
-    return 'Session';
-  if (kw.has('chat') || kw.has('messaging') || kw.has('conversation') || name.includes('chat') || name.includes('intercom'))
-    return 'Chat';
-  if (kw.has('image') || kw.has('screenshot') || name.includes('image'))
-    return 'Image';
-
-  return 'Other';
-}
-
-// ============================================================================
-// Phase 3: Generate report
+// Phase 2 & 3: Classify & Generate report (classifier imported from classifier.mjs)
 // ============================================================================
 
 function generateReport(packages) {
