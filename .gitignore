@@ -1,0 +1,20 @@
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp scripts
+_*.mjs
+_*.js
+tmp/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Spec workflow
+.spec-workflow/
