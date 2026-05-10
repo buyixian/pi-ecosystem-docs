@@ -30,3 +30,23 @@ TypeScript 类型覆盖 → jscpd 重复检测 → knip 死代码
 - **全能选手**：`pi-lens`（6 种工具一次配齐）
 - **AI 辅助**：`pi-simplify`（语义级建议，非规则匹配）
 - **实时编码**：`@lpirito/pi-diffloop`（结对编程风格）
+
+<!-- AUTO-GENERATED-INSTALL:START -->
+## 安装速查
+
+以下为自动排行后的推荐安装入口，命令均可直接复制。
+
+### 主推安装
+
+| # | 插件 | 月下载量 | 安装命令 | 说明 |
+|---|---|---|---|---|
+| 1 | [pi-lens](https://www.npmjs.com/package/pi-lens) | 13,237 | `npm install pi-lens` | Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural an… |
+| 2 | [pi-simplify](https://www.npmjs.com/package/pi-simplify) | 10,180 | `npm install pi-simplify` | A Pi extension that reviews recently changed code for clarity, consistency, and maintai… |
+| 3 | [@lpirito/pi-diffloop](https://www.npmjs.com/package/@lpirito/pi-diffloop) | 2,154 | `npm install @lpirito/pi-diffloop` | Pair programming with Pi, be aware of every change made to the codebase. |
+| 4 | [@spences10/pi-lsp](https://www.npmjs.com/package/@spences10/pi-lsp) | 2,092 | `npm install @spences10/pi-lsp` | Pi extension that exposes Language Server Protocol diagnostics, hover, definition, and… |
+| 5 | [pi-mono-simplify](https://www.npmjs.com/package/pi-mono-simplify) | 915 | `npm install pi-mono-simplify` | Pi extension that reviews changed code for reuse, quality, and efficiency, then fixes a… |
+
+### 全量目录
+
+本分类的完整插件清单与安装命令见 [PI 全量插件目录](../pi-extension-catalog.md)。
+<!-- AUTO-GENERATED-INSTALL:END -->

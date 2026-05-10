@@ -37,3 +37,23 @@ rpiv 系列的核心洞察：**代理的瓶颈不是能力，是信息不对称*
 传统模式: 代理猜测 → 执行 → 用户纠正
 rpiv 模式: 代理识别不确定性 → 结构化提问 → 获得明确答案 → 执行
 ```
+
+<!-- AUTO-GENERATED-INSTALL:START -->
+## 安装速查
+
+以下为自动排行后的推荐安装入口，命令均可直接复制。
+
+### 主推安装
+
+| # | 插件 | 月下载量 | 安装命令 | 说明 |
+|---|---|---|---|---|
+| 1 | [@juicesharp/rpiv-ask-user-question](https://www.npmjs.com/package/@juicesharp/rpiv-ask-user-question) | 11,982 | `npm install @juicesharp/rpiv-ask-user-question` | Pi extension. A structured questionnaire the model can put to you when it would otherwi… |
+| 2 | [@juicesharp/rpiv-todo](https://www.npmjs.com/package/@juicesharp/rpiv-todo) | 11,493 | `npm install @juicesharp/rpiv-todo` | Pi extension. A todo list for the model, rendered as a live overlay that survives /relo… |
+| 3 | [@juicesharp/rpiv-btw](https://www.npmjs.com/package/@juicesharp/rpiv-btw) | 8,998 | `npm install @juicesharp/rpiv-btw` | Pi extension. The /btw slash command, for putting a one-off side question to the same p… |
+| 4 | [pi-ask-user](https://www.npmjs.com/package/pi-ask-user) | 7,740 | `npm install pi-ask-user` | Interactive ask_user tool for pi-coding-agent with searchable split-pane selection UI,… |
+| 5 | [pi-interview](https://www.npmjs.com/package/pi-interview) | 3,379 | `npm install pi-interview` | Interactive interview form extension for pi coding agent |
+
+### 全量目录
+
+本分类的完整插件清单与安装命令见 [PI 全量插件目录](../pi-extension-catalog.md)。
+<!-- AUTO-GENERATED-INSTALL:END -->

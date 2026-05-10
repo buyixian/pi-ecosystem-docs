@@ -82,3 +82,23 @@ PI Root → Sub PI → Sub-Sub PI → ...
 | 可恢复上下文 | ❌ | ❌ | ❌ | ✅ | ❌ |
 | 轻量无依赖 | ❌ | ❌ | ✅ | ❌ | ❌ |
 | 下载量 | 70k+ | 6k+ | 1.5k | 1.4k | 1.5k |
+
+<!-- AUTO-GENERATED-INSTALL:START -->
+## 安装速查
+
+以下为自动排行后的推荐安装入口，命令均可直接复制。
+
+### 主推安装
+
+| # | 插件 | 月下载量 | 安装命令 | 说明 |
+|---|---|---|---|---|
+| 1 | [pi-subagents](https://www.npmjs.com/package/pi-subagents) | 70,608 | `npm install pi-subagents` | Pi extension for delegating tasks to subagents with chains, parallel execution, and TUI… |
+| 2 | [pi-crew](https://www.npmjs.com/package/pi-crew) | 6,362 | `npm install pi-crew` | Pi extension for coordinated AI teams, workflows, worktrees, and async task orchestrati… |
+| 3 | [pi-minions](https://www.npmjs.com/package/pi-minions) | 1,564 | `npm install pi-minions` | Minimal recursive subagent orchestration for pi. No bundled agents, no opinions. |
+| 4 | [taskplane](https://www.npmjs.com/package/taskplane) | 7,639 | `npm install taskplane` | AI agent orchestration for pi — parallel task execution with checkpoint discipline |
+| 5 | [@tintinweb/pi-subagents](https://www.npmjs.com/package/@tintinweb/pi-subagents) | 7,587 | `npm install @tintinweb/pi-subagents` | A pi extension extension that brings smart Claude Code-style autonomous sub-agents to p… |
+
+### 全量目录
+
+本分类的完整插件清单与安装命令见 [PI 全量插件目录](../pi-extension-catalog.md)。
+<!-- AUTO-GENERATED-INSTALL:END -->

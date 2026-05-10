@@ -1,5 +1,8 @@
 # PI 扩展推荐清单与质量评估
 
+> 这是精选清单，不替代 [PI 全量插件目录](./pi-extension-catalog.md)。
+> 所有已收录插件都可直接使用 `npm install <包名>` 安装；自动排行规则为 `月下载量 -> 周下载量 -> 被依赖数 -> 包名`，少量人工前置项集中在 `scripts/doc-overrides.mjs`。
+
 ## 评估标准
 
 | 维度 | 权重 | 评估依据 |
@@ -96,6 +99,8 @@
 | `pi-pkg-guard` | 检测未注册/未授权扩展 |
 | `pi-resource-center` | 浏览和发现扩展 |
 | `@marcfargas/pi-test-harness` | 扩展测试框架 |
+
+> 注：`pi-pack` 当前未出现在本次 npm registry 快照中，因此这里只保留工具名；实际可安装项以全量目录为准。
 
 ---
 

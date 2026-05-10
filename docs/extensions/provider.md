@@ -51,3 +51,23 @@ api.registerProvider("my-llm", {
 ```
 
 关键：PI 的 `@earendil-works/pi-ai` 已提供统一 LLM 抽象，Provider 只需实现 `sendMessage`。
+
+<!-- AUTO-GENERATED-INSTALL:START -->
+## 安装速查
+
+以下为自动排行后的推荐安装入口，命令均可直接复制。
+
+### 主推安装
+
+| # | 插件 | 月下载量 | 安装命令 | 说明 |
+|---|---|---|---|---|
+| 1 | [pi-provider-kimi-code](https://www.npmjs.com/package/pi-provider-kimi-code) | 1,392 | `npm install pi-provider-kimi-code` | Pi extension for Kimi Code — reuse your Kimi Code Plan in pi-coding-agent (K2.6, K2.5) |
+| 2 | [@ramarivera/pi-ts-aperture-provider](https://www.npmjs.com/package/@ramarivera/pi-ts-aperture-provider) | 1,085 | `npm install @ramarivera/pi-ts-aperture-provider` | Config-driven aperture provider extraction for Pi-compatible extensions. |
+| 3 | [@sinamtz/pi-minimax-provider](https://www.npmjs.com/package/@sinamtz/pi-minimax-provider) | 916 | `npm install @sinamtz/pi-minimax-provider` | Pi coding agent provider for MiniMax AI - supports MiniMax M2 series models with Anthro… |
+| 4 | [pi-cursor-provider](https://www.npmjs.com/package/pi-cursor-provider) | 912 | `npm install pi-cursor-provider` | Pi extension providing access to Cursor models via OAuth and a local OpenAI-compatible… |
+| 5 | [pi-venice](https://www.npmjs.com/package/pi-venice) | 690 | `npm install pi-venice` | Pi Coding Agent extension for using Venice.ai as provider, access to ANY and ALL models… |
+
+### 全量目录
+
+本分类的完整插件清单与安装命令见 [PI 全量插件目录](../pi-extension-catalog.md)。
+<!-- AUTO-GENERATED-INSTALL:END -->

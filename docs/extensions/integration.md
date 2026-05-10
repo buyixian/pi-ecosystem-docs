@@ -37,3 +37,23 @@
 双向交互: PI ↔ 外部平台（命令+响应）
 深度嵌入: 外部平台作为 PI 运行载体（Telegram Runtime）
 ```
+
+<!-- AUTO-GENERATED-INSTALL:START -->
+## 安装速查
+
+以下为自动排行后的推荐安装入口，命令均可直接复制。
+
+### 主推安装
+
+| # | 插件 | 月下载量 | 安装命令 | 说明 |
+|---|---|---|---|---|
+| 1 | [whatsapp-pi](https://www.npmjs.com/package/whatsapp-pi) | 5,802 | `npm install whatsapp-pi` | WhatsApp integration extension for Pi |
+| 2 | [@feniix/pi-notion](https://www.npmjs.com/package/@feniix/pi-notion) | 4,872 | `npm install @feniix/pi-notion` | Notion API extension for pi — read, search, and manage Notion pages, databases, and con… |
+| 3 | [@llblab/pi-telegram](https://www.npmjs.com/package/@llblab/pi-telegram) | 4,712 | `npm install @llblab/pi-telegram` | Telegram Runtime Adapter for π |
+| 4 | [pi-convex](https://www.npmjs.com/package/pi-convex) | 4,573 | `npm install pi-convex` | Pi extension for Convex Cloud - queries, mutations, project management, and best practi… |
+| 5 | [@venthezone/picord](https://www.npmjs.com/package/@venthezone/picord) | 1,399 | `npm install @venthezone/picord` | Discord integration extension for pi that maps project channels to workspaces and threa… |
+
+### 全量目录
+
+本分类的完整插件清单与安装命令见 [PI 全量插件目录](../pi-extension-catalog.md)。
+<!-- AUTO-GENERATED-INSTALL:END -->

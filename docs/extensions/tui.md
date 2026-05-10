@@ -41,3 +41,23 @@ api.on("resources_discover", () => ({
 // Widget 挂载
 ctx.ui.setWidget("my-panel", content, { placement: "aboveEditor" });
 ```
+
+<!-- AUTO-GENERATED-INSTALL:START -->
+## 安装速查
+
+以下为自动排行后的推荐安装入口，命令均可直接复制。
+
+### 主推安装
+
+| # | 插件 | 月下载量 | 安装命令 | 说明 |
+|---|---|---|---|---|
+| 1 | [pi-powerline-footer](https://www.npmjs.com/package/pi-powerline-footer) | 11,650 | `npm install pi-powerline-footer` | Powerline-style status bar extension for pi coding agent |
+| 2 | [pi-btw](https://www.npmjs.com/package/pi-btw) | 9,095 | `npm install pi-btw` | A pi extension for parallel side conversations with /btw |
+| 3 | [pi-mermaid](https://www.npmjs.com/package/pi-mermaid) | 5,147 | `npm install pi-mermaid` | 🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI |
+| 4 | [pi-tool-display](https://www.npmjs.com/package/pi-tool-display) | 2,867 | `npm install pi-tool-display` | Compact tool call rendering, diff visualization, and output truncation extension for Pi… |
+| 5 | [amp-themes](https://www.npmjs.com/package/amp-themes) | 2,853 | `npm install amp-themes` | Amp-inspired Pi UI suite: theme, editor chrome, and compact tool display. |
+
+### 全量目录
+
+本分类的完整插件清单与安装命令见 [PI 全量插件目录](../pi-extension-catalog.md)。
+<!-- AUTO-GENERATED-INSTALL:END -->

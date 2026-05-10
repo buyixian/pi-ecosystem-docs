@@ -31,3 +31,23 @@ Workflow 扩展为 PI 注入**结构化开发流程**：规划→执行→审查
   TDD 强制、guard-rail 检查
   适用: 关键系统、合规要求
 ```
+
+<!-- AUTO-GENERATED-INSTALL:START -->
+## 安装速查
+
+以下为自动排行后的推荐安装入口，命令均可直接复制。
+
+### 主推安装
+
+| # | 插件 | 月下载量 | 安装命令 | 说明 |
+|---|---|---|---|---|
+| 1 | [@plannotator/pi-extension](https://www.npmjs.com/package/@plannotator/pi-extension) | 21,911 | `npm install @plannotator/pi-extension` | Plannotator Pi extension - interactive plan review with annotations, annotate agent mes… |
+| 2 | [pi-gsd](https://www.npmjs.com/package/pi-gsd) | 10,542 | `npm install pi-gsd` | Get Shit Done - Unofficial port of the renowned AI-native project-planning spec-driven… |
+| 3 | [@juicesharp/rpiv-pi](https://www.npmjs.com/package/@juicesharp/rpiv-pi) | 8,855 | `npm install @juicesharp/rpiv-pi` | A skill-based development workflow for Pi Agent. Five skills (research, design, plan, i… |
+| 4 | [@pi-unipi/workflow](https://www.npmjs.com/package/@pi-unipi/workflow) | 2,270 | `npm install @pi-unipi/workflow` | Structured development workflow commands for Pi coding agent |
+| 5 | [@tianhai/pi-workflow-kit](https://www.npmjs.com/package/@tianhai/pi-workflow-kit) | 2,144 | `npm install @tianhai/pi-workflow-kit` | Enforce structured brainstorm→plan→execute→finalize workflow with TDD discipline in AI… |
+
+### 全量目录
+
+本分类的完整插件清单与安装命令见 [PI 全量插件目录](../pi-extension-catalog.md)。
+<!-- AUTO-GENERATED-INSTALL:END -->
