@@ -2,7 +2,7 @@
 
 > 默认中文 · English mirror: [Open the English version](./pi-ecosystem-overview.en.md)
 
-> 自动生成于 2026-05-10 · 2,364 packages
+> 自动生成于 2026-05-11 · 2,364 packages
 
 ## 快速选型
 

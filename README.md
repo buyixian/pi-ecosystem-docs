@@ -1,7 +1,24 @@
-# PI 扩展生态系统文档
+# PI Extension Ecosystem · PI 扩展生态全景图
 
-> PI 编码代理的 npm 扩展包生态调研（2,364 包）· 16 大分类 · 开发指南 · 自动更新
-> 中文为默认版本，英文镜像见 [生态总览英文版](docs/pi-ecosystem-overview.en.md) 和 [全量插件目录英文版](docs/pi-extension-catalog.en.md) · 全量目录见 [PI 全量插件目录](docs/pi-extension-catalog.md) · 文档由 `scripts/generate-docs-from-data.mjs` 自动维护
+> 🔍 **2,364 个** PI 编码代理扩展的完整调研 · 16 大分类 · 34 细分类别 · 每周自动更新
+> 📊 A comprehensive, weekly-updated catalog of the PI agent extension ecosystem on npm.
+
+![packages](https://img.shields.io/badge/packages-2%2C364-blue)
+![categories](https://img.shields.io/badge/categories-16-green)
+![auto updated](https://img.shields.io/badge/updated-weekly-orange)
+![languages](https://img.shields.io/badge/docs-中文%20%7C%20English-lightgrey)
+![license](https://img.shields.io/github/license/buyixian/pi-ecosystem-docs)
+![last commit](https://img.shields.io/github/last-commit/buyixian/pi-ecosystem-docs)
+![stars](https://img.shields.io/github/stars/buyixian/pi-ecosystem-docs?style=social)
+
+中文为默认版本 · English mirrors: [ecosystem overview](docs/pi-ecosystem-overview.en.md) · [full catalog](docs/pi-extension-catalog.en.md)
+全量目录见 [PI 全量插件目录](docs/pi-extension-catalog.md) · 文档由 `scripts/generate-docs-from-data.mjs` 自动维护 · 数据更新见 [CHANGELOG](CHANGELOG.md)
+
+## 🤔 为什么选这里？
+
+- ✅ **全网最全**：穷举 npm 上所有标记 `pi-package` 的包（当前 2,364 个），不是手选精华
+- ✅ **永远新鲜**：GitHub Actions 每周一同步 npm registry，自动分类、排序、出 PR
+- ✅ **精准分类**：16 大类 × 34 细分类别，基于真实月下载量排序，可溯源
 
 ## 🎯 快速选型
 

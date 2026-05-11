@@ -43,8 +43,22 @@
 1. Fork 本仓库
 2. 创建特性分支：`feat/your-change`
 3. 提交修改
-4. 确保 `node scripts/sync-npm-registry.mjs --dry-run` 通过
+4. 确保以下命令都能通过：
+   - `node scripts/sync-npm-registry.mjs --dry-run`（仅用现有 JSON 重新分类/生成报告）
+   - `node scripts/generate-docs-from-data.mjs`（重生成文档）
+   - `node scripts/generate-changelog.mjs`（生成本次变更日志条目）
 5. 发起 Pull Request
+
+## 自动化管线说明
+
+每周一 03:00 UTC 由 GitHub Actions 按以下顺序执行：
+
+1. `sync-npm-registry.mjs` 拉取 npm 数据，写入 `data/all-packages.json`、`data/classified-v2.json`、`data/ecosystem-report.json`
+2. 检测 `data/` 有变化后，运行 `generate-docs-from-data.mjs` 重生成中英双语文档
+3. 运行 `generate-changelog.mjs`，对比 `data/.changelog-snapshot.json` 和最新数据，把本周差异（新增/消失包、下载量涨跌 Top 5）追加到 `CHANGELOG.md`
+4. `peter-evans/create-pull-request` 把所有改动打包成 PR（分支 `auto/ecosystem-update`）
+
+> ⚠️ `data/.changelog-snapshot.json` 是 CHANGELOG 的对比基线，必须随仓库提交，不能加入 `.gitignore`，否则每次 CI 都会当作首次运行而无法生成条目。
 
 ## 行为准则
 

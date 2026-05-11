@@ -1,0 +1,9462 @@
+{
+  "capturedAt": "2026-05-11T07:06:11.595Z",
+  "total": 2364,
+  "byName": {
+    "pi-subagents": {
+      "monthly": 70608,
+      "weekly": 24796
+    },
+    "context-mode": {
+      "monthly": 57781,
+      "weekly": 21527
+    },
+    "pi-mcp-adapter": {
+      "monthly": 59788,
+      "weekly": 23691
+    },
+    "pi-web-access": {
+      "monthly": 34332,
+      "weekly": 18625
+    },
+    "@ollama/pi-web-search": {
+      "monthly": 26114,
+      "weekly": 6897
+    },
+    "@plannotator/pi-extension": {
+      "monthly": 21911,
+      "weekly": 7480
+    },
+    "pi-lens": {
+      "monthly": 13237,
+      "weekly": 5150
+    },
+    "@juicesharp/rpiv-ask-user-question": {
+      "monthly": 11982,
+      "weekly": 5025
+    },
+    "pi-markdown-preview": {
+      "monthly": 12052,
+      "weekly": 2541
+    },
+    "pi-powerline-footer": {
+      "monthly": 11650,
+      "weekly": 3043
+    },
+    "@juicesharp/rpiv-todo": {
+      "monthly": 11493,
+      "weekly": 4479
+    },
+    "pi-simplify": {
+      "monthly": 10180,
+      "weekly": 8498
+    },
+    "pi-gsd": {
+      "monthly": 10542,
+      "weekly": 890
+    },
+    "pi-btw": {
+      "monthly": 9095,
+      "weekly": 2780
+    },
+    "@runfusion/fusion": {
+      "monthly": 8990,
+      "weekly": 2627
+    },
+    "@juicesharp/rpiv-btw": {
+      "monthly": 8998,
+      "weekly": 2847
+    },
+    "glimpseui": {
+      "monthly": 8683,
+      "weekly": 2273
+    },
+    "@juicesharp/rpiv-advisor": {
+      "monthly": 9294,
+      "weekly": 2876
+    },
+    "@juicesharp/rpiv-args": {
+      "monthly": 7370,
+      "weekly": 2478
+    },
+    "@juicesharp/rpiv-web-tools": {
+      "monthly": 9054,
+      "weekly": 2739
+    },
+    "@samfp/pi-memory": {
+      "monthly": 8013,
+      "weekly": 1828
+    },
+    "@juicesharp/rpiv-pi": {
+      "monthly": 8855,
+      "weekly": 2393
+    },
+    "pi-ask-user": {
+      "monthly": 7740,
+      "weekly": 3857
+    },
+    "@tintinweb/pi-subagents": {
+      "monthly": 7587,
+      "weekly": 2362
+    },
+    "@callumvass/forgeflow-dev": {
+      "monthly": 7261,
+      "weekly": 128
+    },
+    "@aliou/pi-processes": {
+      "monthly": 7675,
+      "weekly": 1226
+    },
+    "taskplane": {
+      "monthly": 7639,
+      "weekly": 1395
+    },
+    "@tmustier/pi-ralph-wiggum": {
+      "monthly": 6130,
+      "weekly": 1049
+    },
+    "pi-smart-fetch": {
+      "monthly": 7255,
+      "weekly": 1220
+    },
+    "@gotgenes/pi-permission-system": {
+      "monthly": 6421,
+      "weekly": 7428
+    },
+    "pi-prompt-template-model": {
+      "monthly": 5775,
+      "weekly": 2008
+    },
+    "@astrofoundry/pi-astro": {
+      "monthly": 5428,
+      "weekly": 639
+    },
+    "pi-agent-flow": {
+      "monthly": 6507,
+      "weekly": 2612
+    },
+    "pi-studio": {
+      "monthly": 5873,
+      "weekly": 1246
+    },
+    "pi-crew": {
+      "monthly": 6362,
+      "weekly": 1019
+    },
+    "@heart-of-gold/toolkit": {
+      "monthly": 6099,
+      "weekly": 608
+    },
+    "pi-depo": {
+      "monthly": 5347,
+      "weekly": 105
+    },
+    "@companion-ai/feynman": {
+      "monthly": 5525,
+      "weekly": 1503
+    },
+    "pi-docparser": {
+      "monthly": 5343,
+      "weekly": 974
+    },
+    "whatsapp-pi": {
+      "monthly": 5802,
+      "weekly": 496
+    },
+    "@llblab/pi-telegram": {
+      "monthly": 4712,
+      "weekly": 2597
+    },
+    "pi-schedule-prompt": {
+      "monthly": 5006,
+      "weekly": 915
+    },
+    "@ff-labs/pi-fff": {
+      "monthly": 4963,
+      "weekly": 2500
+    },
+    "pi-intercom": {
+      "monthly": 5430,
+      "weekly": 2303
+    },
+    "pi-agent-browser-native": {
+      "monthly": 4410,
+      "weekly": 1644
+    },
+    "@leing2021/super-pi": {
+      "monthly": 5188,
+      "weekly": 464
+    },
+    "pi-lean-ctx": {
+      "monthly": 4719,
+      "weekly": 1389
+    },
+    "pi-mermaid": {
+      "monthly": 5147,
+      "weekly": 610
+    },
+    "@kaiserlich-dev/pi-session-search": {
+      "monthly": 4217,
+      "weekly": 337
+    },
+    "dripline": {
+      "monthly": 4425,
+      "weekly": 313
+    },
+    "pi-convex": {
+      "monthly": 4573,
+      "weekly": 546
+    },
+    "@feniix/pi-notion": {
+      "monthly": 4872,
+      "weekly": 60
+    },
+    "pi-memctx": {
+      "monthly": 3883,
+      "weekly": 3061
+    },
+    "@aliou/pi-guardrails": {
+      "monthly": 4145,
+      "weekly": 1384
+    },
+    "@walterra/pi-charts": {
+      "monthly": 4169,
+      "weekly": 326
+    },
+    "@callumvass/forgeflow-pm": {
+      "monthly": 4137,
+      "weekly": 51
+    },
+    "@vtstech/pi-shared": {
+      "monthly": 4513,
+      "weekly": 786
+    },
+    "@apmantza/greedysearch-pi": {
+      "monthly": 4015,
+      "weekly": 783
+    },
+    "pi-interactive-shell": {
+      "monthly": 3961,
+      "weekly": 729
+    },
+    "pi-zotero": {
+      "monthly": 3645,
+      "weekly": 468
+    },
+    "pi-oracle": {
+      "monthly": 3547,
+      "weekly": 749
+    },
+    "@ifi/oh-pi-themes": {
+      "monthly": 3836,
+      "weekly": 1335
+    },
+    "@pi-unipi/core": {
+      "monthly": 3445,
+      "weekly": 1942
+    },
+    "pi-antigravity-rotator": {
+      "monthly": 3683,
+      "weekly": 651
+    },
+    "pi-hermes-memory": {
+      "monthly": 3659,
+      "weekly": 3363
+    },
+    "@lnilluv/pi-ralph-loop": {
+      "monthly": 3040,
+      "weekly": 751
+    },
+    "pi-teams": {
+      "monthly": 3192,
+      "weekly": 335
+    },
+    "pi-memory-md": {
+      "monthly": 3139,
+      "weekly": 815
+    },
+    "pi-tool-display": {
+      "monthly": 2867,
+      "weekly": 877
+    },
+    "@arshan-dev/pi-ideas": {
+      "monthly": 3112,
+      "weekly": 140
+    },
+    "pi-interview": {
+      "monthly": 3379,
+      "weekly": 762
+    },
+    "@vtstech/pi-api": {
+      "monthly": 2766,
+      "weekly": 518
+    },
+    "@vtstech/pi-security": {
+      "monthly": 2984,
+      "weekly": 551
+    },
+    "pi-qmd-ledger": {
+      "monthly": 2871,
+      "weekly": 695
+    },
+    "@feniix/pi-exa": {
+      "monthly": 2696,
+      "weekly": 290
+    },
+    "amp-themes": {
+      "monthly": 2853,
+      "weekly": 392
+    },
+    "@feniix/pi-specdocs": {
+      "monthly": 3214,
+      "weekly": 117
+    },
+    "@0xkobold/pi-codebase-wiki": {
+      "monthly": 2648,
+      "weekly": 662
+    },
+    "agent-comms": {
+      "monthly": 3132,
+      "weekly": 86
+    },
+    "@vtstech/pi-ollama-sync": {
+      "monthly": 2877,
+      "weekly": 544
+    },
+    "@blackbelt-technology/pi-agent-dashboard": {
+      "monthly": 3082,
+      "weekly": 1057
+    },
+    "@vtstech/pi-status": {
+      "monthly": 3046,
+      "weekly": 557
+    },
+    "@bdsqqq/pi": {
+      "monthly": 2967,
+      "weekly": 1030
+    },
+    "pi-continue": {
+      "monthly": 2677,
+      "weekly": 1178
+    },
+    "@eforge-build/pi-eforge": {
+      "monthly": 2751,
+      "weekly": 517
+    },
+    "@pi-unipi/info-screen": {
+      "monthly": 2932,
+      "weekly": 1243
+    },
+    "pi-claude-style-tools": {
+      "monthly": 2616,
+      "weekly": 856
+    },
+    "@aretw0/web-skills": {
+      "monthly": 2457,
+      "weekly": 71
+    },
+    "@vtstech/pi-model-test": {
+      "monthly": 2935,
+      "weekly": 543
+    },
+    "@vtstech/pi-diag": {
+      "monthly": 2853,
+      "weekly": 539
+    },
+    "@ifi/pi-plan": {
+      "monthly": 2446,
+      "weekly": 850
+    },
+    "oira666_pi-subagent": {
+      "monthly": 2823,
+      "weekly": 368
+    },
+    "@vtstech/pi-react-fallback": {
+      "monthly": 2637,
+      "weekly": 342
+    },
+    "@sting8k/pi-vcc": {
+      "monthly": 2580,
+      "weekly": 345
+    },
+    "@tmustier/pi-usage-extension": {
+      "monthly": 2473,
+      "weekly": 489
+    },
+    "@howaboua/pi-codex-conversion": {
+      "monthly": 2464,
+      "weekly": 537
+    },
+    "runline": {
+      "monthly": 2408,
+      "weekly": 549
+    },
+    "@codexstar/pi-listen": {
+      "monthly": 2208,
+      "weekly": 704
+    },
+    "@ifi/pi-extension-subagents": {
+      "monthly": 2551,
+      "weekly": 893
+    },
+    "pi-multiagent": {
+      "monthly": 2301,
+      "weekly": 1878
+    },
+    "@marcfargas/pi-test-harness": {
+      "monthly": 2552,
+      "weekly": 153
+    },
+    "@ifi/oh-pi-skills": {
+      "monthly": 2159,
+      "weekly": 719
+    },
+    "@juanibiapina/pi-powerbar": {
+      "monthly": 2157,
+      "weekly": 465
+    },
+    "@spences10/pi-mcp": {
+      "monthly": 2500,
+      "weekly": 1703
+    },
+    "@tianhai/pi-workflow-kit": {
+      "monthly": 2144,
+      "weekly": 526
+    },
+    "@aretw0/pi-stack": {
+      "monthly": 2304,
+      "weekly": 41
+    },
+    "@aliou/pi-synthetic": {
+      "monthly": 2514,
+      "weekly": 741
+    },
+    "pi-cider": {
+      "monthly": 2293,
+      "weekly": 350
+    },
+    "@aretw0/lab-skills": {
+      "monthly": 2206,
+      "weekly": 40
+    },
+    "@pi-unipi/workflow": {
+      "monthly": 2270,
+      "weekly": 1099
+    },
+    "pi-fast-subagent": {
+      "monthly": 2081,
+      "weekly": 338
+    },
+    "@aretw0/git-skills": {
+      "monthly": 2425,
+      "weekly": 78
+    },
+    "@feniix/pi-devtools": {
+      "monthly": 2429,
+      "weekly": 202
+    },
+    "pi-context-prune": {
+      "monthly": 2397,
+      "weekly": 1319
+    },
+    "pi-caveman": {
+      "monthly": 2357,
+      "weekly": 932
+    },
+    "@aretw0/pi-skills": {
+      "monthly": 2208,
+      "weekly": 41
+    },
+    "pi-extmgr": {
+      "monthly": 2023,
+      "weekly": 633
+    },
+    "@outlit/pi": {
+      "monthly": 2133,
+      "weekly": 423
+    },
+    "pi-free": {
+      "monthly": 2131,
+      "weekly": 932
+    },
+    "pi-extensions": {
+      "monthly": 2114,
+      "weekly": 105
+    },
+    "@woxqaq/pi-web": {
+      "monthly": 2141,
+      "weekly": 361
+    },
+    "@juanibiapina/pi-extension-settings": {
+      "monthly": 2137,
+      "weekly": 855
+    },
+    "@curl.md/pi": {
+      "monthly": 2326,
+      "weekly": 451
+    },
+    "pi-total-recall": {
+      "monthly": 2264,
+      "weekly": 1400
+    },
+    "pi-cc": {
+      "monthly": 2111,
+      "weekly": 12
+    },
+    "@heyhuynhgiabuu/pi-pretty": {
+      "monthly": 2051,
+      "weekly": 481
+    },
+    "@axnic/pi-extension-settings": {
+      "monthly": 2255,
+      "weekly": 51
+    },
+    "pi-observational-memory": {
+      "monthly": 1870,
+      "weekly": 434
+    },
+    "pi-rtk-optimizer": {
+      "monthly": 2191,
+      "weekly": 917
+    },
+    "@vtstech/pi-openrouter-sync": {
+      "monthly": 2166,
+      "weekly": 555
+    },
+    "pi-claude-bridge": {
+      "monthly": 1974,
+      "weekly": 261
+    },
+    "@lpirito/pi-diffloop": {
+      "monthly": 2154,
+      "weekly": 40
+    },
+    "@spences10/pi-lsp": {
+      "monthly": 2092,
+      "weekly": 1392
+    },
+    "@beatly/core": {
+      "monthly": 1778,
+      "weekly": 18
+    },
+    "@tungthedev/pi-extensions": {
+      "monthly": 1765,
+      "weekly": 356
+    },
+    "@ifi/oh-pi-prompts": {
+      "monthly": 1755,
+      "weekly": 659
+    },
+    "@marckrenn/pi-sub-core": {
+      "monthly": 2044,
+      "weekly": 541
+    },
+    "@eko24ive/pi-ask": {
+      "monthly": 2017,
+      "weekly": 706
+    },
+    "@pi-unipi/web-api": {
+      "monthly": 2064,
+      "weekly": 1067
+    },
+    "@rwese/pi-question": {
+      "monthly": 1851,
+      "weekly": 243
+    },
+    "@axnic/pi-extension-settings-sdk": {
+      "monthly": 1815,
+      "weekly": 12
+    },
+    "@ifi/pi-spec": {
+      "monthly": 1857,
+      "weekly": 644
+    },
+    "@spences10/pi-team-mode": {
+      "monthly": 1853,
+      "weekly": 1607
+    },
+    "@spences10/pi-skills": {
+      "monthly": 1824,
+      "weekly": 1331
+    },
+    "@codexstar/pi-pompom": {
+      "monthly": 1942,
+      "weekly": 165
+    },
+    "@davidorex/pi-project": {
+      "monthly": 1950,
+      "weekly": 333
+    },
+    "@0xkobold/pi-ollama": {
+      "monthly": 1921,
+      "weekly": 453
+    },
+    "pi-fff": {
+      "monthly": 1658,
+      "weekly": 80
+    },
+    "@ifi/oh-pi-ant-colony": {
+      "monthly": 1772,
+      "weekly": 596
+    },
+    "@ifi/oh-pi-extensions": {
+      "monthly": 1792,
+      "weekly": 585
+    },
+    "sterlai": {
+      "monthly": 1717,
+      "weekly": 12
+    },
+    "@sentiolabs/pi-arc": {
+      "monthly": 1731,
+      "weekly": 1214
+    },
+    "@linimin/pi-letscook": {
+      "monthly": 1729,
+      "weekly": 1243
+    },
+    "pi-continuous-learning": {
+      "monthly": 1706,
+      "weekly": 366
+    },
+    "pi-runline": {
+      "monthly": 1831,
+      "weekly": 383
+    },
+    "pi-tidy-mcp-adapter": {
+      "monthly": 1583,
+      "weekly": 388
+    },
+    "@lincoln504/pi-research": {
+      "monthly": 1719,
+      "weekly": 82
+    },
+    "@davidorex/pi-workflows": {
+      "monthly": 1793,
+      "weekly": 316
+    },
+    "latchkey": {
+      "monthly": 1657,
+      "weekly": 328
+    },
+    "@pi-unipi/memory": {
+      "monthly": 1776,
+      "weekly": 991
+    },
+    "omni-pi": {
+      "monthly": 1650,
+      "weekly": 321
+    },
+    "@feniix/pi-conductor": {
+      "monthly": 1532,
+      "weekly": 169
+    },
+    "pi-resource-center": {
+      "monthly": 1652,
+      "weekly": 205
+    },
+    "@juicesharp/rpiv-i18n": {
+      "monthly": 1795,
+      "weekly": 1795
+    },
+    "oh-my-opencode-pi": {
+      "monthly": 1646,
+      "weekly": 29
+    },
+    "@alexanderfortin/pi-tavily-tools": {
+      "monthly": 1504,
+      "weekly": 122
+    },
+    "@pi-unipi/unipi": {
+      "monthly": 1774,
+      "weekly": 1047
+    },
+    "@davidorex/pi-behavior-monitors": {
+      "monthly": 1620,
+      "weekly": 242
+    },
+    "pi-agent-memory": {
+      "monthly": 1492,
+      "weekly": 63
+    },
+    "@0xkobold/pi-kobold": {
+      "monthly": 1734,
+      "weekly": 193
+    },
+    "pi-context": {
+      "monthly": 1728,
+      "weekly": 311
+    },
+    "pi-pkg-guard": {
+      "monthly": 1692,
+      "weekly": 156
+    },
+    "@unbrained/pm-cli": {
+      "monthly": 1439,
+      "weekly": 1190
+    },
+    "pi-messenger-swarm": {
+      "monthly": 1533,
+      "weekly": 141
+    },
+    "pi-better-openai": {
+      "monthly": 1610,
+      "weekly": 946
+    },
+    "pi-subdir-context": {
+      "monthly": 1506,
+      "weekly": 402
+    },
+    "pi-boomerang": {
+      "monthly": 1582,
+      "weekly": 784
+    },
+    "@sinamtz/pi-mempalace": {
+      "monthly": 1486,
+      "weekly": 53
+    },
+    "pi-agent-mode": {
+      "monthly": 1484,
+      "weekly": 190
+    },
+    "pi-sandbox": {
+      "monthly": 1477,
+      "weekly": 560
+    },
+    "pi-minions": {
+      "monthly": 1564,
+      "weekly": 276
+    },
+    "pi-gemini-acp": {
+      "monthly": 1581,
+      "weekly": 1581
+    },
+    "pi-mono-team-mode": {
+      "monthly": 1463,
+      "weekly": 323
+    },
+    "@diegopetrucci/pi-extensions": {
+      "monthly": 1453,
+      "weekly": 90
+    },
+    "pi-autoresearch": {
+      "monthly": 1451,
+      "weekly": 943
+    },
+    "@feniix/pi-ref-tools": {
+      "monthly": 1449,
+      "weekly": 11
+    },
+    "clickup-cu": {
+      "monthly": 1429,
+      "weekly": 1429
+    },
+    "pi-glance": {
+      "monthly": 1439,
+      "weekly": 194
+    },
+    "@jessenguyen22/pi-tool-router": {
+      "monthly": 1544,
+      "weekly": 320
+    },
+    "@walodayeet/hindsight-pi": {
+      "monthly": 1537,
+      "weekly": 178
+    },
+    "@davidorex/pi-project-workflows": {
+      "monthly": 1428,
+      "weekly": 210
+    },
+    "pi-mono-ask-user-question": {
+      "monthly": 1407,
+      "weekly": 83
+    },
+    "pi-agent-extensions": {
+      "monthly": 1523,
+      "weekly": 346
+    },
+    "pi-web-providers": {
+      "monthly": 1377,
+      "weekly": 423
+    },
+    "@venthezone/picord": {
+      "monthly": 1399,
+      "weekly": 78
+    },
+    "pi-1password": {
+      "monthly": 1382,
+      "weekly": 17
+    },
+    "@pi-unipi/btw": {
+      "monthly": 1329,
+      "weekly": 1034
+    },
+    "pi-hindsight": {
+      "monthly": 1482,
+      "weekly": 219
+    },
+    "pi-quests": {
+      "monthly": 1462,
+      "weekly": 221
+    },
+    "bmw-lex": {
+      "monthly": 1339,
+      "weekly": 18
+    },
+    "@pi-unipi/ask-user": {
+      "monthly": 1341,
+      "weekly": 1065
+    },
+    "pi-bridge": {
+      "monthly": 1320,
+      "weekly": 1320
+    },
+    "@touchskyer/memex": {
+      "monthly": 1449,
+      "weekly": 437
+    },
+    "pi-copy-user-message": {
+      "monthly": 1429,
+      "weekly": 253
+    },
+    "@gotgenes/pi-anthropic-auth": {
+      "monthly": 1227,
+      "weekly": 351
+    },
+    "@fitchmultz/pi-stash": {
+      "monthly": 1322,
+      "weekly": 287
+    },
+    "pi-permission-system": {
+      "monthly": 1411,
+      "weekly": 613
+    },
+    "@kinarajv/pi-tps-extensions": {
+      "monthly": 1311,
+      "weekly": 1311
+    },
+    "pi-local-agents-only": {
+      "monthly": 1207,
+      "weekly": 246
+    },
+    "@the-forge-flow/hippo-memory-pi": {
+      "monthly": 1288,
+      "weekly": 21
+    },
+    "opencandle": {
+      "monthly": 1258,
+      "weekly": 864
+    },
+    "@injaneity/pi-computer-use": {
+      "monthly": 1399,
+      "weekly": 189
+    },
+    "pi-librarian": {
+      "monthly": 1287,
+      "weekly": 168
+    },
+    "@pi-unipi/ralph": {
+      "monthly": 1286,
+      "weekly": 938
+    },
+    "pi-provider-kimi-code": {
+      "monthly": 1392,
+      "weekly": 132
+    },
+    "pi-agent-suite": {
+      "monthly": 1388,
+      "weekly": 238
+    },
+    "@feniix/pi-sequential-thinking": {
+      "monthly": 1279,
+      "weekly": 31
+    },
+    "pi-simocracy": {
+      "monthly": 1370,
+      "weekly": 1370
+    },
+    "@the-forge-flow/gh-pi": {
+      "monthly": 1273,
+      "weekly": 37
+    },
+    "@alexanderfortin/pi-loaded-tools": {
+      "monthly": 1350,
+      "weekly": 229
+    },
+    "@ryan_nookpi/pi-extension-ask-user-question": {
+      "monthly": 1271,
+      "weekly": 171
+    },
+    "pi-edit-session-in-place": {
+      "monthly": 1221,
+      "weekly": 273
+    },
+    "pi-token-burden": {
+      "monthly": 1239,
+      "weekly": 583
+    },
+    "@guwidoe/pi-prompt-suggester": {
+      "monthly": 1157,
+      "weekly": 71
+    },
+    "@pi-unipi/mcp": {
+      "monthly": 1252,
+      "weekly": 982
+    },
+    "pi-llama-cpp": {
+      "monthly": 1245,
+      "weekly": 443
+    },
+    "pi-code-previews": {
+      "monthly": 1349,
+      "weekly": 853
+    },
+    "pi-thinking-steps": {
+      "monthly": 1335,
+      "weekly": 102
+    },
+    "pi-hashline-readmap": {
+      "monthly": 1144,
+      "weekly": 308
+    },
+    "@feniix/pi-statusline": {
+      "monthly": 1236,
+      "weekly": 49
+    },
+    "@pi-unipi/notify": {
+      "monthly": 1233,
+      "weekly": 1184
+    },
+    "pi-delegate": {
+      "monthly": 1327,
+      "weekly": 306
+    },
+    "pi-workspace-history": {
+      "monthly": 1125,
+      "weekly": 733
+    },
+    "@0xkobold/pi-gateway": {
+      "monthly": 1319,
+      "weekly": 195
+    },
+    "@micuintus/llm-wiki": {
+      "monthly": 1211,
+      "weekly": 828
+    },
+    "pi-island": {
+      "monthly": 1178,
+      "weekly": 51
+    },
+    "pi-wecombot": {
+      "monthly": 1204,
+      "weekly": 289
+    },
+    "@kmiyh/pi-skills-menu": {
+      "monthly": 1189,
+      "weekly": 42
+    },
+    "@casualjim/pi-heimdall": {
+      "monthly": 1289,
+      "weekly": 1079
+    },
+    "@ineersa/my-pi-extensions": {
+      "monthly": 1187,
+      "weekly": 26
+    },
+    "@feniix/pi-code-reasoning": {
+      "monthly": 1175,
+      "weekly": 32
+    },
+    "pi-session-search": {
+      "monthly": 1244,
+      "weekly": 656
+    },
+    "pi-dingtalkbot": {
+      "monthly": 1070,
+      "weekly": 17
+    },
+    "pi-gh-my-starred": {
+      "monthly": 1154,
+      "weekly": 345
+    },
+    "mempalace-pi": {
+      "monthly": 1145,
+      "weekly": 335
+    },
+    "@tintinweb/pi-tasks": {
+      "monthly": 1143,
+      "weekly": 582
+    },
+    "pi-twincat-ads": {
+      "monthly": 1053,
+      "weekly": 47
+    },
+    "@the-forge-flow/fff-pi": {
+      "monthly": 1138,
+      "weekly": 31
+    },
+    "pi-memory": {
+      "monthly": 1211,
+      "weekly": 200
+    },
+    "pi-ollama-cloud": {
+      "monthly": 1113,
+      "weekly": 601
+    },
+    "@tmustier/pi-raw-paste": {
+      "monthly": 1035,
+      "weekly": 326
+    },
+    "pi-knowledge-search": {
+      "monthly": 1114,
+      "weekly": 505
+    },
+    "pi-faithless-subagents": {
+      "monthly": 1206,
+      "weekly": 31
+    },
+    "awto-pi-lot": {
+      "monthly": 1098,
+      "weekly": 282
+    },
+    "pi-annotate": {
+      "monthly": 1109,
+      "weekly": 149
+    },
+    "@oppiai/pi-package": {
+      "monthly": 1200,
+      "weekly": 1200
+    },
+    "pi-container-sandbox": {
+      "monthly": 1199,
+      "weekly": 1078
+    },
+    "pi-messenger": {
+      "monthly": 1071,
+      "weekly": 220
+    },
+    "@demigodmode/pi-web-agent": {
+      "monthly": 1087,
+      "weekly": 396
+    },
+    "pi-byteplus-modelark": {
+      "monthly": 1082,
+      "weekly": 652
+    },
+    "pi-rewind": {
+      "monthly": 1094,
+      "weekly": 196
+    },
+    "@spences10/pi-telemetry": {
+      "monthly": 1172,
+      "weekly": 798
+    },
+    "@ineersa/my-pi-themes": {
+      "monthly": 1171,
+      "weekly": 21
+    },
+    "eslint-plugin-lookup-table": {
+      "monthly": 1181,
+      "weekly": 22
+    },
+    "@chewey182/multipi": {
+      "monthly": 1167,
+      "weekly": 525
+    },
+    "@spences10/pi-context": {
+      "monthly": 1059,
+      "weekly": 1059
+    },
+    "@ontomics/ontomics": {
+      "monthly": 1085,
+      "weekly": 87
+    },
+    "@ramarivera/pi-ts-aperture-provider": {
+      "monthly": 1085,
+      "weekly": 13
+    },
+    "@tmustier/pi-files-widget": {
+      "monthly": 1144,
+      "weekly": 121
+    },
+    "@neuralpartners/pi-yo": {
+      "monthly": 997,
+      "weekly": 402
+    },
+    "pi-link": {
+      "monthly": 1140,
+      "weekly": 437
+    },
+    "pi-answer": {
+      "monthly": 1153,
+      "weekly": 266
+    },
+    "@pi-unipi/compactor": {
+      "monthly": 1075,
+      "weekly": 988
+    },
+    "pi-cursor-agent": {
+      "monthly": 1062,
+      "weekly": 631
+    },
+    "pi-mempalace-extension": {
+      "monthly": 1162,
+      "weekly": 18
+    },
+    "@victor-software-house/pi-curated-themes": {
+      "monthly": 1058,
+      "weekly": 351
+    },
+    "@dkmnx/pi-clarify": {
+      "monthly": 1132,
+      "weekly": 265
+    },
+    "@llblab/pi-auto-tools": {
+      "monthly": 1047,
+      "weekly": 846
+    },
+    "@dreki-gg/pi-context7": {
+      "monthly": 1119,
+      "weekly": 209
+    },
+    "pi-terminal-theme": {
+      "monthly": 1106,
+      "weekly": 368
+    },
+    "@ineersa/my-pi-scheduler": {
+      "monthly": 1118,
+      "weekly": 17
+    },
+    "@ineersa/my-pi": {
+      "monthly": 1116,
+      "weekly": 14
+    },
+    "@devkade/pi-plan": {
+      "monthly": 962,
+      "weekly": 357
+    },
+    "@harlley/todomd": {
+      "monthly": 1029,
+      "weekly": 1029
+    },
+    "@pi-unipi/utility": {
+      "monthly": 1110,
+      "weekly": 941
+    },
+    "@aholbreich/agent-skills": {
+      "monthly": 1021,
+      "weekly": 1021
+    },
+    "@ogulcancelik/pi-herdr": {
+      "monthly": 945,
+      "weekly": 119
+    },
+    "@pi-unipi/command-enchantment": {
+      "monthly": 1092,
+      "weekly": 1036
+    },
+    "pi-mono-review": {
+      "monthly": 1007,
+      "weekly": 163
+    },
+    "pi-mono-status-line": {
+      "monthly": 942,
+      "weekly": 55
+    },
+    "@teelicht/pi-superagents": {
+      "monthly": 1099,
+      "weekly": 329
+    },
+    "pi-capitals-context": {
+      "monthly": 1098,
+      "weekly": 14
+    },
+    "@spences10/pi-confirm-destructive": {
+      "monthly": 1095,
+      "weekly": 483
+    },
+    "@alexanderfortin/pi-zai-usage": {
+      "monthly": 999,
+      "weekly": 239
+    },
+    "pi-morphllm-plugin": {
+      "monthly": 1004,
+      "weekly": 1004
+    },
+    "rad-pi": {
+      "monthly": 930,
+      "weekly": 276
+    },
+    "@the-forge-flow/gitnexus-pi": {
+      "monthly": 974,
+      "weekly": 12
+    },
+    "@spences10/pi-redact": {
+      "monthly": 1067,
+      "weekly": 700
+    },
+    "pi-constell-plan": {
+      "monthly": 1072,
+      "weekly": 16
+    },
+    "pi-vision-proxy": {
+      "monthly": 979,
+      "weekly": 979
+    },
+    "pi-rewind-hook": {
+      "monthly": 989,
+      "weekly": 164
+    },
+    "@lnilluv/pi-opencode-go-rotation": {
+      "monthly": 985,
+      "weekly": 163
+    },
+    "pi-fancy-footer": {
+      "monthly": 910,
+      "weekly": 249
+    },
+    "@the-forge-flow/lightpanda-pi": {
+      "monthly": 908,
+      "weekly": 21
+    },
+    "mitsupi": {
+      "monthly": 978,
+      "weekly": 155
+    },
+    "@ifi/pi-web-remote": {
+      "monthly": 977,
+      "weekly": 432
+    },
+    "pi-mono-multi-edit": {
+      "monthly": 1034,
+      "weekly": 95
+    },
+    "pi-themes": {
+      "monthly": 1055,
+      "weekly": 341
+    },
+    "graphify-pi": {
+      "monthly": 1024,
+      "weekly": 203
+    },
+    "pi-playwright": {
+      "monthly": 954,
+      "weekly": 140
+    },
+    "pi-powerline": {
+      "monthly": 936,
+      "weekly": 936
+    },
+    "@pi-unipi/milestone": {
+      "monthly": 961,
+      "weekly": 961
+    },
+    "pi-orch-extension": {
+      "monthly": 957,
+      "weekly": 727
+    },
+    "@pi-unipi/kanboard": {
+      "monthly": 941,
+      "weekly": 941
+    },
+    "pi-scraper": {
+      "monthly": 880,
+      "weekly": 880
+    },
+    "pi-nvidia-nim": {
+      "monthly": 879,
+      "weekly": 557
+    },
+    "voipi": {
+      "monthly": 937,
+      "weekly": 109
+    },
+    "pi-mono-btw": {
+      "monthly": 1011,
+      "weekly": 39
+    },
+    "pi-agentteam": {
+      "monthly": 1010,
+      "weekly": 266
+    },
+    "pi-mono-simplify": {
+      "monthly": 915,
+      "weekly": 29
+    },
+    "pi-show-diffs": {
+      "monthly": 870,
+      "weekly": 141
+    },
+    "@alexanderfortin/pi-freestyle-sandbox": {
+      "monthly": 927,
+      "weekly": 42
+    },
+    "pi-doc-injector": {
+      "monthly": 931,
+      "weekly": 410
+    },
+    "@open-hax/uxx": {
+      "monthly": 929,
+      "weekly": 166
+    },
+    "pi-hashline-edit": {
+      "monthly": 982,
+      "weekly": 196
+    },
+    "pi-codex-goal": {
+      "monthly": 992,
+      "weekly": 992
+    },
+    "@sinamtz/pi-minimax-provider": {
+      "monthly": 916,
+      "weekly": 33
+    },
+    "@0xkobold/pi-orchestration": {
+      "monthly": 990,
+      "weekly": 162
+    },
+    "pi-json-tools": {
+      "monthly": 920,
+      "weekly": 920
+    },
+    "pi-unified-exec": {
+      "monthly": 852,
+      "weekly": 368
+    },
+    "pi-gitnexus": {
+      "monthly": 991,
+      "weekly": 485
+    },
+    "pi-gotify-notifier": {
+      "monthly": 913,
+      "weekly": 21
+    },
+    "@axnic/pi-aks-user-question": {
+      "monthly": 912,
+      "weekly": 17
+    },
+    "@ramarivera/pi-goal": {
+      "monthly": 846,
+      "weekly": 846
+    },
+    "pi-codexbar": {
+      "monthly": 911,
+      "weekly": 182
+    },
+    "pi-openrouter-realtime": {
+      "monthly": 910,
+      "weekly": 62
+    },
+    "@braintrust/pi-extension": {
+      "monthly": 883,
+      "weekly": 156
+    },
+    "pi-lmstudio": {
+      "monthly": 978,
+      "weekly": 757
+    },
+    "@anh-chu/pi-subagents": {
+      "monthly": 882,
+      "weekly": 35
+    },
+    "pi-simple-memory": {
+      "monthly": 904,
+      "weekly": 24
+    },
+    "pi-mono-clear": {
+      "monthly": 893,
+      "weekly": 33
+    },
+    "@ahkohd/pi-yagami-search": {
+      "monthly": 952,
+      "weekly": 83
+    },
+    "pi-questions": {
+      "monthly": 898,
+      "weekly": 422
+    },
+    "pi-add-dir": {
+      "monthly": 897,
+      "weekly": 306
+    },
+    "@the-forge-flow/sub-agents-pi": {
+      "monthly": 882,
+      "weekly": 14
+    },
+    "pi-extension-manager": {
+      "monthly": 827,
+      "weekly": 203
+    },
+    "@siddr/pi-review": {
+      "monthly": 877,
+      "weekly": 204
+    },
+    "pi-edgee-proxy": {
+      "monthly": 820,
+      "weekly": 820
+    },
+    "@spences10/pi-omnisearch": {
+      "monthly": 857,
+      "weekly": 495
+    },
+    "nightmanager": {
+      "monthly": 816,
+      "weekly": 816
+    },
+    "@ruminaider/notion-cli": {
+      "monthly": 946,
+      "weekly": 162
+    },
+    "pi-snap-edit": {
+      "monthly": 937,
+      "weekly": 937
+    },
+    "@ramarivera/pi-kimi-for-coding": {
+      "monthly": 853,
+      "weekly": 275
+    },
+    "@ameno/pi-minimax-mcp": {
+      "monthly": 875,
+      "weekly": 134
+    },
+    "@melihmucuk/pi-crew": {
+      "monthly": 938,
+      "weekly": 40
+    },
+    "gedpi": {
+      "monthly": 844,
+      "weekly": 844
+    },
+    "@termdraw/pi": {
+      "monthly": 866,
+      "weekly": 210
+    },
+    "pi-jarvis": {
+      "monthly": 856,
+      "weekly": 331
+    },
+    "pi-vim": {
+      "monthly": 803,
+      "weekly": 216
+    },
+    "@0xkobold/pi-learn": {
+      "monthly": 838,
+      "weekly": 178
+    },
+    "@latent-variable/pi-terminal-bench": {
+      "monthly": 798,
+      "weekly": 13
+    },
+    "@ifi/oh-pi": {
+      "monthly": 918,
+      "weekly": 436
+    },
+    "@ogulcancelik/pi-minimal-footer": {
+      "monthly": 917,
+      "weekly": 182
+    },
+    "pi-cursor-provider": {
+      "monthly": 912,
+      "weekly": 94
+    },
+    "pi-mono-sentinel": {
+      "monthly": 900,
+      "weekly": 167
+    },
+    "@fitchmultz/pi-ephemeral": {
+      "monthly": 837,
+      "weekly": 257
+    },
+    "@zhafron/pi-memory": {
+      "monthly": 824,
+      "weekly": 222
+    },
+    "@the-forge-flow/camoufox-pi": {
+      "monthly": 836,
+      "weekly": 43
+    },
+    "pi-mono-context-guard": {
+      "monthly": 890,
+      "weekly": 24
+    },
+    "@wayaans/ramean": {
+      "monthly": 820,
+      "weekly": 24
+    },
+    "@the-forge-flow/lumen": {
+      "monthly": 889,
+      "weekly": 889
+    },
+    "@spences10/pi-recall": {
+      "monthly": 840,
+      "weekly": 458
+    },
+    "@spences10/pi-nopeek": {
+      "monthly": 840,
+      "weekly": 461
+    },
+    "@timtekno/agentic-template": {
+      "monthly": 774,
+      "weekly": 774
+    },
+    "@ramarivera/pi-supermemory": {
+      "monthly": 804,
+      "weekly": 804
+    },
+    "@pi-orca/teams": {
+      "monthly": 762,
+      "weekly": 17
+    },
+    "@ocodista/pi-token-bloat": {
+      "monthly": 874,
+      "weekly": 22
+    },
+    "@pi-orca/tasks": {
+      "monthly": 797,
+      "weekly": 11
+    },
+    "pi-jingle": {
+      "monthly": 864,
+      "weekly": 18
+    },
+    "@pi-orca/messages": {
+      "monthly": 793,
+      "weekly": 12
+    },
+    "pi-generate-commit-message": {
+      "monthly": 813,
+      "weekly": 312
+    },
+    "@aliou/pi-dev-kit": {
+      "monthly": 810,
+      "weekly": 58
+    },
+    "@jerryan/pi-sanity": {
+      "monthly": 873,
+      "weekly": 186
+    },
+    "pi-claude-sandbox": {
+      "monthly": 781,
+      "weekly": 31
+    },
+    "@robhowley/pi-structured-return": {
+      "monthly": 801,
+      "weekly": 219
+    },
+    "pi-cyber-ui": {
+      "monthly": 797,
+      "weekly": 41
+    },
+    "pi-tool-search": {
+      "monthly": 850,
+      "weekly": 37
+    },
+    "@vanillagreen/pi-claude-bridge": {
+      "monthly": 856,
+      "weekly": 856
+    },
+    "@pi-lab/permissions": {
+      "monthly": 737,
+      "weekly": 274
+    },
+    "@jeonghyeon.net/pi-supervisor": {
+      "monthly": 778,
+      "weekly": 4
+    },
+    "@nteract/pi": {
+      "monthly": 730,
+      "weekly": 614
+    },
+    "@pi-orca/profiles": {
+      "monthly": 784,
+      "weekly": 14
+    },
+    "@counterposition/pi-web-search": {
+      "monthly": 764,
+      "weekly": 53
+    },
+    "@dreki-gg/pi-subagent": {
+      "monthly": 836,
+      "weekly": 36
+    },
+    "pi-mono-loop": {
+      "monthly": 824,
+      "weekly": 25
+    },
+    "@the-forge-flow/visual-explainer-pi": {
+      "monthly": 833,
+      "weekly": 16
+    },
+    "@ineersa/my-pi-jetbrains-index": {
+      "monthly": 757,
+      "weekly": 12
+    },
+    "@haphazarddev/pi-interactive-code-review": {
+      "monthly": 776,
+      "weekly": 144
+    },
+    "@m64/pi-screenshot-tools": {
+      "monthly": 829,
+      "weekly": 17
+    },
+    "@ryan_nookpi/pi-extension-diff-review": {
+      "monthly": 826,
+      "weekly": 31
+    },
+    "@pi-orca/cleanup": {
+      "monthly": 756,
+      "weekly": 14
+    },
+    "pi-board": {
+      "monthly": 754,
+      "weekly": 754
+    },
+    "@spences10/pi-sqlite-tools": {
+      "monthly": 819,
+      "weekly": 474
+    },
+    "pi-minimax-cli": {
+      "monthly": 802,
+      "weekly": 802
+    },
+    "@jeonghyeon.net/pi-subagents": {
+      "monthly": 818,
+      "weekly": 8
+    },
+    "@the-agency/vmpi": {
+      "monthly": 801,
+      "weekly": 167
+    },
+    "pi-image-tools": {
+      "monthly": 749,
+      "weekly": 167
+    },
+    "claude-agent-sdk-pi": {
+      "monthly": 756,
+      "weekly": 122
+    },
+    "oh-pi": {
+      "monthly": 797,
+      "weekly": 210
+    },
+    "@vanillagreen/pi-agents-tmux": {
+      "monthly": 745,
+      "weekly": 745
+    },
+    "@zenobius/pi-worktrees": {
+      "monthly": 808,
+      "weekly": 99
+    },
+    "composio-x-pi": {
+      "monthly": 694,
+      "weekly": 5
+    },
+    "@imsus/pi-extension-minimax-coding-plan-mcp": {
+      "monthly": 738,
+      "weekly": 50
+    },
+    "pi-plan-mode": {
+      "monthly": 802,
+      "weekly": 151
+    },
+    "@vanillagreen/pi-session-manager": {
+      "monthly": 743,
+      "weekly": 743
+    },
+    "pi-venice-stats": {
+      "monthly": 793,
+      "weekly": 18
+    },
+    "pi-codex-image-gen": {
+      "monthly": 793,
+      "weekly": 408
+    },
+    "pi-codex": {
+      "monthly": 690,
+      "weekly": 245
+    },
+    "@ramarivera/pi-skill-selector": {
+      "monthly": 783,
+      "weekly": 783
+    },
+    "pi-read-map": {
+      "monthly": 790,
+      "weekly": 155
+    },
+    "@0xkobold/pi-task": {
+      "monthly": 738,
+      "weekly": 139
+    },
+    "@vanillagreen/pi-qol": {
+      "monthly": 730,
+      "weekly": 730
+    },
+    "pi-fizzy": {
+      "monthly": 729,
+      "weekly": 165
+    },
+    "@pi-orca/models": {
+      "monthly": 777,
+      "weekly": 15
+    },
+    "@artale/pi-skills": {
+      "monthly": 725,
+      "weekly": 328
+    },
+    "pi-easy-footer": {
+      "monthly": 709,
+      "weekly": 17
+    },
+    "@codingcoffee/pi-readonly-ssh": {
+      "monthly": 707,
+      "weekly": 12
+    },
+    "pi-i18n": {
+      "monthly": 725,
+      "weekly": 359
+    },
+    "pi-extension-installer": {
+      "monthly": 724,
+      "weekly": 42
+    },
+    "pi-todo-md": {
+      "monthly": 772,
+      "weekly": 32
+    },
+    "@vanillagreen/pi-questions": {
+      "monthly": 772,
+      "weekly": 772
+    },
+    "pi-slopchop": {
+      "monthly": 723,
+      "weekly": 536
+    },
+    "@pi-orca/agents": {
+      "monthly": 771,
+      "weekly": 15
+    },
+    "@curio-data/pi-intelli-search": {
+      "monthly": 771,
+      "weekly": 771
+    },
+    "pi-lsp-extension": {
+      "monthly": 700,
+      "weekly": 234
+    },
+    "@dreadedzombie/pi-init": {
+      "monthly": 655,
+      "weekly": 29
+    },
+    "pi-plan-md": {
+      "monthly": 651,
+      "weekly": 52
+    },
+    "pi-copy-response": {
+      "monthly": 752,
+      "weekly": 24
+    },
+    "pi-review-loop": {
+      "monthly": 677,
+      "weekly": 133
+    },
+    "@codingcoffee/pi-websearch-crawl4ai": {
+      "monthly": 676,
+      "weekly": 252
+    },
+    "@leonardorick/pi-web-search": {
+      "monthly": 686,
+      "weekly": 253
+    },
+    "@fink-andreas/pi-linear-tools": {
+      "monthly": 690,
+      "weekly": 27
+    },
+    "pi-venice": {
+      "monthly": 690,
+      "weekly": 34
+    },
+    "pi-cursor-sdk": {
+      "monthly": 735,
+      "weekly": 735
+    },
+    "pi-powerline-melbourne": {
+      "monthly": 682,
+      "weekly": 93
+    },
+    "@heyhuynhgiabuu/pi-diff": {
+      "monthly": 682,
+      "weekly": 251
+    },
+    "@tmustier/pi-nes": {
+      "monthly": 664,
+      "weekly": 88
+    },
+    "@zackify/pi-claude-permissions": {
+      "monthly": 674,
+      "weekly": 674
+    },
+    "pi-file-permissions": {
+      "monthly": 725,
+      "weekly": 15
+    },
+    "pi-research": {
+      "monthly": 666,
+      "weekly": 444
+    },
+    "pi-multi-auth": {
+      "monthly": 715,
+      "weekly": 408
+    },
+    "pi-smart-voice-notify": {
+      "monthly": 715,
+      "weekly": 181
+    },
+    "@aliou/pi-linkup": {
+      "monthly": 662,
+      "weekly": 137
+    },
+    "pi-weixinbot": {
+      "monthly": 658,
+      "weekly": 140
+    },
+    "@dkod/pi": {
+      "monthly": 663,
+      "weekly": 7
+    },
+    "pi-psql": {
+      "monthly": 615,
+      "weekly": 30
+    },
+    "@xl0/show-sysprompt": {
+      "monthly": 614,
+      "weekly": 614
+    },
+    "pi-amplike": {
+      "monthly": 702,
+      "weekly": 60
+    },
+    "@richardgill/pi-sub-pi": {
+      "monthly": 650,
+      "weekly": 488
+    },
+    "@deevus/pi-zmx": {
+      "monthly": 656,
+      "weekly": 14
+    },
+    "@vadimcomanescu/pi-teams": {
+      "monthly": 691,
+      "weekly": 12
+    },
+    "pi-claude-cli": {
+      "monthly": 691,
+      "weekly": 369
+    },
+    "@vanillagreen/pi-task-panel": {
+      "monthly": 651,
+      "weekly": 651
+    },
+    "@robhowley/pi-openrouter": {
+      "monthly": 678,
+      "weekly": 678
+    },
+    "pi-obsidian-preview": {
+      "monthly": 637,
+      "weekly": 223
+    },
+    "@samfp/pi-essentials": {
+      "monthly": 621,
+      "weekly": 45
+    },
+    "@apolosan/idea-refinement": {
+      "monthly": 627,
+      "weekly": 627
+    },
+    "@vanillagreen/pi-background-tasks": {
+      "monthly": 627,
+      "weekly": 627
+    },
+    "pi-auggie-router": {
+      "monthly": 583,
+      "weekly": 583
+    },
+    "@lehoangvu/pi-memory-extension": {
+      "monthly": 657,
+      "weekly": 3
+    },
+    "@aliou/pi-neuralwatt": {
+      "monthly": 664,
+      "weekly": 148
+    },
+    "pi-claude-permissions": {
+      "monthly": 664,
+      "weekly": 41
+    },
+    "pi-repoprompt-mcp": {
+      "monthly": 608,
+      "weekly": 124
+    },
+    "@zosmaai/pi-llm-wiki": {
+      "monthly": 608,
+      "weekly": 58
+    },
+    "pi-xiaomi-mimo-provider": {
+      "monthly": 656,
+      "weekly": 89
+    },
+    "@m64/nats-pi-channel": {
+      "monthly": 621,
+      "weekly": 15
+    },
+    "pi-exit": {
+      "monthly": 654,
+      "weekly": 137
+    },
+    "pi-manage-todo-list": {
+      "monthly": 667,
+      "weekly": 304
+    },
+    "@llblab/pi-wakeup": {
+      "monthly": 578,
+      "weekly": 578
+    },
+    "pi-formatter": {
+      "monthly": 604,
+      "weekly": 77
+    },
+    "@richardgill/pi-sub-pi-skill": {
+      "monthly": 657,
+      "weekly": 502
+    },
+    "@uadgj/pi-superpowers-support": {
+      "monthly": 649,
+      "weekly": 437
+    },
+    "pi-must-have-extension": {
+      "monthly": 574,
+      "weekly": 211
+    },
+    "@vaayne/pi-subagent": {
+      "monthly": 600,
+      "weekly": 11
+    },
+    "pi-obsidian-vault": {
+      "monthly": 614,
+      "weekly": 614
+    },
+    "@vanillagreen/pi-web-tools": {
+      "monthly": 659,
+      "weekly": 659
+    },
+    "@ryan_nookpi/pi-extension-todo-write": {
+      "monthly": 653,
+      "weekly": 13
+    },
+    "ollama-graceful": {
+      "monthly": 613,
+      "weekly": 23
+    },
+    "pi-friday": {
+      "monthly": 571,
+      "weekly": 13
+    },
+    "@carlosgtrz/pi-codex-aliases": {
+      "monthly": 612,
+      "weekly": 175
+    },
+    "@m64/pi-remembra-theme": {
+      "monthly": 596,
+      "weekly": 68
+    },
+    "pi-model-switch": {
+      "monthly": 642,
+      "weekly": 78
+    },
+    "@p8n.ai/pi-remembers": {
+      "monthly": 654,
+      "weekly": 158
+    },
+    "@pi-agents/loop": {
+      "monthly": 600,
+      "weekly": 45
+    },
+    "pi-dunnet": {
+      "monthly": 638,
+      "weekly": 12
+    },
+    "@vanillagreen/pi-caveman": {
+      "monthly": 637,
+      "weekly": 637
+    },
+    "@casualjim/pi-superpowers": {
+      "monthly": 604,
+      "weekly": 553
+    },
+    "pi-provider-vertex-anthropic": {
+      "monthly": 603,
+      "weekly": 54
+    },
+    "pi-hodor": {
+      "monthly": 601,
+      "weekly": 19
+    },
+    "@rahulmutt/pi-ralph": {
+      "monthly": 646,
+      "weekly": 32
+    },
+    "pi-zai-tools": {
+      "monthly": 599,
+      "weekly": 221
+    },
+    "pi-posh-git": {
+      "monthly": 599,
+      "weekly": 599
+    },
+    "pi-load-skill": {
+      "monthly": 591,
+      "weekly": 163
+    },
+    "pi-webaio": {
+      "monthly": 629,
+      "weekly": 629
+    },
+    "pi-telemetry-minimal": {
+      "monthly": 594,
+      "weekly": 421
+    },
+    "@benvargas/pi-claude-code-use": {
+      "monthly": 625,
+      "weekly": 106
+    },
+    "lsp-pi": {
+      "monthly": 552,
+      "weekly": 130
+    },
+    "@heyhuynhgiabuu/pi-search": {
+      "monthly": 589,
+      "weekly": 54
+    },
+    "pi-agent-bus": {
+      "monthly": 581,
+      "weekly": 11
+    },
+    "pi-moonshot": {
+      "monthly": 623,
+      "weekly": 37
+    },
+    "pi-claude-plugins": {
+      "monthly": 571,
+      "weekly": 39
+    },
+    "@marckrenn/pi-sub-bar": {
+      "monthly": 583,
+      "weekly": 98
+    },
+    "@open-plan-annotator/pi-extension": {
+      "monthly": 626,
+      "weekly": 626
+    },
+    "@jeonghyeon.net/pi-tasks": {
+      "monthly": 579,
+      "weekly": 8
+    },
+    "pi-kiro": {
+      "monthly": 564,
+      "weekly": 164
+    },
+    "pi-goal-driven": {
+      "monthly": 539,
+      "weekly": 18
+    },
+    "@spences10/pi-themes": {
+      "monthly": 563,
+      "weekly": 485
+    },
+    "@guanyilun/pi-ads": {
+      "monthly": 562,
+      "weekly": 8
+    },
+    "@markoonakic/pi-working-line": {
+      "monthly": 536,
+      "weekly": 32
+    },
+    "pi-engram": {
+      "monthly": 560,
+      "weekly": 15
+    },
+    "pi-jj-auto": {
+      "monthly": 571,
+      "weekly": 571
+    },
+    "@the-forge-flow/ultra-compress-pi": {
+      "monthly": 613,
+      "weekly": 24
+    },
+    "pi-ui-hephaestus": {
+      "monthly": 613,
+      "weekly": 613
+    },
+    "@ryan_nookpi/pi-extension-codex-fast-mode": {
+      "monthly": 556,
+      "weekly": 32
+    },
+    "pi-claude-oauth-adapter": {
+      "monthly": 566,
+      "weekly": 52
+    },
+    "pi-models": {
+      "monthly": 596,
+      "weekly": 189
+    },
+    "pi-opinionated-mimo": {
+      "monthly": 599,
+      "weekly": 9
+    },
+    "@the-forge-flow/pi-token-saver": {
+      "monthly": 524,
+      "weekly": 8
+    },
+    "pi-comment-checker": {
+      "monthly": 584,
+      "weekly": 41
+    },
+    "@latentminds/pi-quotas": {
+      "monthly": 541,
+      "weekly": 53
+    },
+    "pi-observability": {
+      "monthly": 580,
+      "weekly": 293
+    },
+    "@twogiants/pi-anthropic-vertex": {
+      "monthly": 544,
+      "weekly": 149
+    },
+    "pi-agent-browser": {
+      "monthly": 578,
+      "weekly": 182
+    },
+    "@wind_mask/aw-watcher-agent-pi": {
+      "monthly": 581,
+      "weekly": 581
+    },
+    "@jayjanii/pi-minimax-mcp": {
+      "monthly": 574,
+      "weekly": 574
+    },
+    "@grafana/sigil-pi": {
+      "monthly": 579,
+      "weekly": 274
+    },
+    "@howaboua/pi-subagent-review": {
+      "monthly": 508,
+      "weekly": 267
+    },
+    "pi-fzf": {
+      "monthly": 531,
+      "weekly": 53
+    },
+    "pi-proxy-models": {
+      "monthly": 543,
+      "weekly": 170
+    },
+    "pi-openresolve": {
+      "monthly": 537,
+      "weekly": 20
+    },
+    "pi-autocontext": {
+      "monthly": 582,
+      "weekly": 203
+    },
+    "@ryan_nookpi/pi-extension-clipboard": {
+      "monthly": 527,
+      "weekly": 9
+    },
+    "pi-ask-tool-extension": {
+      "monthly": 503,
+      "weekly": 238
+    },
+    "pi-anycopy": {
+      "monthly": 538,
+      "weekly": 31
+    },
+    "pi-napkin": {
+      "monthly": 565,
+      "weekly": 21
+    },
+    "@badliveware/pi-footer-framework": {
+      "monthly": 536,
+      "weekly": 163
+    },
+    "@firstpick/pi-extension-fish-user-bash": {
+      "monthly": 575,
+      "weekly": 575
+    },
+    "pi-zai-glm": {
+      "monthly": 530,
+      "weekly": 47
+    },
+    "@richardgill/pi-preset": {
+      "monthly": 530,
+      "weekly": 378
+    },
+    "@aliou/pi-ts-aperture": {
+      "monthly": 529,
+      "weekly": 229
+    },
+    "pi-multi-pass": {
+      "monthly": 496,
+      "weekly": 82
+    },
+    "pi-mcp-extension": {
+      "monthly": 531,
+      "weekly": 446
+    },
+    "@victor-software-house/pi-multicodex": {
+      "monthly": 530,
+      "weekly": 104
+    },
+    "pi-better-ctx": {
+      "monthly": 517,
+      "weekly": 23
+    },
+    "@aliou/pi-toolchain": {
+      "monthly": 523,
+      "weekly": 123
+    },
+    "pi-searxng": {
+      "monthly": 512,
+      "weekly": 90
+    },
+    "pi-phoenix": {
+      "monthly": 519,
+      "weekly": 10
+    },
+    "pi-screenshots-picker": {
+      "monthly": 524,
+      "weekly": 380
+    },
+    "@ryan_nookpi/pi-extension-auto-name": {
+      "monthly": 523,
+      "weekly": 20
+    },
+    "@schultzp2020/pi-cursor": {
+      "monthly": 517,
+      "weekly": 517
+    },
+    "pi-teammate": {
+      "monthly": 560,
+      "weekly": 36
+    },
+    "@panzenbaby/pi-secure-extension": {
+      "monthly": 555,
+      "weekly": 16
+    },
+    "pi-cmux-theme-picker": {
+      "monthly": 508,
+      "weekly": 64
+    },
+    "pi-clojure": {
+      "monthly": 504,
+      "weekly": 12
+    },
+    "pi-token-speed": {
+      "monthly": 515,
+      "weekly": 515
+    },
+    "@vanillagreen/pi-output-policy": {
+      "monthly": 542,
+      "weekly": 542
+    },
+    "pi-pomodoro": {
+      "monthly": 514,
+      "weekly": 9
+    },
+    "pi-double-paste": {
+      "monthly": 514,
+      "weekly": 24
+    },
+    "pi-file-watcher": {
+      "monthly": 500,
+      "weekly": 147
+    },
+    "@alexgorbatchev/pi-env": {
+      "monthly": 500,
+      "weekly": 16
+    },
+    "tau-coding-agent": {
+      "monthly": 544,
+      "weekly": 153
+    },
+    "pi-provider-umans": {
+      "monthly": 548,
+      "weekly": 23
+    },
+    "pi-thinking": {
+      "monthly": 536,
+      "weekly": 156
+    },
+    "@counterposition/skill-pi": {
+      "monthly": 509,
+      "weekly": 7
+    },
+    "@badliveware/pi-compaction-continue": {
+      "monthly": 509,
+      "weekly": 262
+    },
+    "@vtstech/pi-soul": {
+      "monthly": 509,
+      "weekly": 509
+    },
+    "pi-meridian-extension": {
+      "monthly": 507,
+      "weekly": 228
+    },
+    "pi-skillful": {
+      "monthly": 502,
+      "weekly": 502
+    },
+    "pi-agent-router": {
+      "monthly": 495,
+      "weekly": 394
+    },
+    "@todu/pi-extensions": {
+      "monthly": 495,
+      "weekly": 19
+    },
+    "pi-mempalace": {
+      "monthly": 494,
+      "weekly": 38
+    },
+    "codecartographer-pi": {
+      "monthly": 504,
+      "weekly": 504
+    },
+    "@diegopetrucci/pi-minimal-footer": {
+      "monthly": 502,
+      "weekly": 54
+    },
+    "pi-execution-time": {
+      "monthly": 497,
+      "weekly": 157
+    },
+    "pi-finder-subagent": {
+      "monthly": 501,
+      "weekly": 64
+    },
+    "pi-tavily-tools": {
+      "monthly": 501,
+      "weekly": 60
+    },
+    "@0xtiby/looper": {
+      "monthly": 496,
+      "weekly": 177
+    },
+    "@dreki-gg/pi-modes": {
+      "monthly": 500,
+      "weekly": 10
+    },
+    "@0xkobold/pi-web": {
+      "monthly": 523,
+      "weekly": 150
+    },
+    "pi-sessions": {
+      "monthly": 492,
+      "weekly": 48
+    },
+    "@lnittman/pi-steer": {
+      "monthly": 532,
+      "weekly": 5
+    },
+    "pi-context-usage": {
+      "monthly": 520,
+      "weekly": 520
+    },
+    "@complexthings/pi-dynamic-context-pruning": {
+      "monthly": 494,
+      "weekly": 32
+    },
+    "@geminixiang/pi-simplify": {
+      "monthly": 524,
+      "weekly": 19
+    },
+    "@jerryan/pi-subagent-lite": {
+      "monthly": 493,
+      "weekly": 15
+    },
+    "pi-side-agents": {
+      "monthly": 481,
+      "weekly": 33
+    },
+    "@vamsitalupula/pi-run": {
+      "monthly": 486,
+      "weekly": 29
+    },
+    "@vanillagreen/pi-extension-manager": {
+      "monthly": 526,
+      "weekly": 526
+    },
+    "pi-updater": {
+      "monthly": 526,
+      "weekly": 311
+    },
+    "pi-neuralwatt": {
+      "monthly": 521,
+      "weekly": 385
+    },
+    "@pithings/voipi-pi": {
+      "monthly": 477,
+      "weekly": 12
+    },
+    "@casualjim/pi-taskplane-planner": {
+      "monthly": 488,
+      "weekly": 7
+    },
+    "tau-all-agent": {
+      "monthly": 512,
+      "weekly": 143
+    },
+    "@hdkiller/pi-langfuse": {
+      "monthly": 486,
+      "weekly": 486
+    },
+    "@vanillagreen/pi-tool-renderer": {
+      "monthly": 510,
+      "weekly": 510
+    },
+    "tau-mirror": {
+      "monthly": 514,
+      "weekly": 83
+    },
+    "pi-openai-switcher": {
+      "monthly": 514,
+      "weekly": 21
+    },
+    "@code-fixer-23/create-pi-package": {
+      "monthly": 517,
+      "weekly": 174
+    },
+    "pi-web-minimal": {
+      "monthly": 506,
+      "weekly": 506
+    },
+    "pi-show": {
+      "monthly": 479,
+      "weekly": 214
+    },
+    "pi-memory-honcho": {
+      "monthly": 478,
+      "weekly": 30
+    },
+    "pi-gstack": {
+      "monthly": 446,
+      "weekly": 35
+    },
+    "pi-poster": {
+      "monthly": 511,
+      "weekly": 34
+    },
+    "@saber7ooth/pi-archon": {
+      "monthly": 510,
+      "weekly": 510
+    },
+    "desktop-notify-kitty": {
+      "monthly": 445,
+      "weekly": 163
+    },
+    "pi-chatgpt-limit": {
+      "monthly": 504,
+      "weekly": 504
+    },
+    "visual-explainer": {
+      "monthly": 473,
+      "weekly": 291
+    },
+    "@m64/browser-tools": {
+      "monthly": 470,
+      "weekly": 16
+    },
+    "pi-notify": {
+      "monthly": 458,
+      "weekly": 100
+    },
+    "@ifi/pi-background-tasks": {
+      "monthly": 457,
+      "weekly": 457
+    },
+    "@firstpick/pi-extension-bang-command-autocomplete": {
+      "monthly": 461,
+      "weekly": 461
+    },
+    "@alasano/pi-linear": {
+      "monthly": 465,
+      "weekly": 56
+    },
+    "@alexgorbatchev/pi-skill-library": {
+      "monthly": 494,
+      "weekly": 24
+    },
+    "pi-superpowers-plus": {
+      "monthly": 498,
+      "weekly": 114
+    },
+    "vim-motions-pi": {
+      "monthly": 488,
+      "weekly": 195
+    },
+    "pi-byterover": {
+      "monthly": 459,
+      "weekly": 459
+    },
+    "pi-local-rag": {
+      "monthly": 463,
+      "weekly": 31
+    },
+    "oh-my-open-pi": {
+      "monthly": 463,
+      "weekly": 463
+    },
+    "pi-context-pruning": {
+      "monthly": 458,
+      "weekly": 18
+    },
+    "@howaboua/pi-vent": {
+      "monthly": 494,
+      "weekly": 195
+    },
+    "pi-supersafety": {
+      "monthly": 484,
+      "weekly": 484
+    },
+    "@ogulcancelik/pi-ghostty-theme-sync": {
+      "monthly": 449,
+      "weekly": 72
+    },
+    "@firstpick/pi-extension-memory-helper": {
+      "monthly": 454,
+      "weekly": 454
+    },
+    "@firstpick/pi-extension-git-footer-status": {
+      "monthly": 486,
+      "weekly": 486
+    },
+    "pi-llm-as-verifier": {
+      "monthly": 478,
+      "weekly": 14
+    },
+    "lazy-pi": {
+      "monthly": 449,
+      "weekly": 14
+    },
+    "@qhn/pi-goal": {
+      "monthly": 453,
+      "weekly": 453
+    },
+    "pi-subagentura": {
+      "monthly": 423,
+      "weekly": 166
+    },
+    "@alexanderfortin/pi-token-usage": {
+      "monthly": 480,
+      "weekly": 44
+    },
+    "@vanillagreen/pi-session-bridge": {
+      "monthly": 441,
+      "weekly": 441
+    },
+    "@ryan_nookpi/pi-extension-cc-system-prompt": {
+      "monthly": 451,
+      "weekly": 5
+    },
+    "cc-grammar": {
+      "monthly": 450,
+      "weekly": 44
+    },
+    "pi-acm": {
+      "monthly": 437,
+      "weekly": 39
+    },
+    "pi-secret-guard": {
+      "monthly": 415,
+      "weekly": 73
+    },
+    "pi-git-status-line": {
+      "monthly": 414,
+      "weekly": 12
+    },
+    "@s1m0n38/pi-voice": {
+      "monthly": 432,
+      "weekly": 432
+    },
+    "pi-manage-dirs": {
+      "monthly": 442,
+      "weekly": 442
+    },
+    "@firstpick/pi-extension-brave-search": {
+      "monthly": 436,
+      "weekly": 436
+    },
+    "@vahor/pi-keymap": {
+      "monthly": 440,
+      "weekly": 440
+    },
+    "pi-code-nav": {
+      "monthly": 434,
+      "weekly": 202
+    },
+    "pi-service-tier": {
+      "monthly": 436,
+      "weekly": 35
+    },
+    "@vanillagreen/pi-skills-manager": {
+      "monthly": 407,
+      "weekly": 407
+    },
+    "@firstpick/pi-extension-notes": {
+      "monthly": 461,
+      "weekly": 461
+    },
+    "@pi-unipi/footer": {
+      "monthly": 406,
+      "weekly": 406
+    },
+    "@vahor/pi-hooks": {
+      "monthly": 459,
+      "weekly": 459
+    },
+    "pi-kimi-coder": {
+      "monthly": 404,
+      "weekly": 163
+    },
+    "effect-mode": {
+      "monthly": 454,
+      "weekly": 454
+    },
+    "pi-guard": {
+      "monthly": 449,
+      "weekly": 44
+    },
+    "pi-figma-mcp": {
+      "monthly": 427,
+      "weekly": 25
+    },
+    "pi-cache-graph": {
+      "monthly": 426,
+      "weekly": 181
+    },
+    "pi-handoff": {
+      "monthly": 453,
+      "weekly": 37
+    },
+    "pi-cocoindex": {
+      "monthly": 395,
+      "weekly": 395
+    },
+    "pi-image-gen-openai": {
+      "monthly": 412,
+      "weekly": 22
+    },
+    "pi-bash-live-view": {
+      "monthly": 412,
+      "weekly": 69
+    },
+    "@ryan_nookpi/pi-extension-until": {
+      "monthly": 421,
+      "weekly": 9
+    },
+    "pi-goal": {
+      "monthly": 446,
+      "weekly": 446
+    },
+    "@jmcombs/pi-prompt-enhancer": {
+      "monthly": 409,
+      "weekly": 409
+    },
+    "pi-opinionated-glm": {
+      "monthly": 439,
+      "weekly": 7
+    },
+    "@gaodes/pi-lens": {
+      "monthly": 438,
+      "weekly": 438
+    },
+    "pi-browser-harness": {
+      "monthly": 390,
+      "weekly": 390
+    },
+    "pi-crawl4ai": {
+      "monthly": 389,
+      "weekly": 12
+    },
+    "pi-chutes": {
+      "monthly": 389,
+      "weekly": 378
+    },
+    "pi-image-gen-xai": {
+      "monthly": 387,
+      "weekly": 9
+    },
+    "pi-opinionated-zenmux": {
+      "monthly": 413,
+      "weekly": 155
+    },
+    "@sherif-fanous/pi-rtk": {
+      "monthly": 400,
+      "weekly": 126
+    },
+    "@dmille56/openvibes": {
+      "monthly": 383,
+      "weekly": 383
+    },
+    "@richardgill/pi-extra-context-files": {
+      "monthly": 433,
+      "weekly": 433
+    },
+    "pi-tmux-window-name": {
+      "monthly": 436,
+      "weekly": 21
+    },
+    "@ravan08/pi-langfuse": {
+      "monthly": 398,
+      "weekly": 179
+    },
+    "@artale/pi-sentinel": {
+      "monthly": 380,
+      "weekly": 197
+    },
+    "@artale/pi-arena": {
+      "monthly": 405,
+      "weekly": 202
+    },
+    "@narumitw/pi-skillforge": {
+      "monthly": 433,
+      "weekly": 433
+    },
+    "@zhangweiii/skills": {
+      "monthly": 433,
+      "weekly": 433
+    },
+    "@0xkobold/pi-secret-guardian": {
+      "monthly": 378,
+      "weekly": 151
+    },
+    "@vanillagreen/pi-prompt-stash": {
+      "monthly": 403,
+      "weekly": 403
+    },
+    "@ogulcancelik/pi-web-browse": {
+      "monthly": 428,
+      "weekly": 107
+    },
+    "pi-usage-bars": {
+      "monthly": 427,
+      "weekly": 65
+    },
+    "pi-provider-cc-sdk": {
+      "monthly": 423,
+      "weekly": 16
+    },
+    "pi-image-gen-together": {
+      "monthly": 372,
+      "weekly": 12
+    },
+    "@krzyzanowskim/pi-profiles": {
+      "monthly": 422,
+      "weekly": 422
+    },
+    "pi-conventions": {
+      "monthly": 394,
+      "weekly": 256
+    },
+    "@lesetong/pi-mimo": {
+      "monthly": 384,
+      "weekly": 384
+    },
+    "@zackify/pi-port-forward": {
+      "monthly": 368,
+      "weekly": 368
+    },
+    "agent-xlsx": {
+      "monthly": 388,
+      "weekly": 18
+    },
+    "@badliveware/pi-pr-upstream-status": {
+      "monthly": 367,
+      "weekly": 141
+    },
+    "pk-pi-hermes-evolve": {
+      "monthly": 415,
+      "weekly": 17
+    },
+    "pi-effort": {
+      "monthly": 391,
+      "weekly": 148
+    },
+    "@browser-annotations/pi": {
+      "monthly": 381,
+      "weekly": 7
+    },
+    "pi-tscg": {
+      "monthly": 365,
+      "weekly": 365
+    },
+    "pi-image-gen-google": {
+      "monthly": 389,
+      "weekly": 12
+    },
+    "drata-cli": {
+      "monthly": 408,
+      "weekly": 16
+    },
+    "@gaodes/pi-dev-kit": {
+      "monthly": 415,
+      "weekly": 415
+    },
+    "pi-tuturu": {
+      "monthly": 388,
+      "weekly": 388
+    },
+    "pi-skillrefs": {
+      "monthly": 379,
+      "weekly": 151
+    },
+    "pi-fireworks": {
+      "monthly": 384,
+      "weekly": 12
+    },
+    "pi-skills-sync": {
+      "monthly": 384,
+      "weekly": 29
+    },
+    "@agentapprove/pi": {
+      "monthly": 363,
+      "weekly": 320
+    },
+    "pi-image-gen-replicate": {
+      "monthly": 387,
+      "weekly": 10
+    },
+    "@aotarola/pi-exit": {
+      "monthly": 387,
+      "weekly": 24
+    },
+    "pi-guard-sandbox": {
+      "monthly": 378,
+      "weekly": 378
+    },
+    "pi-kimi-usage": {
+      "monthly": 384,
+      "weekly": 149
+    },
+    "pi-desktop-ui": {
+      "monthly": 410,
+      "weekly": 36
+    },
+    "pi-yandex-bridge": {
+      "monthly": 383,
+      "weekly": 383
+    },
+    "pi-mono-auto-fix": {
+      "monthly": 404,
+      "weekly": 29
+    },
+    "@diegopetrucci/pi-notify": {
+      "monthly": 406,
+      "weekly": 16
+    },
+    "pi-executor": {
+      "monthly": 375,
+      "weekly": 29
+    },
+    "pi-connect": {
+      "monthly": 370,
+      "weekly": 44
+    },
+    "pi-kanban": {
+      "monthly": 404,
+      "weekly": 404
+    },
+    "@burneikis/pi-fzfp": {
+      "monthly": 376,
+      "weekly": 199
+    },
+    "@ryan_nookpi/pi-extension-idle-screensaver": {
+      "monthly": 372,
+      "weekly": 7
+    },
+    "pi-notify-agent": {
+      "monthly": 372,
+      "weekly": 14
+    },
+    "pi-image-gen-recraft": {
+      "monthly": 374,
+      "weekly": 7
+    },
+    "pi-hosts": {
+      "monthly": 398,
+      "weekly": 398
+    },
+    "pi-context-cap": {
+      "monthly": 390,
+      "weekly": 14
+    },
+    "pi-elevenlabs-tts": {
+      "monthly": 368,
+      "weekly": 368
+    },
+    "pi-persistent-term": {
+      "monthly": 371,
+      "weekly": 12
+    },
+    "@carze/pi-vertex-claude": {
+      "monthly": 366,
+      "weekly": 163
+    },
+    "@danchamorro/pi-prompt-enhancer": {
+      "monthly": 361,
+      "weekly": 45
+    },
+    "@e9n/pi-channels": {
+      "monthly": 360,
+      "weekly": 180
+    },
+    "pi-fxxk": {
+      "monthly": 386,
+      "weekly": 9
+    },
+    "@opperai/pi-provider": {
+      "monthly": 385,
+      "weekly": 12
+    },
+    "pi-model-fusion": {
+      "monthly": 362,
+      "weekly": 8
+    },
+    "@fancyrobot/agent-vault": {
+      "monthly": 387,
+      "weekly": 183
+    },
+    "pi-ralplan": {
+      "monthly": 365,
+      "weekly": 365
+    },
+    "@zcouncil/pi": {
+      "monthly": 364,
+      "weekly": 364
+    },
+    "@ryan_nookpi/pi-extension-delayed-action": {
+      "monthly": 356,
+      "weekly": 7
+    },
+    "@rpollard00/pi-materia": {
+      "monthly": 341,
+      "weekly": 341
+    },
+    "@0xkobold/pi-persona": {
+      "monthly": 388,
+      "weekly": 153
+    },
+    "pi-imagegen": {
+      "monthly": 386,
+      "weekly": 274
+    },
+    "pi-sandbox-proxy": {
+      "monthly": 386,
+      "weekly": 274
+    },
+    "pi-turtle-rlm": {
+      "monthly": 357,
+      "weekly": 21
+    },
+    "@tmustier/pi-agent-teams": {
+      "monthly": 337,
+      "weekly": 50
+    },
+    "pi-startup-redraw-fix": {
+      "monthly": 359,
+      "weekly": 20
+    },
+    "@ryan_nookpi/pi-extension-generative-ui": {
+      "monthly": 359,
+      "weekly": 4
+    },
+    "@bitcraft-apps/pi-web-tools": {
+      "monthly": 351,
+      "weekly": 351
+    },
+    "pi-ca-leash": {
+      "monthly": 349,
+      "weekly": 349
+    },
+    "pi-session-ask": {
+      "monthly": 349,
+      "weekly": 30
+    },
+    "@mazli/pi-ask-user-question": {
+      "monthly": 349,
+      "weekly": 349
+    },
+    "@0xkobold/pi-mcp": {
+      "monthly": 353,
+      "weekly": 150
+    },
+    "pi-exa": {
+      "monthly": 377,
+      "weekly": 377
+    },
+    "@dmallory42/pi-read-url": {
+      "monthly": 377,
+      "weekly": 9
+    },
+    "@mcowger/pi-better-messages-cache": {
+      "monthly": 350,
+      "weekly": 22
+    },
+    "pi-mimo-provider": {
+      "monthly": 331,
+      "weekly": 331
+    },
+    "@akepka/pi-cursor-cli-provider": {
+      "monthly": 352,
+      "weekly": 352
+    },
+    "pi-hide-messages": {
+      "monthly": 344,
+      "weekly": 29
+    },
+    "pi-super-curl": {
+      "monthly": 372,
+      "weekly": 294
+    },
+    "pi-edit-last-message": {
+      "monthly": 348,
+      "weekly": 348
+    },
+    "pi-git-context": {
+      "monthly": 351,
+      "weekly": 11
+    },
+    "pi-openrouter-fallback": {
+      "monthly": 343,
+      "weekly": 343
+    },
+    "pi-image-gen-router": {
+      "monthly": 374,
+      "weekly": 10
+    },
+    "pi-side-chat": {
+      "monthly": 374,
+      "weekly": 66
+    },
+    "@ibvhim/pi-scaffold": {
+      "monthly": 341,
+      "weekly": 1
+    },
+    "@a-canary/pi-choose-wisely": {
+      "monthly": 347,
+      "weekly": 5
+    },
+    "demo-dev": {
+      "monthly": 346,
+      "weekly": 39
+    },
+    "pi-codex-fast": {
+      "monthly": 366,
+      "weekly": 31
+    },
+    "@jrryfn/pi-retune": {
+      "monthly": 368,
+      "weekly": 9
+    },
+    "@malinamnam/pi-phone": {
+      "monthly": 337,
+      "weekly": 69
+    },
+    "@benvargas/pi-synthetic-provider": {
+      "monthly": 344,
+      "weekly": 164
+    },
+    "@igormaka/pi-sandbox": {
+      "monthly": 367,
+      "weekly": 367
+    },
+    "pi-mcporter": {
+      "monthly": 367,
+      "weekly": 90
+    },
+    "@steel-experiments/pi-steel": {
+      "monthly": 340,
+      "weekly": 14
+    },
+    "pi-zentui": {
+      "monthly": 343,
+      "weekly": 28
+    },
+    "@jaggerxtrm/pi-extensions": {
+      "monthly": 339,
+      "weekly": 121
+    },
+    "@a-canary/pi-upskill": {
+      "monthly": 358,
+      "weekly": 7
+    },
+    "pi-multiloop": {
+      "monthly": 338,
+      "weekly": 338
+    },
+    "pi-prompt-shelf": {
+      "monthly": 341,
+      "weekly": 150
+    },
+    "pi-advisor": {
+      "monthly": 320,
+      "weekly": 16
+    },
+    "@artale/pi-pai": {
+      "monthly": 358,
+      "weekly": 165
+    },
+    "pi-cmux": {
+      "monthly": 335,
+      "weekly": 81
+    },
+    "@leing2021/pi-search": {
+      "monthly": 337,
+      "weekly": 337
+    },
+    "@helle253/pi-peon": {
+      "monthly": 329,
+      "weekly": 10
+    },
+    "pi-session-router": {
+      "monthly": 352,
+      "weekly": 352
+    },
+    "pi-shipit": {
+      "monthly": 352,
+      "weekly": 352
+    },
+    "better-custom": {
+      "monthly": 332,
+      "weekly": 190
+    },
+    "@calesennett/pi-codex-usage": {
+      "monthly": 332,
+      "weekly": 43
+    },
+    "@tribalnerd/pi-notes": {
+      "monthly": 335,
+      "weekly": 8
+    },
+    "@luxusai/pi-hindsight": {
+      "monthly": 335,
+      "weekly": 335
+    },
+    "@benvargas/pi-exa-mcp": {
+      "monthly": 334,
+      "weekly": 56
+    },
+    "@weiping/pi-superpowers": {
+      "monthly": 349,
+      "weekly": 16
+    },
+    "pi-prompt-translate": {
+      "monthly": 355,
+      "weekly": 355
+    },
+    "pi-wtf": {
+      "monthly": 352,
+      "weekly": 67
+    },
+    "@nonplanarslicer/pi-save-output": {
+      "monthly": 312,
+      "weekly": 312
+    },
+    "pi-autocontext-lean-verify": {
+      "monthly": 321,
+      "weekly": 321
+    },
+    "@artale/pi-hatch": {
+      "monthly": 349,
+      "weekly": 318
+    },
+    "pi-hooks": {
+      "monthly": 327,
+      "weekly": 63
+    },
+    "sutras": {
+      "monthly": 324,
+      "weekly": 11
+    },
+    "pi-pubmed": {
+      "monthly": 326,
+      "weekly": 326
+    },
+    "@a-canary/pi-director": {
+      "monthly": 341,
+      "weekly": 5
+    },
+    "@khimaros/pi-webui": {
+      "monthly": 318,
+      "weekly": 318
+    },
+    "@carlosgtrz/pi-run-timer": {
+      "monthly": 346,
+      "weekly": 151
+    },
+    "pi-usage": {
+      "monthly": 304,
+      "weekly": 196
+    },
+    "pi-subagent-in-memory": {
+      "monthly": 322,
+      "weekly": 38
+    },
+    "@josephyoung/pi-exit": {
+      "monthly": 319,
+      "weekly": 319
+    },
+    "@qmxme/pi-git-guard": {
+      "monthly": 336,
+      "weekly": 15
+    },
+    "@victor-software-house/pi-openai-proxy": {
+      "monthly": 335,
+      "weekly": 68
+    },
+    "@ogulcancelik/pi-session-recall": {
+      "monthly": 312,
+      "weekly": 30
+    },
+    "@ryan_nookpi/pi-extension-todo-write-overlay": {
+      "monthly": 299,
+      "weekly": 8
+    },
+    "pi-fork-from-first": {
+      "monthly": 314,
+      "weekly": 14
+    },
+    "pi-brain": {
+      "monthly": 295,
+      "weekly": 53
+    },
+    "pi-agents": {
+      "monthly": 332,
+      "weekly": 61
+    },
+    "@gugu910/pi-slack-bridge": {
+      "monthly": 329,
+      "weekly": 4
+    },
+    "@usememra/pi-extension": {
+      "monthly": 331,
+      "weekly": 9
+    },
+    "@agnishc/edb-session-manager": {
+      "monthly": 331,
+      "weekly": 331
+    },
+    "@kylebrodeur/pi-model-router": {
+      "monthly": 331,
+      "weekly": 196
+    },
+    "pi-prompt-composer": {
+      "monthly": 290,
+      "weekly": 44
+    },
+    "pi-apex-companion-coding": {
+      "monthly": 290,
+      "weekly": 6
+    },
+    "pi-nasty-verbs": {
+      "monthly": 308,
+      "weekly": 8
+    },
+    "pi-fetch": {
+      "monthly": 328,
+      "weekly": 19
+    },
+    "pi-droid": {
+      "monthly": 301,
+      "weekly": 21
+    },
+    "pi-search-multi": {
+      "monthly": 322,
+      "weekly": 322
+    },
+    "@codersbrew/pi-tools": {
+      "monthly": 322,
+      "weekly": 38
+    },
+    "@rwese/minimax-web-search": {
+      "monthly": 325,
+      "weekly": 19
+    },
+    "pi-opencode-provider": {
+      "monthly": 321,
+      "weekly": 45
+    },
+    "@gtheys/pi-per-commit-spend": {
+      "monthly": 304,
+      "weekly": 304
+    },
+    "@netandreus/pi-cursor-provider": {
+      "monthly": 301,
+      "weekly": 79
+    },
+    "pi-sec": {
+      "monthly": 297,
+      "weekly": 7
+    },
+    "pi-scheduled-tasks": {
+      "monthly": 303,
+      "weekly": 7
+    },
+    "pi-kilocode": {
+      "monthly": 284,
+      "weekly": 32
+    },
+    "@sincspecv/pi-chutes": {
+      "monthly": 301,
+      "weekly": 5
+    },
+    "pi-cutlery": {
+      "monthly": 300,
+      "weekly": 161
+    },
+    "@jmcombs/pi-tavily-search": {
+      "monthly": 317,
+      "weekly": 317
+    },
+    "pi-agent-selector": {
+      "monthly": 293,
+      "weekly": 13
+    },
+    "agent-booster-pack": {
+      "monthly": 299,
+      "weekly": 299
+    },
+    "thincontext": {
+      "monthly": 298,
+      "weekly": 7
+    },
+    "@tanvesh01/pierre-diffs": {
+      "monthly": 312,
+      "weekly": 8
+    },
+    "pi-provider-utils": {
+      "monthly": 292,
+      "weekly": 57
+    },
+    "pi-mono-figma": {
+      "monthly": 308,
+      "weekly": 308
+    },
+    "pi-session-switch": {
+      "monthly": 293,
+      "weekly": 20
+    },
+    "apple-pi": {
+      "monthly": 312,
+      "weekly": 18
+    },
+    "pi-codex-footer": {
+      "monthly": 290,
+      "weekly": 22
+    },
+    "piscord": {
+      "monthly": 290,
+      "weekly": 194
+    },
+    "@artale/pi-procs": {
+      "monthly": 291,
+      "weekly": 34
+    },
+    "@patriceckhart/pi-chrome-operator": {
+      "monthly": 310,
+      "weekly": 29
+    },
+    "pi-vitals": {
+      "monthly": 290,
+      "weekly": 42
+    },
+    "pi-evaluate": {
+      "monthly": 287,
+      "weekly": 135
+    },
+    "pi-web-fetch": {
+      "monthly": 283,
+      "weekly": 143
+    },
+    "@companionai/bohr": {
+      "monthly": 306,
+      "weekly": 13
+    },
+    "pi-openrouter-session": {
+      "monthly": 286,
+      "weekly": 286
+    },
+    "pi-extension-raptor-mini": {
+      "monthly": 279,
+      "weekly": 15
+    },
+    "pi-buddy": {
+      "monthly": 285,
+      "weekly": 151
+    },
+    "@dhruv2mars/pi-queue": {
+      "monthly": 284,
+      "weekly": 284
+    },
+    "@saadjs/pi-status": {
+      "monthly": 299,
+      "weekly": 285
+    },
+    "pi-skill-palette": {
+      "monthly": 282,
+      "weekly": 76
+    },
+    "@jarcelao/pi-exa-api": {
+      "monthly": 276,
+      "weekly": 19
+    },
+    "pi-image-preview": {
+      "monthly": 300,
+      "weekly": 33
+    },
+    "pi-brave-search": {
+      "monthly": 300,
+      "weekly": 48
+    },
+    "pi-copilot-queue": {
+      "monthly": 297,
+      "weekly": 19
+    },
+    "@paulmupeters/pi-brainstorm": {
+      "monthly": 278,
+      "weekly": 34
+    },
+    "@sherif-fanous/pi-catppuccin": {
+      "monthly": 280,
+      "weekly": 95
+    },
+    "pi-red-green": {
+      "monthly": 298,
+      "weekly": 5
+    },
+    "pi-edit-hooks": {
+      "monthly": 277,
+      "weekly": 135
+    },
+    "pi-html-long-answer-extension": {
+      "monthly": 297,
+      "weekly": 12
+    },
+    "pi-package-search": {
+      "monthly": 262,
+      "weekly": 7
+    },
+    "pi-provider-bedrock": {
+      "monthly": 291,
+      "weekly": 13
+    },
+    "@noahsaso/pi-remote": {
+      "monthly": 271,
+      "weekly": 45
+    },
+    "pi-obsidian-context": {
+      "monthly": 260,
+      "weekly": 260
+    },
+    "pi-cache-ttl-config": {
+      "monthly": 273,
+      "weekly": 10
+    },
+    "pi-current-pr": {
+      "monthly": 259,
+      "weekly": 8
+    },
+    "pi-yep-search": {
+      "monthly": 287,
+      "weekly": 9
+    },
+    "@artale/pi-telegram": {
+      "monthly": 268,
+      "weekly": 268
+    },
+    "pi-thegreataxios-staples": {
+      "monthly": 267,
+      "weekly": 267
+    },
+    "@kmiyh/pi-codex-plan-limits": {
+      "monthly": 285,
+      "weekly": 17
+    },
+    "pi-supacode": {
+      "monthly": 271,
+      "weekly": 13
+    },
+    "@samfp/pi-steering-hooks": {
+      "monthly": 271,
+      "weekly": 6
+    },
+    "pi-crofai": {
+      "monthly": 286,
+      "weekly": 176
+    },
+    "pi-budget-guard": {
+      "monthly": 286,
+      "weekly": 13
+    },
+    "@ryan_nookpi/pi-extension-claude-mcp-bridge": {
+      "monthly": 283,
+      "weekly": 12
+    },
+    "@tmustier/pi-skill-creator": {
+      "monthly": 254,
+      "weekly": 36
+    },
+    "@rexkit/pi-lazygit": {
+      "monthly": 254,
+      "weekly": 16
+    },
+    "@danchamorro/pi-agent-modes": {
+      "monthly": 254,
+      "weekly": 30
+    },
+    "@wierdbytes/pi-voice": {
+      "monthly": 254,
+      "weekly": 254
+    },
+    "pi-whisper-voice": {
+      "monthly": 269,
+      "weekly": 269
+    },
+    "@artale/pi-test": {
+      "monthly": 268,
+      "weekly": 22
+    },
+    "@tangle-network/tcloud-agent": {
+      "monthly": 285,
+      "weekly": 15
+    },
+    "pi-qwen-mode-proxy": {
+      "monthly": 280,
+      "weekly": 21
+    },
+    "pi-multifix": {
+      "monthly": 265,
+      "weekly": 265
+    },
+    "pi-agent-bus-node": {
+      "monthly": 282,
+      "weekly": 12
+    },
+    "pi-notifier": {
+      "monthly": 267,
+      "weekly": 7
+    },
+    "@ctogg/pi-stash": {
+      "monthly": 266,
+      "weekly": 6
+    },
+    "@cirthan/pi-cirthan-provider": {
+      "monthly": 280,
+      "weekly": 21
+    },
+    "sift-web-tools": {
+      "monthly": 262,
+      "weekly": 262
+    },
+    "@miclivs/pi-psst": {
+      "monthly": 262,
+      "weekly": 10
+    },
+    "pi-messenger-bridge": {
+      "monthly": 262,
+      "weekly": 59
+    },
+    "pi-generative-ui": {
+      "monthly": 281,
+      "weekly": 72
+    },
+    "@h4rvey-g/context-mode": {
+      "monthly": 264,
+      "weekly": 4
+    },
+    "pi-skill-hub": {
+      "monthly": 261,
+      "weekly": 139
+    },
+    "@the-forge-flow/security-harness-pi": {
+      "monthly": 263,
+      "weekly": 10
+    },
+    "pi-end-turn": {
+      "monthly": 261,
+      "weekly": 6
+    },
+    "safe-coder": {
+      "monthly": 261,
+      "weekly": 180
+    },
+    "pi-provider-tama": {
+      "monthly": 261,
+      "weekly": 150
+    },
+    "@dreki-gg/pi-questionnaire": {
+      "monthly": 261,
+      "weekly": 17
+    },
+    "@badliveware/pi-model-catalog": {
+      "monthly": 275,
+      "weekly": 9
+    },
+    "omniroute-pi-extension": {
+      "monthly": 277,
+      "weekly": 12
+    },
+    "pi-snake-timepass": {
+      "monthly": 260,
+      "weekly": 260
+    },
+    "pi-agents-team": {
+      "monthly": 260,
+      "weekly": 125
+    },
+    "pi-git-commands-extension": {
+      "monthly": 274,
+      "weekly": 6
+    },
+    "pi-runtime-extensions": {
+      "monthly": 254,
+      "weekly": 8
+    },
+    "@artale/pi-git-graph": {
+      "monthly": 253,
+      "weekly": 19
+    },
+    "pi-agentarium": {
+      "monthly": 256,
+      "weekly": 256
+    },
+    "@justestif/wiki-agent": {
+      "monthly": 270,
+      "weekly": 14
+    },
+    "pi-workbench": {
+      "monthly": 243,
+      "weekly": 38
+    },
+    "pi-thinking-level": {
+      "monthly": 257,
+      "weekly": 15
+    },
+    "@baochunli/pi-collaborating-agents": {
+      "monthly": 271,
+      "weekly": 9
+    },
+    "pi-ui-minimal": {
+      "monthly": 254,
+      "weekly": 10
+    },
+    "pi-timer": {
+      "monthly": 256,
+      "weekly": 23
+    },
+    "@badliveware/pi-rich-output": {
+      "monthly": 249,
+      "weekly": 249
+    },
+    "@ryan_nookpi/pi-extension-codex-large-context": {
+      "monthly": 254,
+      "weekly": 8
+    },
+    "pi-move-session": {
+      "monthly": 270,
+      "weekly": 37
+    },
+    "@benvargas/pi-openai-fast": {
+      "monthly": 239,
+      "weekly": 30
+    },
+    "pi-resume-hint": {
+      "monthly": 248,
+      "weekly": 248
+    },
+    "@jeonghyeon.net/pi-web-access": {
+      "monthly": 264,
+      "weekly": 18
+    },
+    "pi-session-title": {
+      "monthly": 247,
+      "weekly": 6
+    },
+    "pi-code-rollback": {
+      "monthly": 266,
+      "weekly": 6
+    },
+    "pi-sync-suite": {
+      "monthly": 263,
+      "weekly": 263
+    },
+    "@superwhisper/pi": {
+      "monthly": 251,
+      "weekly": 251
+    },
+    "ultimate-pi": {
+      "monthly": 262,
+      "weekly": 11
+    },
+    "pi-mimo": {
+      "monthly": 264,
+      "weekly": 117
+    },
+    "pi-claude-tasks": {
+      "monthly": 245,
+      "weekly": 7
+    },
+    "pi-fast-mode": {
+      "monthly": 250,
+      "weekly": 14
+    },
+    "pi-dispatch": {
+      "monthly": 244,
+      "weekly": 14
+    },
+    "pi-codesight": {
+      "monthly": 249,
+      "weekly": 17
+    },
+    "pi-git-guardrails": {
+      "monthly": 263,
+      "weekly": 263
+    },
+    "pi-modes": {
+      "monthly": 247,
+      "weekly": 247
+    },
+    "@agnishc/edb-usage-stats": {
+      "monthly": 232,
+      "weekly": 232
+    },
+    "@mjakl/pi-subagent": {
+      "monthly": 232,
+      "weekly": 38
+    },
+    "pi-secure-env-collect": {
+      "monthly": 246,
+      "weekly": 4
+    },
+    "@tmustier/pi-session-recap": {
+      "monthly": 241,
+      "weekly": 15
+    },
+    "pi-deep-research": {
+      "monthly": 245,
+      "weekly": 47
+    },
+    "@gnoviawan/pi-setup-providers": {
+      "monthly": 230,
+      "weekly": 230
+    },
+    "pi-import-claude-history": {
+      "monthly": 259,
+      "weekly": 259
+    },
+    "pi-headroom": {
+      "monthly": 228,
+      "weekly": 54
+    },
+    "@ifi/pi-provider-catalog": {
+      "monthly": 238,
+      "weekly": 238
+    },
+    "@brain0pia/pi-ultrathink": {
+      "monthly": 226,
+      "weekly": 34
+    },
+    "@shiina18/pi-ask-user-question": {
+      "monthly": 226,
+      "weekly": 226
+    },
+    "@ogulcancelik/pi-ghost": {
+      "monthly": 250,
+      "weekly": 133
+    },
+    "@thurstonsand/pi-powerline-footer": {
+      "monthly": 250,
+      "weekly": 9
+    },
+    "pi-models-dev-providers": {
+      "monthly": 239,
+      "weekly": 3
+    },
+    "pi-linear": {
+      "monthly": 239,
+      "weekly": 12
+    },
+    "pi-provider-crofai": {
+      "monthly": 239,
+      "weekly": 239
+    },
+    "pi-go-review": {
+      "monthly": 237,
+      "weekly": 7
+    },
+    "@agnishc/edb-explore": {
+      "monthly": 225,
+      "weekly": 225
+    },
+    "pi-discord-activity": {
+      "monthly": 249,
+      "weekly": 4
+    },
+    "pi-mention-skills": {
+      "monthly": 251,
+      "weekly": 19
+    },
+    "@agnishc/edb-herald": {
+      "monthly": 238,
+      "weekly": 238
+    },
+    "@tmustier/pi-tab-status": {
+      "monthly": 224,
+      "weekly": 84
+    },
+    "expert-ai": {
+      "monthly": 252,
+      "weekly": 18
+    },
+    "pi-exa-tools": {
+      "monthly": 250,
+      "weekly": 250
+    },
+    "@dreki-gg/pi-lsp": {
+      "monthly": 237,
+      "weekly": 23
+    },
+    "@wechatbot/pi-agent": {
+      "monthly": 247,
+      "weekly": 18
+    },
+    "@baggiiiie/pi-codex-usage": {
+      "monthly": 236,
+      "weekly": 14
+    },
+    "@siddr/pi-cmux-status": {
+      "monthly": 234,
+      "weekly": 19
+    },
+    "@ifi/pi-remote-tailscale": {
+      "monthly": 236,
+      "weekly": 236
+    },
+    "pi-toasty": {
+      "monthly": 231,
+      "weekly": 8
+    },
+    "@ifi/pi-diagnostics": {
+      "monthly": 231,
+      "weekly": 231
+    },
+    "pi-agent-colony": {
+      "monthly": 246,
+      "weekly": 140
+    },
+    "@byteowlz/pi-auto-rename": {
+      "monthly": 250,
+      "weekly": 26
+    },
+    "@pi-lab/env": {
+      "monthly": 235,
+      "weekly": 124
+    },
+    "pi-onecli-extension": {
+      "monthly": 235,
+      "weekly": 235
+    },
+    "flexoki-pi-theme": {
+      "monthly": 230,
+      "weekly": 230
+    },
+    "pi-sensitive-guard": {
+      "monthly": 232,
+      "weekly": 232
+    },
+    "@aboutlo/pi-smart-edit": {
+      "monthly": 244,
+      "weekly": 19
+    },
+    "@baggiiiie/pi-context-chart": {
+      "monthly": 248,
+      "weekly": 20
+    },
+    "pi-markitdown": {
+      "monthly": 247,
+      "weekly": 247
+    },
+    "pi-collapse-tools": {
+      "monthly": 245,
+      "weekly": 171
+    },
+    "pi-openai-service-tier": {
+      "monthly": 227,
+      "weekly": 227
+    },
+    "pi-llm-council": {
+      "monthly": 242,
+      "weekly": 7
+    },
+    "@sirsyorrz/pi-statusline": {
+      "monthly": 229,
+      "weekly": 12
+    },
+    "pi-blueprint": {
+      "monthly": 217,
+      "weekly": 28
+    },
+    "pi-model-profiles": {
+      "monthly": 228,
+      "weekly": 128
+    },
+    "@pi-lab/webfetch": {
+      "monthly": 244,
+      "weekly": 8
+    },
+    "pi-package-template": {
+      "monthly": 240,
+      "weekly": 240
+    },
+    "pi-multi-provider-manager": {
+      "monthly": 242,
+      "weekly": 41
+    },
+    "@tomooshi/caveman-milk-pi": {
+      "monthly": 239,
+      "weekly": 33
+    },
+    "pi-rustdex": {
+      "monthly": 224,
+      "weekly": 14
+    },
+    "pi-go-bars": {
+      "monthly": 241,
+      "weekly": 241
+    },
+    "@diegopetrucci/pi-oracle": {
+      "monthly": 228,
+      "weekly": 26
+    },
+    "@ogulcancelik/pi-tmux": {
+      "monthly": 228,
+      "weekly": 13
+    },
+    "@agnishc/edb-append-system-prompt": {
+      "monthly": 215,
+      "weekly": 215
+    },
+    "@the-forge-flow/memory-graph": {
+      "monthly": 223,
+      "weekly": 223
+    },
+    "pi-model-cycler": {
+      "monthly": 227,
+      "weekly": 227
+    },
+    "@agnishc/edb-todo": {
+      "monthly": 227,
+      "weekly": 227
+    },
+    "@ifi/pi-pretty": {
+      "monthly": 222,
+      "weekly": 222
+    },
+    "@agnishc/edb-claude-proxy": {
+      "monthly": 226,
+      "weekly": 226
+    },
+    "pi-headless-subagent": {
+      "monthly": 226,
+      "weekly": 226
+    },
+    "pi-codex-web-search": {
+      "monthly": 224,
+      "weekly": 38
+    },
+    "@agnishc/edb-diff-files": {
+      "monthly": 221,
+      "weekly": 221
+    },
+    "@ryan_nookpi/pi-extension-setup-sh": {
+      "monthly": 221,
+      "weekly": 221
+    },
+    "@ifi/pi-extension-adaptive-routing": {
+      "monthly": 235,
+      "weekly": 235
+    },
+    "@pi-unipi/input-shortcuts": {
+      "monthly": 222,
+      "weekly": 222
+    },
+    "pi-thinking-timer": {
+      "monthly": 237,
+      "weekly": 25
+    },
+    "pi-tmux-cursor-focus": {
+      "monthly": 233,
+      "weekly": 233
+    },
+    "@sysid/pi-sandbox": {
+      "monthly": 221,
+      "weekly": 74
+    },
+    "@agnishc/edb-global-footer": {
+      "monthly": 221,
+      "weekly": 221
+    },
+    "pi-compass": {
+      "monthly": 221,
+      "weekly": 33
+    },
+    "pi-lcm-memory": {
+      "monthly": 218,
+      "weekly": 218
+    },
+    "@e9n/pi-webserver": {
+      "monthly": 234,
+      "weekly": 170
+    },
+    "@arcadia64/pi-ddgs": {
+      "monthly": 235,
+      "weekly": 235
+    },
+    "pi-nvim": {
+      "monthly": 221,
+      "weekly": 74
+    },
+    "@ifi/pi-bash-live-view": {
+      "monthly": 216,
+      "weekly": 216
+    },
+    "pi-telebridge": {
+      "monthly": 216,
+      "weekly": 33
+    },
+    "pi-live-terminal": {
+      "monthly": 230,
+      "weekly": 230
+    },
+    "pi-caffeinated": {
+      "monthly": 232,
+      "weekly": 232
+    },
+    "pi-shit": {
+      "monthly": 218,
+      "weekly": 33
+    },
+    "pi-animations": {
+      "monthly": 219,
+      "weekly": 47
+    },
+    "@zhaopengme/pi-notify": {
+      "monthly": 217,
+      "weekly": 217
+    },
+    "@gnoviawan/pi-compact-tool-preview": {
+      "monthly": 228,
+      "weekly": 228
+    },
+    "pi-cache-timer": {
+      "monthly": 230,
+      "weekly": 6
+    },
+    "nowledge-mem-pi": {
+      "monthly": 218,
+      "weekly": 19
+    },
+    "pi-tutor": {
+      "monthly": 218,
+      "weekly": 2
+    },
+    "pi-dj": {
+      "monthly": 231,
+      "weekly": 63
+    },
+    "@aedge-io/typed-clone": {
+      "monthly": 204,
+      "weekly": 16
+    },
+    "pi-redteam": {
+      "monthly": 229,
+      "weekly": 18
+    },
+    "@blackbelt-technology/pi-dashboard-plugin-skill": {
+      "monthly": 229,
+      "weekly": 229
+    },
+    "nano-team": {
+      "monthly": 213,
+      "weekly": 213
+    },
+    "@tmustier/pi-agent-guidance": {
+      "monthly": 213,
+      "weekly": 45
+    },
+    "@nhalm/pi-specd": {
+      "monthly": 210,
+      "weekly": 210
+    },
+    "@dreki-gg/pi-plan-mode": {
+      "monthly": 202,
+      "weekly": 31
+    },
+    "@fgladisch/pi-bash-approval": {
+      "monthly": 213,
+      "weekly": 168
+    },
+    "pi-semantic": {
+      "monthly": 225,
+      "weekly": 6
+    },
+    "@artale/pi-memory": {
+      "monthly": 212,
+      "weekly": 176
+    },
+    "@the-agency/pi-hashline-edit": {
+      "monthly": 212,
+      "weekly": 11
+    },
+    "pi-theme-flexoki": {
+      "monthly": 200,
+      "weekly": 36
+    },
+    "pi-custom-compaction": {
+      "monthly": 200,
+      "weekly": 60
+    },
+    "@artale/pi-comply": {
+      "monthly": 210,
+      "weekly": 24
+    },
+    "pi-tldr": {
+      "monthly": 223,
+      "weekly": 223
+    },
+    "@firstpick/pi-extension-stats": {
+      "monthly": 207,
+      "weekly": 207
+    },
+    "pi-smart-sessions": {
+      "monthly": 207,
+      "weekly": 40
+    },
+    "@ifi/pi-provider-ollama": {
+      "monthly": 211,
+      "weekly": 211
+    },
+    "@benvargas/pi-firecrawl": {
+      "monthly": 211,
+      "weekly": 29
+    },
+    "omp-openai-provider-tools": {
+      "monthly": 211,
+      "weekly": 211
+    },
+    "pi-insights": {
+      "monthly": 199,
+      "weekly": 9
+    },
+    "@siddr/pi-status": {
+      "monthly": 223,
+      "weekly": 11
+    },
+    "@odradekk/vera-memory": {
+      "monthly": 210,
+      "weekly": 10
+    },
+    "saasufy-agent-skills": {
+      "monthly": 198,
+      "weekly": 198
+    },
+    "@siddr/pi-fetch-url": {
+      "monthly": 198,
+      "weekly": 12
+    },
+    "@zgltyq/pi-provider-kimi-code": {
+      "monthly": 220,
+      "weekly": 11
+    },
+    "@fgladisch/pi-user-select": {
+      "monthly": 220,
+      "weekly": 220
+    },
+    "@carlosgtrz/pi-ansi-tools": {
+      "monthly": 207,
+      "weekly": 207
+    },
+    "@the-agency/pi-tokenshrink": {
+      "monthly": 204,
+      "weekly": 14
+    },
+    "@odradekk/vera-ui": {
+      "monthly": 206,
+      "weekly": 7
+    },
+    "@artale/pi-cost": {
+      "monthly": 196,
+      "weekly": 13
+    },
+    "pi-workflow-agent": {
+      "monthly": 220,
+      "weekly": 220
+    },
+    "@agnishc/edb-agent-steer": {
+      "monthly": 218,
+      "weekly": 218
+    },
+    "pi-ask-mode": {
+      "monthly": 218,
+      "weekly": 36
+    },
+    "@agnishc/edb-gemini-proxy": {
+      "monthly": 219,
+      "weekly": 219
+    },
+    "agent-booster-pack-contract-first": {
+      "monthly": 219,
+      "weekly": 219
+    },
+    "pi-planning-with-files": {
+      "monthly": 205,
+      "weekly": 60
+    },
+    "@the-agency/pi-spec-kit": {
+      "monthly": 204,
+      "weekly": 23
+    },
+    "pi-universal-view": {
+      "monthly": 212,
+      "weekly": 22
+    },
+    "@artale/pi-wordle": {
+      "monthly": 203,
+      "weekly": 16
+    },
+    "@siddr/pi-prompt-thinking": {
+      "monthly": 201,
+      "weekly": 17
+    },
+    "@the-forge-flow/pi-rules": {
+      "monthly": 201,
+      "weekly": 201
+    },
+    "pi-stock-ticker": {
+      "monthly": 213,
+      "weekly": 58
+    },
+    "@firstpick/pi-extension-safety-guard": {
+      "monthly": 214,
+      "weekly": 214
+    },
+    "@stenn/tps-monitor": {
+      "monthly": 200,
+      "weekly": 16
+    },
+    "@pi-unipi/updater": {
+      "monthly": 212,
+      "weekly": 212
+    },
+    "pi-copy-output": {
+      "monthly": 212,
+      "weekly": 12
+    },
+    "@zgltyq/pi-minimax-image": {
+      "monthly": 201,
+      "weekly": 6
+    },
+    "@artale/pi-design": {
+      "monthly": 201,
+      "weekly": 201
+    },
+    "@agnishc/edb-ask-user": {
+      "monthly": 211,
+      "weekly": 211
+    },
+    "pi-mono-linear": {
+      "monthly": 209,
+      "weekly": 209
+    },
+    "@ogulcancelik/pi-spar": {
+      "monthly": 209,
+      "weekly": 133
+    },
+    "@zhangweiii/pi-status-line": {
+      "monthly": 189,
+      "weekly": 13
+    },
+    "@artale/pi-http": {
+      "monthly": 188,
+      "weekly": 15
+    },
+    "@qmxme/pi-lametric-notify": {
+      "monthly": 197,
+      "weekly": 11
+    },
+    "@e9n/pi-web-dashboard": {
+      "monthly": 209,
+      "weekly": 160
+    },
+    "@mrclrchtr/supi": {
+      "monthly": 210,
+      "weekly": 8
+    },
+    "@siddr/pi-openai-params": {
+      "monthly": 198,
+      "weekly": 11
+    },
+    "pi-monitor": {
+      "monthly": 187,
+      "weekly": 14
+    },
+    "@siesing/pi-shortcuts": {
+      "monthly": 193,
+      "weekly": 193
+    },
+    "@jamesjfoong/pi-ollama": {
+      "monthly": 195,
+      "weekly": 195
+    },
+    "agent-booster-pack-skills": {
+      "monthly": 208,
+      "weekly": 208
+    },
+    "@unseated7635/pi-roxy-seo": {
+      "monthly": 192,
+      "weekly": 192
+    },
+    "hive-agent": {
+      "monthly": 204,
+      "weekly": 6
+    },
+    "@siddr/pi-web-search": {
+      "monthly": 204,
+      "weekly": 7
+    },
+    "pi-wakatime": {
+      "monthly": 195,
+      "weekly": 28
+    },
+    "@jerryan/pi-task-tree": {
+      "monthly": 205,
+      "weekly": 0
+    },
+    "@e9n/pi-cron": {
+      "monthly": 203,
+      "weekly": 160
+    },
+    "pi-beads-extension": {
+      "monthly": 193,
+      "weekly": 40
+    },
+    "@gaodes/pi-test-harness": {
+      "monthly": 204,
+      "weekly": 204
+    },
+    "@ifi/pi-provider-cursor": {
+      "monthly": 203,
+      "weekly": 203
+    },
+    "pi-fetch-markdown": {
+      "monthly": 203,
+      "weekly": 203
+    },
+    "@firstpick/pi-extension-reverse-last": {
+      "monthly": 201,
+      "weekly": 201
+    },
+    "@treentity/pi-imessage": {
+      "monthly": 191,
+      "weekly": 4
+    },
+    "@paulrobello/par-tts-core-ts": {
+      "monthly": 204,
+      "weekly": 204
+    },
+    "pi-grounded-compaction": {
+      "monthly": 204,
+      "weekly": 174
+    },
+    "@davidorex/pi-jit-agents": {
+      "monthly": 181,
+      "weekly": 181
+    },
+    "pi-copilot-usage": {
+      "monthly": 191,
+      "weekly": 17
+    },
+    "@firstpick/pi-extension-plan-mode-toggle": {
+      "monthly": 191,
+      "weekly": 191
+    },
+    "@parallel-web/pi-extension": {
+      "monthly": 199,
+      "weekly": 199
+    },
+    "@burneikis/pi-nolo": {
+      "monthly": 187,
+      "weekly": 6
+    },
+    "@artale/pi-eval": {
+      "monthly": 198,
+      "weekly": 18
+    },
+    "pi-session-merge": {
+      "monthly": 199,
+      "weekly": 199
+    },
+    "@odradekk/vera-session-tools": {
+      "monthly": 185,
+      "weekly": 104
+    },
+    "@artale/pi-weigh": {
+      "monthly": 188,
+      "weekly": 22
+    },
+    "pi-session-manager": {
+      "monthly": 188,
+      "weekly": 11
+    },
+    "pi-ghostty": {
+      "monthly": 184,
+      "weekly": 34
+    },
+    "pi-skill-toggle": {
+      "monthly": 186,
+      "weekly": 153
+    },
+    "pi-clinical-trial-finder": {
+      "monthly": 182,
+      "weekly": 182
+    },
+    "@fulcrum-agent-os/pi-cockpit": {
+      "monthly": 193,
+      "weekly": 6
+    },
+    "pi-openai-codex-status": {
+      "monthly": 182,
+      "weekly": 21
+    },
+    "@rjshrjndrn/pi-fetch": {
+      "monthly": 183,
+      "weekly": 13
+    },
+    "@artale/pi-typing": {
+      "monthly": 173,
+      "weekly": 14
+    },
+    "shitty-extensions": {
+      "monthly": 192,
+      "weekly": 55
+    },
+    "pi-task-subagents": {
+      "monthly": 190,
+      "weekly": 24
+    },
+    "pi-shell-completions": {
+      "monthly": 182,
+      "weekly": 162
+    },
+    "@e9n/pi-logger": {
+      "monthly": 180,
+      "weekly": 138
+    },
+    "pi-memd": {
+      "monthly": 192,
+      "weekly": 192
+    },
+    "@howaboua/pi-markdown-workflows": {
+      "monthly": 181,
+      "weekly": 12
+    },
+    "pi-files-touched": {
+      "monthly": 177,
+      "weekly": 161
+    },
+    "@claaslange/pi-progress-bar": {
+      "monthly": 189,
+      "weekly": 10
+    },
+    "pi-per-model-prompt": {
+      "monthly": 178,
+      "weekly": 16
+    },
+    "pi-prompt-save": {
+      "monthly": 187,
+      "weekly": 20
+    },
+    "@artale/pi-deps": {
+      "monthly": 179,
+      "weekly": 13
+    },
+    "@e9n/pi-telemetry": {
+      "monthly": 169,
+      "weekly": 156
+    },
+    "@gotgenes/pi-autoformat": {
+      "monthly": 177,
+      "weekly": 137
+    },
+    "@eliemessiecode/pi-code-theme": {
+      "monthly": 178,
+      "weekly": 12
+    },
+    "pi-native-search": {
+      "monthly": 178,
+      "weekly": 178
+    },
+    "@artale/pi-scaffold": {
+      "monthly": 187,
+      "weekly": 13
+    },
+    "@kaiserlich-dev/pi-queue-picker": {
+      "monthly": 174,
+      "weekly": 9
+    },
+    "pi-enclave": {
+      "monthly": 187,
+      "weekly": 13
+    },
+    "@codexstar/pi-side-chat": {
+      "monthly": 176,
+      "weekly": 139
+    },
+    "@artale/pi-hex": {
+      "monthly": 176,
+      "weekly": 16
+    },
+    "pi-perplexity": {
+      "monthly": 185,
+      "weekly": 46
+    },
+    "@odradekk/vera-subagents": {
+      "monthly": 184,
+      "weekly": 120
+    },
+    "@burneikis/pi-vim": {
+      "monthly": 165,
+      "weekly": 33
+    },
+    "pi-permissions": {
+      "monthly": 165,
+      "weekly": 54
+    },
+    "pi-rollback": {
+      "monthly": 170,
+      "weekly": 8
+    },
+    "@haispeed/pi-deck": {
+      "monthly": 173,
+      "weekly": 26
+    },
+    "@artale/pi-diff": {
+      "monthly": 169,
+      "weekly": 16
+    },
+    "@roodriigoooo/trail": {
+      "monthly": 179,
+      "weekly": 179
+    },
+    "pi-yank": {
+      "monthly": 179,
+      "weekly": 9
+    },
+    "pi-rtk": {
+      "monthly": 171,
+      "weekly": 37
+    },
+    "@odradekk/vera-chimeras": {
+      "monthly": 178,
+      "weekly": 113
+    },
+    "pi-tokensaver": {
+      "monthly": 169,
+      "weekly": 21
+    },
+    "@e9n/pi-gmail": {
+      "monthly": 167,
+      "weekly": 143
+    },
+    "@artale/pi-intel": {
+      "monthly": 170,
+      "weekly": 18
+    },
+    "compound-engineering-pi": {
+      "monthly": 179,
+      "weekly": 56
+    },
+    "@gigachain/pi-gigachat": {
+      "monthly": 160,
+      "weekly": 10
+    },
+    "pi-exa-search": {
+      "monthly": 165,
+      "weekly": 16
+    },
+    "@neuron-mr-white/pi-zenmux": {
+      "monthly": 175,
+      "weekly": 8
+    },
+    "@artale/pi-port": {
+      "monthly": 176,
+      "weekly": 12
+    },
+    "@artale/pi-bench": {
+      "monthly": 177,
+      "weekly": 16
+    },
+    "pi-tps-monitor": {
+      "monthly": 174,
+      "weekly": 40
+    },
+    "psm-bridge": {
+      "monthly": 167,
+      "weekly": 14
+    },
+    "@artale/pi-changelog": {
+      "monthly": 175,
+      "weekly": 14
+    },
+    "@latent-variable/pi-auto-continue": {
+      "monthly": 175,
+      "weekly": 17
+    },
+    "@artale/pi-bux": {
+      "monthly": 175,
+      "weekly": 175
+    },
+    "caveman-pi": {
+      "monthly": 172,
+      "weekly": 17
+    },
+    "@artale/pi-pong": {
+      "monthly": 174,
+      "weekly": 21
+    },
+    "@vanillagreen/pi-codex-minimal-tools": {
+      "monthly": 161,
+      "weekly": 161
+    },
+    "@e9n/pi-workon": {
+      "monthly": 164,
+      "weekly": 147
+    },
+    "@e9n/pi-jobs": {
+      "monthly": 162,
+      "weekly": 147
+    },
+    "@tmustier/extending-pi": {
+      "monthly": 163,
+      "weekly": 11
+    },
+    "@thesethrose/pi-zai-provider": {
+      "monthly": 172,
+      "weekly": 23
+    },
+    "pi-command-history": {
+      "monthly": 160,
+      "weekly": 51
+    },
+    "@kushagharahi/pi-llama-extensions": {
+      "monthly": 161,
+      "weekly": 161
+    },
+    "@e9n/pi-personal-crm": {
+      "monthly": 161,
+      "weekly": 149
+    },
+    "@juanibiapina/pi-plan": {
+      "monthly": 170,
+      "weekly": 43
+    },
+    "pi-permission": {
+      "monthly": 152,
+      "weekly": 16
+    },
+    "@grwnd/pi-governance": {
+      "monthly": 160,
+      "weekly": 23
+    },
+    "pi-edit-replace-all": {
+      "monthly": 158,
+      "weekly": 7
+    },
+    "pi-reread-instructions": {
+      "monthly": 155,
+      "weekly": 8
+    },
+    "pi-bash-image": {
+      "monthly": 157,
+      "weekly": 137
+    },
+    "pi-ffmpeg": {
+      "monthly": 148,
+      "weekly": 120
+    },
+    "@e9n/pi-projects": {
+      "monthly": 156,
+      "weekly": 142
+    },
+    "pi-code-review": {
+      "monthly": 156,
+      "weekly": 15
+    },
+    "tasty-pi": {
+      "monthly": 154,
+      "weekly": 1
+    },
+    "@swairshah/pi-canvas": {
+      "monthly": 154,
+      "weekly": 8
+    },
+    "@firstpick/pi-extension-todo-progress": {
+      "monthly": 152,
+      "weekly": 152
+    },
+    "@rxreyn3/pi-azure-devops": {
+      "monthly": 153,
+      "weekly": 153
+    },
+    "@vaayne/pi-mcp": {
+      "monthly": 159,
+      "weekly": 14
+    },
+    "pi-provider-litellm": {
+      "monthly": 159,
+      "weekly": 159
+    },
+    "@tmustier/pi-session-hud": {
+      "monthly": 159,
+      "weekly": 17
+    },
+    "pi-betterdiff": {
+      "monthly": 160,
+      "weekly": 12
+    },
+    "@artale/pi-fi": {
+      "monthly": 161,
+      "weekly": 37
+    },
+    "@kmiyh/pi-extensions-menu": {
+      "monthly": 144,
+      "weekly": 5
+    },
+    "@e9n/pi-kysely": {
+      "monthly": 160,
+      "weekly": 149
+    },
+    "pi-skill-evolution": {
+      "monthly": 157,
+      "weekly": 48
+    },
+    "@manojlds/ralphi": {
+      "monthly": 159,
+      "weekly": 40
+    },
+    "pi-cavekit": {
+      "monthly": 150,
+      "weekly": 9
+    },
+    "pi-simple": {
+      "monthly": 147,
+      "weekly": 147
+    },
+    "pi-caveman-mode": {
+      "monthly": 157,
+      "weekly": 23
+    },
+    "pi-model-aware-compaction": {
+      "monthly": 157,
+      "weekly": 30
+    },
+    "@wierdbytes/pi-web": {
+      "monthly": 148,
+      "weekly": 148
+    },
+    "@rhobot-dev/rho": {
+      "monthly": 149,
+      "weekly": 17
+    },
+    "@raindrop-ai/pi-agent": {
+      "monthly": 155,
+      "weekly": 22
+    },
+    "ai-call": {
+      "monthly": 146,
+      "weekly": 9
+    },
+    "@pfeodrippe/repling-pi": {
+      "monthly": 156,
+      "weekly": 156
+    },
+    "@kmiyh/pi-full-text-paste": {
+      "monthly": 145,
+      "weekly": 5
+    },
+    "@aliou/pi-extension-dev": {
+      "monthly": 155,
+      "weekly": 58
+    },
+    "pi-bmad-flow": {
+      "monthly": 140,
+      "weekly": 49
+    },
+    "pi-model-selector-x": {
+      "monthly": 140,
+      "weekly": 140
+    },
+    "pi-spec": {
+      "monthly": 146,
+      "weekly": 146
+    },
+    "pi-llm-wiki": {
+      "monthly": 147,
+      "weekly": 31
+    },
+    "@e9n/pi-heartbeat": {
+      "monthly": 153,
+      "weekly": 128
+    },
+    "@wierdbytes/pi-statusline": {
+      "monthly": 154,
+      "weekly": 154
+    },
+    "@justestif/nb-agent": {
+      "monthly": 144,
+      "weekly": 144
+    },
+    "pi-missions": {
+      "monthly": 139,
+      "weekly": 32
+    },
+    "@royalrat-pack/pi-extension-nvidia-build-provider": {
+      "monthly": 146,
+      "weekly": 146
+    },
+    "pi-dracula": {
+      "monthly": 146,
+      "weekly": 13
+    },
+    "pi-codex-image": {
+      "monthly": 145,
+      "weekly": 10
+    },
+    "pi-session-yank": {
+      "monthly": 137,
+      "weekly": 1
+    },
+    "@anistark/iconify": {
+      "monthly": 144,
+      "weekly": 18
+    },
+    "pi-token-usage": {
+      "monthly": 144,
+      "weekly": 35
+    },
+    "@datspike/pi-inline-slash-extension": {
+      "monthly": 151,
+      "weekly": 7
+    },
+    "pi-session-name": {
+      "monthly": 141,
+      "weekly": 10
+    },
+    "pi-augment": {
+      "monthly": 141,
+      "weekly": 31
+    },
+    "@artale/pi-bundle": {
+      "monthly": 149,
+      "weekly": 7
+    },
+    "pi-fallback-provider": {
+      "monthly": 150,
+      "weekly": 12
+    },
+    "pi-doom": {
+      "monthly": 143,
+      "weekly": 55
+    },
+    "pi-slop-review": {
+      "monthly": 143,
+      "weekly": 143
+    },
+    "pi-ollama-keyring": {
+      "monthly": 135,
+      "weekly": 11
+    },
+    "pi-review": {
+      "monthly": 149,
+      "weekly": 22
+    },
+    "@lnittman/pi-tools": {
+      "monthly": 149,
+      "weekly": 3
+    },
+    "@ryan_nookpi/pi-extension-cross-agent": {
+      "monthly": 142,
+      "weekly": 8
+    },
+    "@ryan_nookpi/pi-extension-claude-hooks-bridge": {
+      "monthly": 142,
+      "weekly": 4
+    },
+    "pi-restrict-bash": {
+      "monthly": 142,
+      "weekly": 5
+    },
+    "@odradekk/vera-setup": {
+      "monthly": 139,
+      "weekly": 11
+    },
+    "pi-glimpse-changes": {
+      "monthly": 147,
+      "weekly": 147
+    },
+    "@i-language/autocode": {
+      "monthly": 134,
+      "weekly": 134
+    },
+    "pi-commit-message": {
+      "monthly": 140,
+      "weekly": 140
+    },
+    "@vaayne/pi-web-tools": {
+      "monthly": 141,
+      "weekly": 7
+    },
+    "pi-cycle": {
+      "monthly": 141,
+      "weekly": 8
+    },
+    "pi-lcm": {
+      "monthly": 141,
+      "weekly": 38
+    },
+    "pi-treex": {
+      "monthly": 146,
+      "weekly": 18
+    },
+    "oh-my-pi-typescript": {
+      "monthly": 133,
+      "weekly": 9
+    },
+    "pi-minimax-tools": {
+      "monthly": 139,
+      "weekly": 18
+    },
+    "pi-sentry-monitor": {
+      "monthly": 137,
+      "weekly": 24
+    },
+    "@lnittman/pi-prompts": {
+      "monthly": 146,
+      "weekly": 2
+    },
+    "pi-sync-config": {
+      "monthly": 132,
+      "weekly": 4
+    },
+    "pi-agent-config": {
+      "monthly": 136,
+      "weekly": 136
+    },
+    "pi-status": {
+      "monthly": 136,
+      "weekly": 136
+    },
+    "pi-worktree": {
+      "monthly": 136,
+      "weekly": 18
+    },
+    "pi-ollama-cloud-provider": {
+      "monthly": 146,
+      "weekly": 146
+    },
+    "pi-reduce": {
+      "monthly": 146,
+      "weekly": 5
+    },
+    "pi-flare": {
+      "monthly": 145,
+      "weekly": 8
+    },
+    "pi-context-injector": {
+      "monthly": 131,
+      "weekly": 131
+    },
+    "pi-cli-dynamic-tools": {
+      "monthly": 131,
+      "weekly": 5
+    },
+    "@ryan_nookpi/pi-extension-memory-layer": {
+      "monthly": 137,
+      "weekly": 8
+    },
+    "@i-language/mem-forever": {
+      "monthly": 137,
+      "weekly": 137
+    },
+    "pi-mac-tools": {
+      "monthly": 142,
+      "weekly": 4
+    },
+    "pi-fast-apply": {
+      "monthly": 134,
+      "weekly": 12
+    },
+    "pi-session-cleanup": {
+      "monthly": 136,
+      "weekly": 136
+    },
+    "pi-compound": {
+      "monthly": 141,
+      "weekly": 10
+    },
+    "@ctogg/pi-cost-counter": {
+      "monthly": 141,
+      "weekly": 4
+    },
+    "pi-typst-skill": {
+      "monthly": 135,
+      "weekly": 135
+    },
+    "pi-chatgpt-usage-status": {
+      "monthly": 135,
+      "weekly": 135
+    },
+    "@akshaykarle/pi-tools": {
+      "monthly": 128,
+      "weekly": 128
+    },
+    "pi-window-title": {
+      "monthly": 141,
+      "weekly": 9
+    },
+    "pi-mpc": {
+      "monthly": 132,
+      "weekly": 5
+    },
+    "pi-modus-themes": {
+      "monthly": 134,
+      "weekly": 134
+    },
+    "pi-fastboot": {
+      "monthly": 141,
+      "weekly": 17
+    },
+    "pi-agentic-compaction": {
+      "monthly": 131,
+      "weekly": 28
+    },
+    "@pi-lab/websearch": {
+      "monthly": 133,
+      "weekly": 133
+    },
+    "pi-igotchu": {
+      "monthly": 126,
+      "weekly": 4
+    },
+    "pi-prefer-rg": {
+      "monthly": 126,
+      "weekly": 8
+    },
+    "pi-plankton": {
+      "monthly": 140,
+      "weekly": 140
+    },
+    "@bonsai-ai/pi-extension": {
+      "monthly": 132,
+      "weekly": 73
+    },
+    "pi-open-browser": {
+      "monthly": 132,
+      "weekly": 2
+    },
+    "pi-spell-check": {
+      "monthly": 132,
+      "weekly": 4
+    },
+    "@aliou/pi-theme-jellybeans": {
+      "monthly": 137,
+      "weekly": 47
+    },
+    "pi-drawio": {
+      "monthly": 138,
+      "weekly": 138
+    },
+    "ypi": {
+      "monthly": 131,
+      "weekly": 23
+    },
+    "pi-free-web-search": {
+      "monthly": 131,
+      "weekly": 51
+    },
+    "pi-block-unknown-command": {
+      "monthly": 130,
+      "weekly": 5
+    },
+    "pi-image-subagent": {
+      "monthly": 138,
+      "weekly": 6
+    },
+    "pi-promptsmith": {
+      "monthly": 138,
+      "weekly": 54
+    },
+    "pi-proof": {
+      "monthly": 136,
+      "weekly": 5
+    },
+    "pi-pilot": {
+      "monthly": 128,
+      "weekly": 128
+    },
+    "pi-modalmotion": {
+      "monthly": 130,
+      "weekly": 130
+    },
+    "@ryan_nookpi/pi-extension-claude-spinner": {
+      "monthly": 130,
+      "weekly": 6
+    },
+    "pi-autopilot-complete": {
+      "monthly": 130,
+      "weekly": 130
+    },
+    "@e9n/pi-brave-search": {
+      "monthly": 137,
+      "weekly": 137
+    },
+    "@blackbelt-technology/pi-model-proxy": {
+      "monthly": 136,
+      "weekly": 39
+    },
+    "pi-agents-local": {
+      "monthly": 123,
+      "weekly": 123
+    },
+    "pi-treequest-parallel-processing": {
+      "monthly": 127,
+      "weekly": 127
+    },
+    "@originintelligence/pi-figma": {
+      "monthly": 129,
+      "weekly": 16
+    },
+    "pi-parallel-web-search": {
+      "monthly": 136,
+      "weekly": 47
+    },
+    "pi-terminal-signals": {
+      "monthly": 136,
+      "weekly": 23
+    },
+    "pi-effect-harness": {
+      "monthly": 134,
+      "weekly": 134
+    },
+    "pi-agent-booster-pack": {
+      "monthly": 126,
+      "weekly": 126
+    },
+    "pi-superpowers": {
+      "monthly": 126,
+      "weekly": 54
+    },
+    "pi-xai-imagine": {
+      "monthly": 128,
+      "weekly": 11
+    },
+    "@juicesharp/rpiv-warp": {
+      "monthly": 128,
+      "weekly": 128
+    },
+    "@studiosunnyfield/pimagotchi": {
+      "monthly": 135,
+      "weekly": 22
+    },
+    "@lukemelnik/pi-model-prompt": {
+      "monthly": 135,
+      "weekly": 5
+    },
+    "pi-karpathy-guidelines": {
+      "monthly": 128,
+      "weekly": 128
+    },
+    "pi-clawd": {
+      "monthly": 127,
+      "weekly": 127
+    },
+    "pi-extension-toolkit": {
+      "monthly": 127,
+      "weekly": 127
+    },
+    "@marcfargas/pi-heartbeat": {
+      "monthly": 121,
+      "weekly": 8
+    },
+    "@ryan_nookpi/pi-extension-open-pr": {
+      "monthly": 134,
+      "weekly": 4
+    },
+    "@robhowley/pi-spinner-verbs": {
+      "monthly": 132,
+      "weekly": 132
+    },
+    "pi-oneliner": {
+      "monthly": 131,
+      "weekly": 7
+    },
+    "@kmiyh/pi-plan-mode": {
+      "monthly": 125,
+      "weekly": 8
+    },
+    "pi-upgrade": {
+      "monthly": 130,
+      "weekly": 19
+    },
+    "@qmxme/pi-stats": {
+      "monthly": 130,
+      "weekly": 46
+    },
+    "@haispeed/pi-obsidian": {
+      "monthly": 118,
+      "weekly": 16
+    },
+    "pi-xai-voice": {
+      "monthly": 122,
+      "weekly": 10
+    },
+    "pi-explorer": {
+      "monthly": 130,
+      "weekly": 11
+    },
+    "@ibeex/pi-fetch": {
+      "monthly": 124,
+      "weekly": 2
+    },
+    "@jd-erreape/pi-questionnaire": {
+      "monthly": 129,
+      "weekly": 6
+    },
+    "@banon-labs/pi-inline-format-extensions": {
+      "monthly": 129,
+      "weekly": 6
+    },
+    "pi-diff": {
+      "monthly": 123,
+      "weekly": 123
+    },
+    "pi-retune": {
+      "monthly": 129,
+      "weekly": 4
+    },
+    "pi-turn-limit": {
+      "monthly": 122,
+      "weekly": 122
+    },
+    "pi-chucknorris": {
+      "monthly": 122,
+      "weekly": 7
+    },
+    "@synadia-ai/nats-pi-channel": {
+      "monthly": 128,
+      "weekly": 128
+    },
+    "@isaacraja/pi-vertex-claude": {
+      "monthly": 119,
+      "weekly": 21
+    },
+    "pi-overwatch": {
+      "monthly": 115,
+      "weekly": 4
+    },
+    "pi-glm-usage": {
+      "monthly": 121,
+      "weekly": 121
+    },
+    "pi-ui-ab-test": {
+      "monthly": 120,
+      "weekly": 120
+    },
+    "@agney/pi-honcho-memory": {
+      "monthly": 127,
+      "weekly": 30
+    },
+    "@pi-lab/xsearch": {
+      "monthly": 127,
+      "weekly": 127
+    },
+    "pi-ghcp-headers": {
+      "monthly": 126,
+      "weekly": 6
+    },
+    "@dustinbyrne/kb": {
+      "monthly": 125,
+      "weekly": 13
+    },
+    "pi-sonar": {
+      "monthly": 120,
+      "weekly": 5
+    },
+    "pi-shell-autocomplete": {
+      "monthly": 114,
+      "weekly": 114
+    },
+    "pi-codex-5.5": {
+      "monthly": 126,
+      "weekly": 8
+    },
+    "pi-lazy-loader": {
+      "monthly": 119,
+      "weekly": 119
+    },
+    "code-submit": {
+      "monthly": 125,
+      "weekly": 7
+    },
+    "pi-icompact": {
+      "monthly": 116,
+      "weekly": 4
+    },
+    "onetool-pi": {
+      "monthly": 117,
+      "weekly": 23
+    },
+    "pi-opencode-theme": {
+      "monthly": 112,
+      "weekly": 112
+    },
+    "@artale/pi-budget": {
+      "monthly": 122,
+      "weekly": 11
+    },
+    "think-tags": {
+      "monthly": 115,
+      "weekly": 7
+    },
+    "@jmcombs/pi-notify": {
+      "monthly": 117,
+      "weekly": 117
+    },
+    "pi-enhanced-tools": {
+      "monthly": 116,
+      "weekly": 116
+    },
+    "@yeliu84/pi-model-router": {
+      "monthly": 116,
+      "weekly": 9
+    },
+    "@mcowger/pi-strip-volatile": {
+      "monthly": 122,
+      "weekly": 122
+    },
+    "pi-constell-tasks": {
+      "monthly": 121,
+      "weekly": 3
+    },
+    "@ssweens/pi-handoff": {
+      "monthly": 121,
+      "weekly": 23
+    },
+    "pi-speak": {
+      "monthly": 116,
+      "weekly": 5
+    },
+    "@narumitw/pi-jupyter": {
+      "monthly": 116,
+      "weekly": 116
+    },
+    "anchor-edit": {
+      "monthly": 122,
+      "weekly": 122
+    },
+    "@robhowley/pi-session-hygiene": {
+      "monthly": 121,
+      "weekly": 121
+    },
+    "pi-bib": {
+      "monthly": 120,
+      "weekly": 120
+    },
+    "pi-skill-guard": {
+      "monthly": 120,
+      "weekly": 19
+    },
+    "@benvargas/pi-cut-stack": {
+      "monthly": 120,
+      "weekly": 1
+    },
+    "pi-video-transcribe": {
+      "monthly": 113,
+      "weekly": 113
+    },
+    "pi-code-reviewer": {
+      "monthly": 121,
+      "weekly": 7
+    },
+    "@wiechsa/pi-ruby-lsp": {
+      "monthly": 119,
+      "weekly": 119
+    },
+    "pi-screenshots": {
+      "monthly": 114,
+      "weekly": 52
+    },
+    "@gnoviawan/pi-tokens-per-second": {
+      "monthly": 114,
+      "weekly": 114
+    },
+    "pi-tavily-search": {
+      "monthly": 112,
+      "weekly": 112
+    },
+    "pi-themes-rose-pine": {
+      "monthly": 113,
+      "weekly": 113
+    },
+    "@ferologics/pi-extensions": {
+      "monthly": 119,
+      "weekly": 37
+    },
+    "@rhedbull/pi-permissions": {
+      "monthly": 119,
+      "weekly": 23
+    },
+    "pi-session-context": {
+      "monthly": 108,
+      "weekly": 18
+    },
+    "@gnoviawan/pi-auto-session-name": {
+      "monthly": 113,
+      "weekly": 113
+    },
+    "pi-evolve": {
+      "monthly": 111,
+      "weekly": 4
+    },
+    "pi-alert": {
+      "monthly": 111,
+      "weekly": 32
+    },
+    "pi-agentation": {
+      "monthly": 111,
+      "weekly": 4
+    },
+    "@ogulcancelik/pi-ssh-tools": {
+      "monthly": 118,
+      "weekly": 16
+    },
+    "pi-skills-sh": {
+      "monthly": 107,
+      "weekly": 16
+    },
+    "pi-kanagawa": {
+      "monthly": 118,
+      "weekly": 118
+    },
+    "pi-skills-manager": {
+      "monthly": 112,
+      "weekly": 21
+    },
+    "pi-verbosity-control": {
+      "monthly": 110,
+      "weekly": 48
+    },
+    "pi-tps": {
+      "monthly": 110,
+      "weekly": 110
+    },
+    "pi-vim-motions": {
+      "monthly": 111,
+      "weekly": 111
+    },
+    "@eigenwert/pi-gatekeeper": {
+      "monthly": 116,
+      "weekly": 34
+    },
+    "pi-diff-review": {
+      "monthly": 116,
+      "weekly": 116
+    },
+    "pi-initiatives": {
+      "monthly": 116,
+      "weekly": 7
+    },
+    "@aaronmaturen/pi-context7": {
+      "monthly": 109,
+      "weekly": 26
+    },
+    "pi-worktrunk": {
+      "monthly": 113,
+      "weekly": 5
+    },
+    "vendure-pi": {
+      "monthly": 108,
+      "weekly": 108
+    },
+    "@melihmucuk/leash": {
+      "monthly": 108,
+      "weekly": 40
+    },
+    "token-rate-pi": {
+      "monthly": 114,
+      "weekly": 27
+    },
+    "pi-token-killer": {
+      "monthly": 113,
+      "weekly": 38
+    },
+    "pi-tilth": {
+      "monthly": 108,
+      "weekly": 22
+    },
+    "pi-ssh": {
+      "monthly": 112,
+      "weekly": 23
+    },
+    "pi-web-extension": {
+      "monthly": 106,
+      "weekly": 28
+    },
+    "pi-cursor-theme": {
+      "monthly": 106,
+      "weekly": 26
+    },
+    "@sage-protocol/pi-adapter": {
+      "monthly": 107,
+      "weekly": 28
+    },
+    "pi-bash-confirm": {
+      "monthly": 111,
+      "weekly": 28
+    },
+    "pi-supervisor": {
+      "monthly": 101,
+      "weekly": 25
+    },
+    "@qmxme/pie": {
+      "monthly": 101,
+      "weekly": 10
+    },
+    "@artale/pi-voice": {
+      "monthly": 110,
+      "weekly": 37
+    },
+    "@gnoviawan/pi-token-usage": {
+      "monthly": 110,
+      "weekly": 110
+    },
+    "holdpty": {
+      "monthly": 100,
+      "weekly": 36
+    },
+    "pi-prompt-autoresearch": {
+      "monthly": 104,
+      "weekly": 14
+    },
+    "@bergetai/pi-provider-berget": {
+      "monthly": 104,
+      "weekly": 104
+    },
+    "pi-dex": {
+      "monthly": 108,
+      "weekly": 17
+    },
+    "@banon-labs/pi-inline-format": {
+      "monthly": 108,
+      "weekly": 3
+    },
+    "@odradekk/vera-web-tools": {
+      "monthly": 104,
+      "weekly": 48
+    },
+    "@apolosan/unified-process": {
+      "monthly": 104,
+      "weekly": 36
+    },
+    "@mrclrchtr/supi-lsp": {
+      "monthly": 102,
+      "weekly": 19
+    },
+    "@yofriadi/pi-ast": {
+      "monthly": 107,
+      "weekly": 17
+    },
+    "@gnoviawan/pi-biome-lsp": {
+      "monthly": 103,
+      "weekly": 103
+    },
+    "@artale/pi-browser": {
+      "monthly": 98,
+      "weekly": 22
+    },
+    "@gnoviawan/pi-session-usage": {
+      "monthly": 102,
+      "weekly": 102
+    },
+    "pi-peon-ping": {
+      "monthly": 96,
+      "weekly": 34
+    },
+    "@artale/pi-continuous": {
+      "monthly": 96,
+      "weekly": 17
+    },
+    "pi-pai": {
+      "monthly": 105,
+      "weekly": 34
+    },
+    "pi-epic-pipeline": {
+      "monthly": 105,
+      "weekly": 105
+    },
+    "@mrclrchtr/supi-bash-timeout": {
+      "monthly": 95,
+      "weekly": 15
+    },
+    "pi-setup-custom-providers": {
+      "monthly": 104,
+      "weekly": 104
+    },
+    "@mrclrchtr/supi-aliases": {
+      "monthly": 94,
+      "weekly": 13
+    },
+    "std-c99-proj-skill": {
+      "monthly": 94,
+      "weekly": 15
+    },
+    "pi-qwen-provider": {
+      "monthly": 98,
+      "weekly": 12
+    },
+    "pi-dashscope": {
+      "monthly": 97,
+      "weekly": 14
+    },
+    "@miclivs/pi-charts": {
+      "monthly": 102,
+      "weekly": 22
+    },
+    "pi-tokyo-night-storm": {
+      "monthly": 102,
+      "weekly": 21
+    },
+    "pi-session-name-editor": {
+      "monthly": 102,
+      "weekly": 102
+    },
+    "pi-system-prompt": {
+      "monthly": 103,
+      "weekly": 103
+    },
+    "pi-auto-rename": {
+      "monthly": 96,
+      "weekly": 5
+    },
+    "@artale/pi-openai": {
+      "monthly": 93,
+      "weekly": 10
+    },
+    "@baggiiiie/pi-rtk-rewrite": {
+      "monthly": 101,
+      "weekly": 15
+    },
+    "@sherif-fanous/pi-dracula": {
+      "monthly": 101,
+      "weekly": 27
+    },
+    "@zackify/pi-bg-tasks": {
+      "monthly": 97,
+      "weekly": 97
+    },
+    "@diegopetrucci/pi-permission-gate": {
+      "monthly": 97,
+      "weekly": 10
+    },
+    "@winds-ai/pi-native-codex-web-search": {
+      "monthly": 97,
+      "weekly": 15
+    },
+    "pi-mesh": {
+      "monthly": 92,
+      "weekly": 14
+    },
+    "pi-system-theme": {
+      "monthly": 92,
+      "weekly": 22
+    },
+    "@artale/pi-anthropic": {
+      "monthly": 101,
+      "weekly": 13
+    },
+    "@artale/pi-workflow": {
+      "monthly": 101,
+      "weekly": 13
+    },
+    "pi-multirepo": {
+      "monthly": 101,
+      "weekly": 101
+    },
+    "@mrclrchtr/supi-skill-shortcut": {
+      "monthly": 91,
+      "weekly": 16
+    },
+    "@gnoviawan/pi-session-delete": {
+      "monthly": 99,
+      "weekly": 99
+    },
+    "pi-dcp": {
+      "monthly": 95,
+      "weekly": 40
+    },
+    "@alasano/pi-panels": {
+      "monthly": 95,
+      "weekly": 22
+    },
+    "@artale/pi-quant": {
+      "monthly": 94,
+      "weekly": 13
+    },
+    "@ssweens/pi-vertex": {
+      "monthly": 93,
+      "weekly": 18
+    },
+    "@haphazarddev/pi-ask-user-question": {
+      "monthly": 93,
+      "weekly": 4
+    },
+    "@javiportillo/pi-hackerman": {
+      "monthly": 90,
+      "weekly": 42
+    },
+    "@rwese/pi-webfetch": {
+      "monthly": 90,
+      "weekly": 6
+    },
+    "@marcfargas/pi-powershell": {
+      "monthly": 98,
+      "weekly": 30
+    },
+    "@marcfargas/go-easy": {
+      "monthly": 93,
+      "weekly": 22
+    },
+    "@artale/pi-marketing": {
+      "monthly": 97,
+      "weekly": 14
+    },
+    "pi-web-utils": {
+      "monthly": 97,
+      "weekly": 31
+    },
+    "@artale/pi-email": {
+      "monthly": 89,
+      "weekly": 7
+    },
+    "pi-reddit-research": {
+      "monthly": 98,
+      "weekly": 98
+    },
+    "@artale/pi-web-search": {
+      "monthly": 92,
+      "weekly": 12
+    },
+    "@normful/picadillo": {
+      "monthly": 96,
+      "weekly": 35
+    },
+    "pi-suggest": {
+      "monthly": 96,
+      "weekly": 96
+    },
+    "@artale/pi-swarm": {
+      "monthly": 91,
+      "weekly": 19
+    },
+    "pi-skill-smart-read": {
+      "monthly": 88,
+      "weekly": 24
+    },
+    "@artale/pi-pentest": {
+      "monthly": 92,
+      "weekly": 14
+    },
+    "@rad-pi/core": {
+      "monthly": 92,
+      "weekly": 92
+    },
+    "pi-glossary": {
+      "monthly": 96,
+      "weekly": 96
+    },
+    "@ahkohd/pi-oyo": {
+      "monthly": 95,
+      "weekly": 8
+    },
+    "@tran-quil/pi-rose-pine": {
+      "monthly": 91,
+      "weekly": 16
+    },
+    "@haphazarddev/pi-vim-quit": {
+      "monthly": 91,
+      "weekly": 6
+    },
+    "@0xkobold/pi-suggest": {
+      "monthly": 90,
+      "weekly": 30
+    },
+    "@robzolkos/pi-nocchio": {
+      "monthly": 90,
+      "weekly": 29
+    },
+    "@4meta5/pi-ozcar": {
+      "monthly": 87,
+      "weekly": 7
+    },
+    "omegon-pi": {
+      "monthly": 91,
+      "weekly": 8
+    },
+    "@thiago__ss/pi-agent-config": {
+      "monthly": 90,
+      "weekly": 3
+    },
+    "pi-auto-agents": {
+      "monthly": 89,
+      "weekly": 17
+    },
+    "tokenfactory-pi": {
+      "monthly": 95,
+      "weekly": 23
+    },
+    "@eliemessiecode/pi-mcp": {
+      "monthly": 90,
+      "weekly": 10
+    },
+    "@adix7/pi-agent-teams": {
+      "monthly": 90,
+      "weekly": 31
+    },
+    "pi-share-redacted-gist": {
+      "monthly": 90,
+      "weekly": 15
+    },
+    "pi-adaptive-finder": {
+      "monthly": 90,
+      "weekly": 90
+    },
+    "@anson-no-bug/pi-pet-plus": {
+      "monthly": 94,
+      "weekly": 5
+    },
+    "vscode-pi-companion": {
+      "monthly": 85,
+      "weekly": 12
+    },
+    "@howaboua/pi-auto-trees": {
+      "monthly": 93,
+      "weekly": 11
+    },
+    "@samfp/pi-telegram-bot": {
+      "monthly": 93,
+      "weekly": 10
+    },
+    "pi-digital-rust-theme": {
+      "monthly": 89,
+      "weekly": 15
+    },
+    "pi-websearch-tavily": {
+      "monthly": 89,
+      "weekly": 23
+    },
+    "pi-magic-docs": {
+      "monthly": 89,
+      "weekly": 18
+    },
+    "pi-context-zone": {
+      "monthly": 88,
+      "weekly": 29
+    },
+    "pi-chrome-cdp": {
+      "monthly": 88,
+      "weekly": 19
+    },
+    "@sherif-fanous/pi-atom-one": {
+      "monthly": 93,
+      "weekly": 16
+    },
+    "@vaayne/agent-kit": {
+      "monthly": 87,
+      "weekly": 29
+    },
+    "@artale/pi-stocks": {
+      "monthly": 84,
+      "weekly": 7
+    },
+    "claudemon": {
+      "monthly": 84,
+      "weekly": 13
+    },
+    "@artale/pi-seo": {
+      "monthly": 86,
+      "weekly": 8
+    },
+    "@artale/pi-wordpress": {
+      "monthly": 86,
+      "weekly": 8
+    },
+    "@artale/pi-huggingface": {
+      "monthly": 83,
+      "weekly": 12
+    },
+    "pi-jj": {
+      "monthly": 87,
+      "weekly": 29
+    },
+    "@artale/pi-agentic": {
+      "monthly": 87,
+      "weekly": 11
+    },
+    "@devkade/pi-opentelemetry": {
+      "monthly": 86,
+      "weekly": 15
+    },
+    "@howaboua/pi-glm-via-anthropic": {
+      "monthly": 85,
+      "weekly": 15
+    },
+    "@artale/pi-flutter": {
+      "monthly": 85,
+      "weekly": 7
+    },
+    "@ruminaider/linear-cli": {
+      "monthly": 86,
+      "weekly": 8
+    },
+    "@aemonculaba/pi-search": {
+      "monthly": 85,
+      "weekly": 35
+    },
+    "@davidorex/pi-custom-compactor": {
+      "monthly": 85,
+      "weekly": 3
+    },
+    "@artale/pi-test-gen": {
+      "monthly": 85,
+      "weekly": 11
+    },
+    "pi-init": {
+      "monthly": 88,
+      "weekly": 24
+    },
+    "pi-jujutsu": {
+      "monthly": 81,
+      "weekly": 22
+    },
+    "@victor-software-house/pi-tmux": {
+      "monthly": 84,
+      "weekly": 5
+    },
+    "@georgetsouvaltzis/pi-gpt-image": {
+      "monthly": 83,
+      "weekly": 83
+    },
+    "@pi-lab/input-history": {
+      "monthly": 84,
+      "weekly": 1
+    },
+    "pi-symphony": {
+      "monthly": 84,
+      "weekly": 39
+    },
+    "@robhowley/py-pit-skills": {
+      "monthly": 80,
+      "weekly": 19
+    },
+    "@artale/pi-fixes": {
+      "monthly": 88,
+      "weekly": 18
+    },
+    "@mrclrchtr/supi-ask-user": {
+      "monthly": 88,
+      "weekly": 16
+    },
+    "@hewliyang/pi-codex-image": {
+      "monthly": 88,
+      "weekly": 88
+    },
+    "@artale/pi-terraform": {
+      "monthly": 83,
+      "weekly": 7
+    },
+    "@dxvapor/pi-prompt-enhancer": {
+      "monthly": 83,
+      "weekly": 83
+    },
+    "pi-bash-bg": {
+      "monthly": 83,
+      "weekly": 21
+    },
+    "@haphazarddev/pi-copy-code-block": {
+      "monthly": 87,
+      "weekly": 11
+    },
+    "@artale/pi-cms": {
+      "monthly": 79,
+      "weekly": 6
+    },
+    "@artale/pi-pdf": {
+      "monthly": 82,
+      "weekly": 11
+    },
+    "@carter-mcalister/pi-profiles": {
+      "monthly": 82,
+      "weekly": 4
+    },
+    "@carter-mcalister/pi-worktrunk": {
+      "monthly": 82,
+      "weekly": 6
+    },
+    "@artale/pi-infer": {
+      "monthly": 86,
+      "weekly": 20
+    },
+    "@carter-mcalister/pi-auto-name": {
+      "monthly": 81,
+      "weekly": 2
+    },
+    "@artale/pi-crypto": {
+      "monthly": 82,
+      "weekly": 5
+    },
+    "pi-elixir": {
+      "monthly": 82,
+      "weekly": 44
+    },
+    "@artale/pi-triage": {
+      "monthly": 86,
+      "weekly": 14
+    },
+    "pi-hash-anchored-edit": {
+      "monthly": 86,
+      "weekly": 86
+    },
+    "@siddr/pi-tool-display": {
+      "monthly": 78,
+      "weekly": 11
+    },
+    "pi-terminal-browser-search": {
+      "monthly": 78,
+      "weekly": 78
+    },
+    "@artale/pi-docker": {
+      "monthly": 81,
+      "weekly": 10
+    },
+    "@artale/pi-deploy": {
+      "monthly": 81,
+      "weekly": 13
+    },
+    "@skdev-ai/pi-gemini-cli-provider": {
+      "monthly": 85,
+      "weekly": 17
+    },
+    "pi-ephemeral": {
+      "monthly": 85,
+      "weekly": 12
+    },
+    "@fractary/pi-claude-code": {
+      "monthly": 81,
+      "weekly": 26
+    },
+    "@artale/pi-gcp": {
+      "monthly": 77,
+      "weekly": 6
+    },
+    "@gravewhisper/pi-theme-monokai-classic": {
+      "monthly": 77,
+      "weekly": 13
+    },
+    "@artale/pi-social": {
+      "monthly": 83,
+      "weekly": 9
+    },
+    "@artale/pi-alerts": {
+      "monthly": 84,
+      "weekly": 6
+    },
+    "pi-cline": {
+      "monthly": 84,
+      "weekly": 20
+    },
+    "@artale/pi-git-guard": {
+      "monthly": 80,
+      "weekly": 14
+    },
+    "@linioi/pi-fast-mode": {
+      "monthly": 80,
+      "weekly": 2
+    },
+    "pi-annotated-reply": {
+      "monthly": 76,
+      "weekly": 16
+    },
+    "@artale/pi-hermes": {
+      "monthly": 83,
+      "weekly": 12
+    },
+    "pi-cline-free-models": {
+      "monthly": 78,
+      "weekly": 14
+    },
+    "@gugu910/pi-slack-api": {
+      "monthly": 83,
+      "weekly": 5
+    },
+    "@mcowger/pi-env-var-provider": {
+      "monthly": 83,
+      "weekly": 4
+    },
+    "pi-feature-dev": {
+      "monthly": 79,
+      "weekly": 79
+    },
+    "@zhafron/pi-mcp-tools": {
+      "monthly": 79,
+      "weekly": 21
+    },
+    "@lustepe/pi-elixir": {
+      "monthly": 75,
+      "weekly": 75
+    },
+    "@mjakl/pi-kagi-search": {
+      "monthly": 75,
+      "weekly": 25
+    },
+    "@judepayne/picode": {
+      "monthly": 75,
+      "weekly": 75
+    },
+    "@rad-pi/cob": {
+      "monthly": 78,
+      "weekly": 78
+    },
+    "@artale/pi-azure": {
+      "monthly": 78,
+      "weekly": 7
+    },
+    "@artale/pi-sms": {
+      "monthly": 78,
+      "weekly": 7
+    },
+    "pi-safeguard": {
+      "monthly": 77,
+      "weekly": 20
+    },
+    "@onenote/pi-vim-editor": {
+      "monthly": 81,
+      "weekly": 4
+    },
+    "@artale/pi-excel": {
+      "monthly": 82,
+      "weekly": 9
+    },
+    "pi-llm-debugging": {
+      "monthly": 82,
+      "weekly": 17
+    },
+    "@hyperprior/pi-shared": {
+      "monthly": 78,
+      "weekly": 28
+    },
+    "@tridha643/pi-ask-mode": {
+      "monthly": 78,
+      "weekly": 5
+    },
+    "@artale/pi-monitor": {
+      "monthly": 78,
+      "weekly": 7
+    },
+    "@carter-mcalister/pi-skillpacks": {
+      "monthly": 74,
+      "weekly": 2
+    },
+    "@datspike/pi-ask-user": {
+      "monthly": 81,
+      "weekly": 10
+    },
+    "@ruizrica/agent-pi": {
+      "monthly": 76,
+      "weekly": 7
+    },
+    "@tmustier/pi-arcade": {
+      "monthly": 73,
+      "weekly": 25
+    },
+    "@diegopetrucci/pi-confirm-destructive": {
+      "monthly": 76,
+      "weekly": 1
+    },
+    "@gregjohnso/pi-monitor": {
+      "monthly": 76,
+      "weekly": 5
+    },
+    "@artale/pi-logs": {
+      "monthly": 79,
+      "weekly": 7
+    },
+    "@artale/pi-type-check": {
+      "monthly": 79,
+      "weekly": 8
+    },
+    "@include-tools/toolbox-pi-extension": {
+      "monthly": 79,
+      "weekly": 2
+    },
+    "pi-workstation": {
+      "monthly": 79,
+      "weekly": 25
+    },
+    "@dreki-gg/pi-browser-tools": {
+      "monthly": 78,
+      "weekly": 28
+    },
+    "@artale/pi-discord": {
+      "monthly": 79,
+      "weekly": 6
+    },
+    "@alasano/pi-mouse": {
+      "monthly": 74,
+      "weekly": 15
+    },
+    "@rwese/minimax-image-understanding": {
+      "monthly": 74,
+      "weekly": 2
+    },
+    "@artale/pi-format": {
+      "monthly": 74,
+      "weekly": 13
+    },
+    "@rwese/pi-hooks": {
+      "monthly": 74,
+      "weekly": 13
+    },
+    "@posthog/pi": {
+      "monthly": 77,
+      "weekly": 42
+    },
+    "@agnishc/edb-context-viewer": {
+      "monthly": 71,
+      "weekly": 71
+    },
+    "@fgladisch/pi-caveman": {
+      "monthly": 74,
+      "weekly": 74
+    },
+    "@rad-pi/autonomy": {
+      "monthly": 74,
+      "weekly": 74
+    },
+    "@alpino13/pi-ask": {
+      "monthly": 77,
+      "weekly": 11
+    },
+    "@samfp/pi-meeting-copilot": {
+      "monthly": 73,
+      "weekly": 5
+    },
+    "@artale/pi-csv": {
+      "monthly": 76,
+      "weekly": 12
+    },
+    "pi-agent-loop": {
+      "monthly": 76,
+      "weekly": 11
+    },
+    "@sp1in/claude-agent": {
+      "monthly": 76,
+      "weekly": 76
+    },
+    "@lojacobs/pi-roles": {
+      "monthly": 76,
+      "weekly": 76
+    },
+    "@zenobius/pi-rose-pine": {
+      "monthly": 70,
+      "weekly": 24
+    },
+    "pi-aliases": {
+      "monthly": 70,
+      "weekly": 37
+    },
+    "pi-scheduler": {
+      "monthly": 72,
+      "weekly": 16
+    },
+    "@artale/pi-load": {
+      "monthly": 72,
+      "weekly": 6
+    },
+    "pi-package-test": {
+      "monthly": 72,
+      "weekly": 40
+    },
+    "@artale/pi-lint": {
+      "monthly": 73,
+      "weekly": 13
+    },
+    "pi-emote": {
+      "monthly": 73,
+      "weekly": 73
+    },
+    "@artale/pi-e2e": {
+      "monthly": 76,
+      "weekly": 9
+    },
+    "@artale/pi-curl": {
+      "monthly": 76,
+      "weekly": 6
+    },
+    "@artale/pi-slack": {
+      "monthly": 76,
+      "weekly": 5
+    },
+    "@artale/pi-ansible": {
+      "monthly": 76,
+      "weekly": 7
+    },
+    "@juanibiapina/pi-tokyonight": {
+      "monthly": 75,
+      "weekly": 12
+    },
+    "@carter-mcalister/pi-mise-toolchain": {
+      "monthly": 69,
+      "weekly": 3
+    },
+    "pi-thread-engine": {
+      "monthly": 71,
+      "weekly": 11
+    },
+    "@artale/pi-analytics": {
+      "monthly": 75,
+      "weekly": 7
+    },
+    "@sp1in/qwen-agent": {
+      "monthly": 75,
+      "weekly": 75
+    },
+    "@ferologics/pi-skills": {
+      "monthly": 72,
+      "weekly": 6
+    },
+    "pi-bailian-models": {
+      "monthly": 72,
+      "weekly": 7
+    },
+    "@artale/pi-unit": {
+      "monthly": 75,
+      "weekly": 6
+    },
+    "@artale/pi-blog": {
+      "monthly": 75,
+      "weekly": 7
+    },
+    "@burneikis/pi-plan": {
+      "monthly": 75,
+      "weekly": 9
+    },
+    "@odradekk/vera-scheme-sandbox": {
+      "monthly": 74,
+      "weekly": 13
+    },
+    "pi-md-export": {
+      "monthly": 74,
+      "weekly": 13
+    },
+    "@artale/pi-k8s": {
+      "monthly": 71,
+      "weekly": 6
+    },
+    "pi-websearch-router": {
+      "monthly": 68,
+      "weekly": 15
+    },
+    "@sp1in/kimi-agent": {
+      "monthly": 74,
+      "weekly": 74
+    },
+    "@alexgorbatchev/pi-agentation": {
+      "monthly": 73,
+      "weekly": 24
+    },
+    "@nonplanarslicer/pi-tps": {
+      "monthly": 73,
+      "weekly": 73
+    },
+    "pi-beads": {
+      "monthly": 69,
+      "weekly": 24
+    },
+    "@artale/pi-react-native": {
+      "monthly": 69,
+      "weekly": 5
+    },
+    "@zenobius/pi-dcp": {
+      "monthly": 67,
+      "weekly": 34
+    },
+    "@daviriansu/agent-arena-skill": {
+      "monthly": 67,
+      "weekly": 11
+    },
+    "pi-listen": {
+      "monthly": 70,
+      "weekly": 32
+    },
+    "@artale/pi-aws": {
+      "monthly": 70,
+      "weekly": 7
+    },
+    "@mjakl/pi-interlude": {
+      "monthly": 70,
+      "weekly": 17
+    },
+    "pi-parallel-agents": {
+      "monthly": 73,
+      "weekly": 31
+    },
+    "@peteturnbull/pi-extensions": {
+      "monthly": 72,
+      "weekly": 21
+    },
+    "@coctostan/pi-exa-gh-web-tools": {
+      "monthly": 72,
+      "weekly": 10
+    },
+    "@jeffkafka/pi-nobody": {
+      "monthly": 72,
+      "weekly": 5
+    },
+    "@amb007/deep-wiki": {
+      "monthly": 68,
+      "weekly": 68
+    },
+    "@cglab/pi-rtk": {
+      "monthly": 68,
+      "weekly": 68
+    },
+    "@georgetsouvaltzis/pi-working-time": {
+      "monthly": 68,
+      "weekly": 68
+    },
+    "pi-repoprompt-tools-lock": {
+      "monthly": 66,
+      "weekly": 17
+    },
+    "@ruliana/pi-insights": {
+      "monthly": 66,
+      "weekly": 66
+    },
+    "@andrewxhill/pi-be-kind": {
+      "monthly": 66,
+      "weekly": 16
+    },
+    "@cmcconomy/pi-qwen-tool-parser": {
+      "monthly": 66,
+      "weekly": 9
+    },
+    "@andriimartynov/pi-ollama-model-switcher": {
+      "monthly": 69,
+      "weekly": 69
+    },
+    "pi-llama-server": {
+      "monthly": 71,
+      "weekly": 14
+    },
+    "@odradekk/vera-search-tools": {
+      "monthly": 71,
+      "weekly": 8
+    },
+    "@rakohq/pi-council": {
+      "monthly": 71,
+      "weekly": 16
+    },
+    "@fgladisch/pi-welcome-message": {
+      "monthly": 68,
+      "weekly": 68
+    },
+    "@agentlogs/pi": {
+      "monthly": 68,
+      "weekly": 31
+    },
+    "@victor-software-house/pi-credential-vault": {
+      "monthly": 65,
+      "weekly": 12
+    },
+    "@odradekk/vera-ccc-tools": {
+      "monthly": 65,
+      "weekly": 9
+    },
+    "ralph-loop-pi": {
+      "monthly": 71,
+      "weekly": 22
+    },
+    "@artale/pi-build": {
+      "monthly": 70,
+      "weekly": 13
+    },
+    "pi-ollama-web-search": {
+      "monthly": 70,
+      "weekly": 21
+    },
+    "@jqwn/pi-ask-user-question": {
+      "monthly": 66,
+      "weekly": 66
+    },
+    "pi-slack-bot": {
+      "monthly": 66,
+      "weekly": 19
+    },
+    "pi-serena-tools": {
+      "monthly": 67,
+      "weekly": 17
+    },
+    "@guwidoe/pi-clipboard-image": {
+      "monthly": 67,
+      "weekly": 24
+    },
+    "pi-session-auto-rename": {
+      "monthly": 67,
+      "weekly": 8
+    },
+    "@liunuozhi/pi-vi": {
+      "monthly": 64,
+      "weekly": 64
+    },
+    "pi-omni-compact": {
+      "monthly": 70,
+      "weekly": 35
+    },
+    "pi-zellij": {
+      "monthly": 69,
+      "weekly": 26
+    },
+    "@tmustier/pi-code-actions": {
+      "monthly": 69,
+      "weekly": 17
+    },
+    "pi-websearch-linkup": {
+      "monthly": 66,
+      "weekly": 11
+    },
+    "@kuzat/pi-extension-gpt-image-2": {
+      "monthly": 66,
+      "weekly": 5
+    },
+    "pi-arxiv": {
+      "monthly": 66,
+      "weekly": 26
+    },
+    "pi-readcache": {
+      "monthly": 69,
+      "weekly": 24
+    },
+    "pi-high-availability": {
+      "monthly": 69,
+      "weekly": 31
+    },
+    "pi-cursor-oauth": {
+      "monthly": 68,
+      "weekly": 17
+    },
+    "pi-shadow-git": {
+      "monthly": 68,
+      "weekly": 44
+    },
+    "@zgltyq/pi-ask-user": {
+      "monthly": 65,
+      "weekly": 65
+    },
+    "checkpoint-pi": {
+      "monthly": 64,
+      "weekly": 32
+    },
+    "@benvargas/pi-antigravity-image-gen": {
+      "monthly": 64,
+      "weekly": 10
+    },
+    "@code-fixer-23/pi-agent-resource": {
+      "monthly": 68,
+      "weekly": 68
+    },
+    "pi-branch-out": {
+      "monthly": 62,
+      "weekly": 12
+    },
+    "@gnoviawan/pi-litellm-auto-detect": {
+      "monthly": 67,
+      "weekly": 67
+    },
+    "pi-plan-modus": {
+      "monthly": 64,
+      "weekly": 8
+    },
+    "@calesennett/pi-codex-fast": {
+      "monthly": 64,
+      "weekly": 14
+    },
+    "pi-caffeinate": {
+      "monthly": 63,
+      "weekly": 18
+    },
+    "pi-opensync-plugin": {
+      "monthly": 63,
+      "weekly": 14
+    },
+    "@code-fixer-23/nu-bash": {
+      "monthly": 66,
+      "weekly": 66
+    },
+    "@sp1in/pi-agent": {
+      "monthly": 66,
+      "weekly": 66
+    },
+    "@clanker-extensions/web": {
+      "monthly": 66,
+      "weekly": 66
+    },
+    "@hsingjui/pi-hooks": {
+      "monthly": 66,
+      "weekly": 16
+    },
+    "toenobu-agent": {
+      "monthly": 63,
+      "weekly": 9
+    },
+    "pi-websearch-brave": {
+      "monthly": 66,
+      "weekly": 14
+    },
+    "@jademind/pi-bridge": {
+      "monthly": 63,
+      "weekly": 19
+    },
+    "pi-repoprompt-cli": {
+      "monthly": 63,
+      "weekly": 6
+    },
+    "pi-ralph": {
+      "monthly": 65,
+      "weekly": 14
+    },
+    "pi-budget-model": {
+      "monthly": 60,
+      "weekly": 12
+    },
+    "pi-command-center": {
+      "monthly": 62,
+      "weekly": 9
+    },
+    "@javimolina/pi-palette": {
+      "monthly": 62,
+      "weekly": 12
+    },
+    "pi-skill-glab": {
+      "monthly": 65,
+      "weekly": 29
+    },
+    "@marcfargas/odoo-skills": {
+      "monthly": 65,
+      "weekly": 4
+    },
+    "pi-websearch-firecrawl": {
+      "monthly": 65,
+      "weekly": 15
+    },
+    "pi-webfetch-to-markdown": {
+      "monthly": 62,
+      "weekly": 16
+    },
+    "@artale/pi-dash": {
+      "monthly": 62,
+      "weekly": 31
+    },
+    "@venomzen/pi-web-access-enhanced": {
+      "monthly": 62,
+      "weekly": 62
+    },
+    "@badliveware/pi-tool-feedback": {
+      "monthly": 59,
+      "weekly": 59
+    },
+    "pi-excalidraw": {
+      "monthly": 64,
+      "weekly": 34
+    },
+    "@juanibiapina/pi-gob": {
+      "monthly": 64,
+      "weekly": 10
+    },
+    "pi-bash-readonly": {
+      "monthly": 64,
+      "weekly": 15
+    },
+    "@carter-mcalister/pi-rlm": {
+      "monthly": 61,
+      "weekly": 4
+    },
+    "@rbtr/pi": {
+      "monthly": 61,
+      "weekly": 5
+    },
+    "@siddr/pi-diff-cmux": {
+      "monthly": 64,
+      "weekly": 5
+    },
+    "@alasano/pi-extra-context": {
+      "monthly": 62,
+      "weekly": 62
+    },
+    "@clankie/web-search": {
+      "monthly": 60,
+      "weekly": 14
+    },
+    "pi-session-summary": {
+      "monthly": 59,
+      "weekly": 8
+    },
+    "@benvargas/pi-openai-verbosity": {
+      "monthly": 62,
+      "weekly": 62
+    },
+    "@sp1in/iflow-agent": {
+      "monthly": 61,
+      "weekly": 61
+    },
+    "pi-computer-use": {
+      "monthly": 59,
+      "weekly": 14
+    },
+    "pigibrack": {
+      "monthly": 59,
+      "weekly": 13
+    },
+    "@lustepe/elixir-pi": {
+      "monthly": 61,
+      "weekly": 61
+    },
+    "@lukemelnik/pi-session-recap": {
+      "monthly": 61,
+      "weekly": 11
+    },
+    "@jdrly/pi-toolbox": {
+      "monthly": 56,
+      "weekly": 56
+    },
+    "@ogulcancelik/pi-handoff": {
+      "monthly": 61,
+      "weekly": 3
+    },
+    "@datspike/pi-fork-resume": {
+      "monthly": 61,
+      "weekly": 61
+    },
+    "@e9n/pi-mobile": {
+      "monthly": 60,
+      "weekly": 60
+    },
+    "@interleavelove/keating": {
+      "monthly": 60,
+      "weekly": 10
+    },
+    "@odradekk/vera-theme": {
+      "monthly": 58,
+      "weekly": 58
+    },
+    "pi-skill-martin-fowler": {
+      "monthly": 58,
+      "weekly": 21
+    },
+    "pi-claude-boost": {
+      "monthly": 60,
+      "weekly": 18
+    },
+    "pi-statusline": {
+      "monthly": 60,
+      "weekly": 19
+    },
+    "@romansix/pi-tmux": {
+      "monthly": 55,
+      "weekly": 11
+    },
+    "@dxvapor/pi-splunk-cloud-logs": {
+      "monthly": 57,
+      "weekly": 6
+    },
+    "@ifiokjr/oh-pi-themes": {
+      "monthly": 57,
+      "weekly": 10
+    },
+    "@eliemessiecode/pi-render": {
+      "monthly": 59,
+      "weekly": 6
+    },
+    "pi-a2a-communication": {
+      "monthly": 59,
+      "weekly": 24
+    },
+    "pi-extension-observational-memory": {
+      "monthly": 54,
+      "weekly": 20
+    },
+    "@alexgorbatchev/pi-cmux-notify": {
+      "monthly": 56,
+      "weekly": 8
+    },
+    "pi-pai-lite": {
+      "monthly": 58,
+      "weekly": 21
+    },
+    "pi-context-saver": {
+      "monthly": 58,
+      "weekly": 13
+    },
+    "pi-boundary": {
+      "monthly": 56,
+      "weekly": 20
+    },
+    "pi-profiles": {
+      "monthly": 58,
+      "weekly": 19
+    },
+    "@kyuc/pi-cat-loader": {
+      "monthly": 58,
+      "weekly": 58
+    },
+    "@javimolina/pi-rg": {
+      "monthly": 58,
+      "weekly": 9
+    },
+    "pi-code-index": {
+      "monthly": 53,
+      "weekly": 16
+    },
+    "pi-read-mode": {
+      "monthly": 57,
+      "weekly": 7
+    },
+    "@justram/pi-undo-redo": {
+      "monthly": 55,
+      "weekly": 16
+    },
+    "pi-search-skill": {
+      "monthly": 55,
+      "weekly": 13
+    },
+    "pi-websearch-serper": {
+      "monthly": 55,
+      "weekly": 16
+    },
+    "pi-repl": {
+      "monthly": 57,
+      "weekly": 16
+    },
+    "@ifiokjr/oh-pi-prompts": {
+      "monthly": 57,
+      "weekly": 11
+    },
+    "pi-websearch-parallel": {
+      "monthly": 54,
+      "weekly": 10
+    },
+    "pi-skill-tavily": {
+      "monthly": 54,
+      "weekly": 17
+    },
+    "pi-glitchgate": {
+      "monthly": 56,
+      "weekly": 2
+    },
+    "@artale/pi-agent": {
+      "monthly": 54,
+      "weekly": 13
+    },
+    "pi-system-reminders": {
+      "monthly": 54,
+      "weekly": 16
+    },
+    "@pborck/pi-de": {
+      "monthly": 54,
+      "weekly": 12
+    },
+    "@agnishc/edb-auto-name-session": {
+      "monthly": 54,
+      "weekly": 54
+    },
+    "pi-websearch-perplexity": {
+      "monthly": 56,
+      "weekly": 15
+    },
+    "@askjo/pi-mem": {
+      "monthly": 53,
+      "weekly": 8
+    },
+    "@ogulcancelik/pi-sketch": {
+      "monthly": 56,
+      "weekly": 8
+    },
+    "@jordyvd/pi-image-attachments": {
+      "monthly": 53,
+      "weekly": 16
+    },
+    "pi-websearch-exa": {
+      "monthly": 53,
+      "weekly": 13
+    },
+    "pi-recon-tools": {
+      "monthly": 55,
+      "weekly": 24
+    },
+    "cli-pipe-provider": {
+      "monthly": 51,
+      "weekly": 25
+    },
+    "@anthnykr/pi-codex-fast-mode": {
+      "monthly": 51,
+      "weekly": 13
+    },
+    "pi-file-protection": {
+      "monthly": 51,
+      "weekly": 12
+    },
+    "pi-tau-mux": {
+      "monthly": 51,
+      "weekly": 21
+    },
+    "@sherif-fanous/pi-theme-sync": {
+      "monthly": 53,
+      "weekly": 6
+    },
+    "@ifiokjr/oh-pi-extensions": {
+      "monthly": 53,
+      "weekly": 11
+    },
+    "shopq": {
+      "monthly": 53,
+      "weekly": 5
+    },
+    "pi-antigravity-quota": {
+      "monthly": 55,
+      "weekly": 14
+    },
+    "pi-freecad": {
+      "monthly": 55,
+      "weekly": 32
+    },
+    "@alchemiststudios/pi-harness-skills": {
+      "monthly": 52,
+      "weekly": 11
+    },
+    "@trq/pi-colgrep": {
+      "monthly": 54,
+      "weekly": 8
+    },
+    "pi-opa": {
+      "monthly": 54,
+      "weekly": 10
+    },
+    "pi-stories": {
+      "monthly": 54,
+      "weekly": 2
+    },
+    "pi-extension-codex-apply-patch": {
+      "monthly": 52,
+      "weekly": 15
+    },
+    "pi-timestamps": {
+      "monthly": 50,
+      "weekly": 16
+    },
+    "@artale/pi-tokens": {
+      "monthly": 52,
+      "weekly": 13
+    },
+    "pi-agents-pool": {
+      "monthly": 51,
+      "weekly": 19
+    },
+    "pi-websearch-valyu": {
+      "monthly": 54,
+      "weekly": 14
+    },
+    "@anthaathi/pi-companion-extensions": {
+      "monthly": 53,
+      "weekly": 13
+    },
+    "pi-read-many": {
+      "monthly": 49,
+      "weekly": 10
+    },
+    "pi-auto-mode-router": {
+      "monthly": 49,
+      "weekly": 5
+    },
+    "pi-co-authored-by": {
+      "monthly": 51,
+      "weekly": 14
+    },
+    "@carlosgtrz/pi-terminal-bell": {
+      "monthly": 51,
+      "weekly": 51
+    },
+    "@marckrenn/pi-sub-status": {
+      "monthly": 51,
+      "weekly": 4
+    },
+    "pi-desktop-notify": {
+      "monthly": 53,
+      "weekly": 12
+    },
+    "@saibolla/ada": {
+      "monthly": 53,
+      "weekly": 25
+    },
+    "@artale/pi-compact": {
+      "monthly": 53,
+      "weekly": 10
+    },
+    "@e9n/pi-cmux": {
+      "monthly": 50,
+      "weekly": 50
+    },
+    "pi-tetris": {
+      "monthly": 50,
+      "weekly": 12
+    },
+    "pi-multicodex": {
+      "monthly": 52,
+      "weekly": 14
+    },
+    "pi-sandbox-profile": {
+      "monthly": 52,
+      "weekly": 7
+    },
+    "@swairshah/pi-talk": {
+      "monthly": 52,
+      "weekly": 4
+    },
+    "@ssweens/pi-qq": {
+      "monthly": 48,
+      "weekly": 8
+    },
+    "@victor-software-house/pi-agent-browser": {
+      "monthly": 48,
+      "weekly": 4
+    },
+    "pi-emacs": {
+      "monthly": 50,
+      "weekly": 4
+    },
+    "pi-terminal": {
+      "monthly": 50,
+      "weekly": 2
+    },
+    "@ifiokjr/oh-pi-skills": {
+      "monthly": 50,
+      "weekly": 10
+    },
+    "@sysid/pi-vim": {
+      "monthly": 52,
+      "weekly": 11
+    },
+    "@marcfargas/skills": {
+      "monthly": 49,
+      "weekly": 26
+    },
+    "@yofriadi/pi-web-search": {
+      "monthly": 49,
+      "weekly": 8
+    },
+    "pi-websearch-serpapi": {
+      "monthly": 49,
+      "weekly": 12
+    },
+    "@guwidoe/pi-web-search": {
+      "monthly": 51,
+      "weekly": 16
+    },
+    "pi-airgun": {
+      "monthly": 49,
+      "weekly": 15
+    },
+    "pi-mill": {
+      "monthly": 49,
+      "weekly": 27
+    },
+    "@0xkobold/pi-autoupdate": {
+      "monthly": 47,
+      "weekly": 13
+    },
+    "@artale/pi-validate": {
+      "monthly": 51,
+      "weekly": 13
+    },
+    "pi-vault-client": {
+      "monthly": 50,
+      "weekly": 30
+    },
+    "@artale/pi-params": {
+      "monthly": 48,
+      "weekly": 20
+    },
+    "pi-bash-trim": {
+      "monthly": 50,
+      "weekly": 10
+    },
+    "@artale/pi-rewind": {
+      "monthly": 47,
+      "weekly": 12
+    },
+    "pi-stash": {
+      "monthly": 49,
+      "weekly": 16
+    },
+    "pi-no-soft-cursor": {
+      "monthly": 49,
+      "weekly": 4
+    },
+    "@walterra/pi-graphviz": {
+      "monthly": 47,
+      "weekly": 12
+    },
+    "@rbwsam/pi-exa": {
+      "monthly": 49,
+      "weekly": 7
+    },
+    "@fnnm/pi-ast-grep": {
+      "monthly": 47,
+      "weekly": 8
+    },
+    "pi-ask-user-question": {
+      "monthly": 47,
+      "weekly": 11
+    },
+    "@artale/pi-leads": {
+      "monthly": 49,
+      "weekly": 10
+    },
+    "@e9n/pi-subagent": {
+      "monthly": 49,
+      "weekly": 5
+    },
+    "@artale/pi-sudoku": {
+      "monthly": 49,
+      "weekly": 8
+    },
+    "@yevhen.b/bo-pi": {
+      "monthly": 45,
+      "weekly": 19
+    },
+    "pi-coordinator": {
+      "monthly": 45,
+      "weekly": 12
+    },
+    "pi-confluence": {
+      "monthly": 45,
+      "weekly": 11
+    },
+    "@thesethrose/pi-minimax-provider": {
+      "monthly": 45,
+      "weekly": 4
+    },
+    "pi-theme-sync": {
+      "monthly": 46,
+      "weekly": 11
+    },
+    "@anthnykr/pi-study-commits": {
+      "monthly": 48,
+      "weekly": 7
+    },
+    "pi-rtk-noemoji": {
+      "monthly": 46,
+      "weekly": 14
+    },
+    "pi-websearch-you": {
+      "monthly": 46,
+      "weekly": 10
+    },
+    "pi-dumb": {
+      "monthly": 46,
+      "weekly": 9
+    },
+    "@benvargas/pi-ancestor-discovery": {
+      "monthly": 45,
+      "weekly": 9
+    },
+    "@artale/pi-grounded": {
+      "monthly": 45,
+      "weekly": 13
+    },
+    "@askjo/pi-reflect": {
+      "monthly": 45,
+      "weekly": 11
+    },
+    "pi-extension-e2b": {
+      "monthly": 45,
+      "weekly": 11
+    },
+    "@rjshrjndrn/pi-sandbox": {
+      "monthly": 43,
+      "weekly": 10
+    },
+    "@jordyvd/pi-mcp-adapter": {
+      "monthly": 43,
+      "weekly": 6
+    },
+    "@calesennett/pi-hn": {
+      "monthly": 43,
+      "weekly": 13
+    },
+    "pi-notion": {
+      "monthly": 46,
+      "weekly": 8
+    },
+    "@cansiny0320/pi-mcp-adapter": {
+      "monthly": 46,
+      "weekly": 46
+    },
+    "pi-websearch-jina": {
+      "monthly": 46,
+      "weekly": 10
+    },
+    "@gericomaverick/pi-team-orchestrator": {
+      "monthly": 44,
+      "weekly": 2
+    },
+    "@georgebashi/pi-retry": {
+      "monthly": 45,
+      "weekly": 14
+    },
+    "pi-deep-review": {
+      "monthly": 45,
+      "weekly": 6
+    },
+    "pi-worlds": {
+      "monthly": 43,
+      "weekly": 11
+    },
+    "@joemccann/pi-pdf": {
+      "monthly": 43,
+      "weekly": 16
+    },
+    "@artale/pi-gepa": {
+      "monthly": 43,
+      "weekly": 15
+    },
+    "@jademind/pi-telemetry": {
+      "monthly": 45,
+      "weekly": 18
+    },
+    "pi-clear": {
+      "monthly": 45,
+      "weekly": 0
+    },
+    "@wirebabel/pi-web-access": {
+      "monthly": 43,
+      "weekly": 8
+    },
+    "pi-refactor-loop": {
+      "monthly": 43,
+      "weekly": 6
+    },
+    "@schilderlabs/pitown": {
+      "monthly": 42,
+      "weekly": 6
+    },
+    "pi-captain": {
+      "monthly": 44,
+      "weekly": 19
+    },
+    "pi-kota": {
+      "monthly": 44,
+      "weekly": 12
+    },
+    "pi-github": {
+      "monthly": 42,
+      "weekly": 7
+    },
+    "pi-ask-me": {
+      "monthly": 42,
+      "weekly": 11
+    },
+    "pi-direnv": {
+      "monthly": 43,
+      "weekly": 25
+    },
+    "pi-poly-notify": {
+      "monthly": 40,
+      "weekly": 18
+    },
+    "pi-conversation-retro": {
+      "monthly": 41,
+      "weekly": 22
+    },
+    "pi-extension-stt": {
+      "monthly": 43,
+      "weekly": 18
+    },
+    "@ujjwalgrover/pi-catppuccin": {
+      "monthly": 41,
+      "weekly": 13
+    },
+    "pi-mem": {
+      "monthly": 41,
+      "weekly": 5
+    },
+    "@artale/pi-context": {
+      "monthly": 42,
+      "weekly": 12
+    },
+    "@baggiiiie/pi-goal": {
+      "monthly": 39,
+      "weekly": 39
+    },
+    "@0xkobold/pi-wallet": {
+      "monthly": 39,
+      "weekly": 10
+    },
+    "dnopi": {
+      "monthly": 39,
+      "weekly": 12
+    },
+    "@0xkobold/pi-skills": {
+      "monthly": 40,
+      "weekly": 5
+    },
+    "@e9n/pi-context": {
+      "monthly": 42,
+      "weekly": 14
+    },
+    "pi-toolbox": {
+      "monthly": 42,
+      "weekly": 11
+    },
+    "pi-google-workspace": {
+      "monthly": 40,
+      "weekly": 10
+    },
+    "@quant-pi/ext": {
+      "monthly": 41,
+      "weekly": 41
+    },
+    "pi-rlm": {
+      "monthly": 39,
+      "weekly": 7
+    },
+    "pi-zenmux": {
+      "monthly": 38,
+      "weekly": 7
+    },
+    "@artale/pi-evolve": {
+      "monthly": 38,
+      "weekly": 8
+    },
+    "@netandreus/pi-auto": {
+      "monthly": 38,
+      "weekly": 2
+    },
+    "pi-auth-profiles": {
+      "monthly": 41,
+      "weekly": 13
+    },
+    "pi-sift": {
+      "monthly": 39,
+      "weekly": 14
+    },
+    "@versdotsh/reef": {
+      "monthly": 39,
+      "weekly": 4
+    },
+    "@ssweens/pi-compaxxt": {
+      "monthly": 39,
+      "weekly": 9
+    },
+    "pi-mdc-rules": {
+      "monthly": 39,
+      "weekly": 11
+    },
+    "@e9n/pi-myfinance": {
+      "monthly": 39,
+      "weekly": 12
+    },
+    "@arpagon/pi-web-providers": {
+      "monthly": 39,
+      "weekly": 13
+    },
+    "@aaronmaturen/pi-config": {
+      "monthly": 40,
+      "weekly": 15
+    },
+    "@ghoseb/pi-damage-control": {
+      "monthly": 40,
+      "weekly": 40
+    },
+    "permission-pi": {
+      "monthly": 38,
+      "weekly": 8
+    },
+    "@johnnywu/pi-filechanges": {
+      "monthly": 37,
+      "weekly": 37
+    },
+    "oncrawl-mcp-pi-extension": {
+      "monthly": 37,
+      "weekly": 6
+    },
+    "pjlee-pi-package": {
+      "monthly": 38,
+      "weekly": 11
+    },
+    "pi-psst": {
+      "monthly": 38,
+      "weekly": 7
+    },
+    "@ssweens/pi-huddle": {
+      "monthly": 38,
+      "weekly": 12
+    },
+    "@artale/pi-db": {
+      "monthly": 38,
+      "weekly": 7
+    },
+    "@joemccann/pi-exa": {
+      "monthly": 38,
+      "weekly": 13
+    },
+    "@andamio/coach": {
+      "monthly": 38,
+      "weekly": 14
+    },
+    "@artale/pi-maze": {
+      "monthly": 39,
+      "weekly": 7
+    },
+    "@oribish/brainkit": {
+      "monthly": 39,
+      "weekly": 3
+    },
+    "pi-pet-hn": {
+      "monthly": 37,
+      "weekly": 11
+    },
+    "@gswangg/duncan-pi": {
+      "monthly": 36,
+      "weekly": 6
+    },
+    "pi-session-guard": {
+      "monthly": 36,
+      "weekly": 18
+    },
+    "pi-safety-git-operations": {
+      "monthly": 36,
+      "weekly": 3
+    },
+    "@e9n/pi-memory": {
+      "monthly": 37,
+      "weekly": 6
+    },
+    "@patriceckhart/pi-todo": {
+      "monthly": 37,
+      "weekly": 5
+    },
+    "@sinamtz/pi-mlx-provider": {
+      "monthly": 37,
+      "weekly": 8
+    },
+    "@codexstar/pi-agent-teams": {
+      "monthly": 37,
+      "weekly": 2
+    },
+    "@e9n/pi-vault": {
+      "monthly": 37,
+      "weekly": 9
+    },
+    "@victor-software-house/pi-context-optimizer": {
+      "monthly": 38,
+      "weekly": 7
+    },
+    "pi-agent-pack": {
+      "monthly": 35,
+      "weekly": 8
+    },
+    "pi-ghostty-notifier": {
+      "monthly": 35,
+      "weekly": 4
+    },
+    "@lajarre/pi-session-ask": {
+      "monthly": 35,
+      "weekly": 8
+    },
+    "@artale/pi-caffeinate": {
+      "monthly": 35,
+      "weekly": 8
+    },
+    "@marcfargas/pi-tramp": {
+      "monthly": 36,
+      "weekly": 11
+    },
+    "pi-sre-mode": {
+      "monthly": 37,
+      "weekly": 23
+    },
+    "@artale/pi-doc": {
+      "monthly": 35,
+      "weekly": 8
+    },
+    "pi-file-change-reminder": {
+      "monthly": 35,
+      "weekly": 6
+    },
+    "pi-powerpoint": {
+      "monthly": 35,
+      "weekly": 11
+    },
+    "@artale/pi-gate": {
+      "monthly": 36,
+      "weekly": 14
+    },
+    "@umgbhalla/pi-gigaplan": {
+      "monthly": 35,
+      "weekly": 5
+    },
+    "pi-langlearn": {
+      "monthly": 36,
+      "weekly": 27
+    },
+    "@artale/pi-infra": {
+      "monthly": 36,
+      "weekly": 8
+    },
+    "pi-safety-destructive-commands": {
+      "monthly": 36,
+      "weekly": 4
+    },
+    "pi-glm-image-summary": {
+      "monthly": 34,
+      "weekly": 12
+    },
+    "@artale/pi-stack": {
+      "monthly": 34,
+      "weekly": 8
+    },
+    "pi-non-interactive": {
+      "monthly": 34,
+      "weekly": 7
+    },
+    "@artale/pi-api": {
+      "monthly": 33,
+      "weekly": 7
+    },
+    "pi-tmux-focus-cursor": {
+      "monthly": 33,
+      "weekly": 5
+    },
+    "@brain0pia/pi-notify": {
+      "monthly": 33,
+      "weekly": 5
+    },
+    "pi-rlm-query": {
+      "monthly": 34,
+      "weekly": 7
+    },
+    "@artale/pi-clipboard": {
+      "monthly": 34,
+      "weekly": 10
+    },
+    "pi-gitlab-duo": {
+      "monthly": 35,
+      "weekly": 15
+    },
+    "pi-bitbucket": {
+      "monthly": 34,
+      "weekly": 13
+    },
+    "@dpaluy/shaping-skills": {
+      "monthly": 34,
+      "weekly": 5
+    },
+    "pi-ding": {
+      "monthly": 35,
+      "weekly": 15
+    },
+    "pi-figma": {
+      "monthly": 33,
+      "weekly": 8
+    },
+    "pi-cc-router": {
+      "monthly": 33,
+      "weekly": 10
+    },
+    "@mrexodia/kilo-pi-provider": {
+      "monthly": 33,
+      "weekly": 6
+    },
+    "pi-meta-prompt": {
+      "monthly": 33,
+      "weekly": 10
+    },
+    "@hyperprior/pi-ssh": {
+      "monthly": 33,
+      "weekly": 17
+    },
+    "@tmustier/pi-clean-slides": {
+      "monthly": 33,
+      "weekly": 18
+    },
+    "@tryinget/pi-extensions-package-template": {
+      "monthly": 33,
+      "weekly": 23
+    },
+    "@vpellegrino/pi-skills": {
+      "monthly": 33,
+      "weekly": 11
+    },
+    "pi-banner": {
+      "monthly": 33,
+      "weekly": 5
+    },
+    "@artale/pi-statusbar": {
+      "monthly": 33,
+      "weekly": 6
+    },
+    "@ssweens/pi-dynamic-models": {
+      "monthly": 33,
+      "weekly": 8
+    },
+    "pi-2048": {
+      "monthly": 33,
+      "weekly": 10
+    },
+    "@ogulcancelik/pi-goal": {
+      "monthly": 34,
+      "weekly": 5
+    },
+    "@artale/pi-rag": {
+      "monthly": 34,
+      "weekly": 14
+    },
+    "@elianiva/pi-ckers": {
+      "monthly": 34,
+      "weekly": 10
+    },
+    "@guwidoe/pi-web-fetch": {
+      "monthly": 34,
+      "weekly": 12
+    },
+    "@artale/pi-health": {
+      "monthly": 32,
+      "weekly": 10
+    },
+    "@artale/pi-json": {
+      "monthly": 33,
+      "weekly": 10
+    },
+    "pi-scurl": {
+      "monthly": 33,
+      "weekly": 12
+    },
+    "@e9n/pi-td": {
+      "monthly": 33,
+      "weekly": 11
+    },
+    "@clankie/memory": {
+      "monthly": 33,
+      "weekly": 1
+    },
+    "pi-web-tools": {
+      "monthly": 32,
+      "weekly": 3
+    },
+    "@e9n/pi-github": {
+      "monthly": 32,
+      "weekly": 5
+    },
+    "pi-surf": {
+      "monthly": 33,
+      "weekly": 9
+    },
+    "pi-breaker": {
+      "monthly": 33,
+      "weekly": 12
+    },
+    "@artale/pi-loop": {
+      "monthly": 33,
+      "weekly": 8
+    },
+    "@artale/pi-todo": {
+      "monthly": 31,
+      "weekly": 6
+    },
+    "@wdalhaj/pi-astro-mcp": {
+      "monthly": 31,
+      "weekly": 4
+    },
+    "@skdev-ai/pi-gemini-cli-search": {
+      "monthly": 31,
+      "weekly": 5
+    },
+    "pi-planner": {
+      "monthly": 31,
+      "weekly": 4
+    },
+    "@jay-zod/speakturbo": {
+      "monthly": 31,
+      "weekly": 4
+    },
+    "@0xkobold/pi-alerts": {
+      "monthly": 31,
+      "weekly": 6
+    },
+    "@juanibiapina/pi-files": {
+      "monthly": 31,
+      "weekly": 4
+    },
+    "@artale/pi-sysmon": {
+      "monthly": 32,
+      "weekly": 6
+    },
+    "@0xkobold/pi-erc8004": {
+      "monthly": 32,
+      "weekly": 10
+    },
+    "@artale/pi-diff-guard": {
+      "monthly": 32,
+      "weekly": 11
+    },
+    "@artale/pi-stash": {
+      "monthly": 30,
+      "weekly": 5
+    },
+    "@artale/pi-serial": {
+      "monthly": 30,
+      "weekly": 6
+    },
+    "pi-redactor": {
+      "monthly": 30,
+      "weekly": 8
+    },
+    "@edmundmiller/pi-dcp": {
+      "monthly": 29,
+      "weekly": 13
+    },
+    "@prinova/pi-github-tools": {
+      "monthly": 30,
+      "weekly": 9
+    },
+    "pi-peacock": {
+      "monthly": 30,
+      "weekly": 6
+    },
+    "pi-mnemosyne": {
+      "monthly": 30,
+      "weekly": 5
+    },
+    "pi-pirs": {
+      "monthly": 31,
+      "weekly": 9
+    },
+    "@q.roy/pi-remote": {
+      "monthly": 31,
+      "weekly": 0
+    },
+    "@artale/pi-notify": {
+      "monthly": 29,
+      "weekly": 7
+    },
+    "pi-episodic-memory": {
+      "monthly": 29,
+      "weekly": 14
+    },
+    "@edlsh/pi-web-tools": {
+      "monthly": 30,
+      "weekly": 5
+    },
+    "pi-flow-enforcer": {
+      "monthly": 29,
+      "weekly": 17
+    },
+    "@rhobot-dev/pi-ralph": {
+      "monthly": 29,
+      "weekly": 4
+    },
+    "@brain0pia/pi-extension-times": {
+      "monthly": 29,
+      "weekly": 5
+    },
+    "@vaayne/pi-rules": {
+      "monthly": 29,
+      "weekly": 7
+    },
+    "@indiekitai/pi-skills": {
+      "monthly": 30,
+      "weekly": 6
+    },
+    "@gordonb/pi-memory-blocks": {
+      "monthly": 28,
+      "weekly": 7
+    },
+    "@mmcook/pi-brainmaxx": {
+      "monthly": 28,
+      "weekly": 1
+    },
+    "@artale/pi-focus": {
+      "monthly": 29,
+      "weekly": 10
+    },
+    "@joemccann/pi-canvas-design": {
+      "monthly": 28,
+      "weekly": 4
+    },
+    "@clankie/json-ui-render": {
+      "monthly": 28,
+      "weekly": 3
+    },
+    "pi-evalset-lab": {
+      "monthly": 29,
+      "weekly": 15
+    },
+    "@artale/pi-cron": {
+      "monthly": 29,
+      "weekly": 4
+    },
+    "pi-telemetry-otel": {
+      "monthly": 28,
+      "weekly": 10
+    },
+    "@0xkobold/pi-cursor": {
+      "monthly": 28,
+      "weekly": 4
+    },
+    "kimicodeprovider": {
+      "monthly": 29,
+      "weekly": 5
+    },
+    "@artale/pi-lean": {
+      "monthly": 28,
+      "weekly": 3
+    },
+    "pi-prompt-stash": {
+      "monthly": 27,
+      "weekly": 4
+    },
+    "@4meta5/pi-shell-cli": {
+      "monthly": 27,
+      "weekly": 9
+    },
+    "@georgebashi/pi-codemode": {
+      "monthly": 29,
+      "weekly": 5
+    },
+    "@schilderlabs/pitown-package": {
+      "monthly": 29,
+      "weekly": 4
+    },
+    "@ogulcancelik/pi-flicker": {
+      "monthly": 29,
+      "weekly": 4
+    },
+    "pi-almanac": {
+      "monthly": 27,
+      "weekly": 5
+    },
+    "@samfp/pi-lesson-extractor": {
+      "monthly": 28,
+      "weekly": 7
+    },
+    "pi-vscode-terminal-notification": {
+      "monthly": 28,
+      "weekly": 9
+    },
+    "pi-satori-bridge": {
+      "monthly": 27,
+      "weekly": 8
+    },
+    "pi-model-picker": {
+      "monthly": 28,
+      "weekly": 11
+    },
+    "@mobrienv/pi-otlp": {
+      "monthly": 28,
+      "weekly": 7
+    },
+    "pi-critique": {
+      "monthly": 28,
+      "weekly": 10
+    },
+    "@modemdev/glance-pi": {
+      "monthly": 28,
+      "weekly": 1
+    },
+    "pi-which-key": {
+      "monthly": 27,
+      "weekly": 7
+    },
+    "@ifiokjr/oh-pi-ant-colony": {
+      "monthly": 27,
+      "weekly": 4
+    },
+    "@hyperprior/pi-ask": {
+      "monthly": 27,
+      "weekly": 12
+    },
+    "@shuyhere/pi-discord-bot": {
+      "monthly": 27,
+      "weekly": 4
+    },
+    "pi-readline-search": {
+      "monthly": 27,
+      "weekly": 5
+    },
+    "@ifiokjr/oh-pi": {
+      "monthly": 26,
+      "weekly": 3
+    },
+    "msco-pi-lot": {
+      "monthly": 26,
+      "weekly": 11
+    },
+    "@jademind/pi-visual": {
+      "monthly": 27,
+      "weekly": 5
+    },
+    "pi-safety-network-exfiltration": {
+      "monthly": 27,
+      "weekly": 4
+    },
+    "pi-codex-profile": {
+      "monthly": 27,
+      "weekly": 5
+    },
+    "@claaslange/pi-context-budget": {
+      "monthly": 27,
+      "weekly": 3
+    },
+    "pi-wechat": {
+      "monthly": 27,
+      "weekly": 10
+    },
+    "pi-zellij-tab-namer": {
+      "monthly": 27,
+      "weekly": 2
+    },
+    "pi-app-server": {
+      "monthly": 27,
+      "weekly": 10
+    },
+    "@jordyvd/pi-openai-compaction": {
+      "monthly": 26,
+      "weekly": 5
+    },
+    "@artale/pi-watch": {
+      "monthly": 27,
+      "weekly": 3
+    },
+    "pi-talk": {
+      "monthly": 27,
+      "weekly": 4
+    },
+    "pi-minesweeper": {
+      "monthly": 27,
+      "weekly": 7
+    },
+    "@hdh/pi-contributions-bot": {
+      "monthly": 26,
+      "weekly": 3
+    },
+    "@tryinget/pi-ontology-workflows": {
+      "monthly": 25,
+      "weekly": 13
+    },
+    "@chrisbielinski/pi-searchxng": {
+      "monthly": 25,
+      "weekly": 7
+    },
+    "@ws-rush/conductor": {
+      "monthly": 25,
+      "weekly": 4
+    },
+    "pi-loop-breaker": {
+      "monthly": 25,
+      "weekly": 8
+    },
+    "@lukebarton/pi-de-claude": {
+      "monthly": 26,
+      "weekly": 5
+    },
+    "pi-context-filter": {
+      "monthly": 26,
+      "weekly": 10
+    },
+    "@artale/pi-builder": {
+      "monthly": 25,
+      "weekly": 6
+    },
+    "git-metadata": {
+      "monthly": 24,
+      "weekly": 5
+    },
+    "@hyperprior/pi-todo": {
+      "monthly": 25,
+      "weekly": 6
+    },
+    "pi-set-editor": {
+      "monthly": 25,
+      "weekly": 8
+    },
+    "@artale/pi-snapshot": {
+      "monthly": 24,
+      "weekly": 5
+    },
+    "@elwinliu/pi-neapple": {
+      "monthly": 25,
+      "weekly": 5
+    },
+    "pi-pr-status": {
+      "monthly": 24,
+      "weekly": 11
+    },
+    "@artale/pi-envman": {
+      "monthly": 24,
+      "weekly": 6
+    },
+    "pi-threads": {
+      "monthly": 24,
+      "weekly": 8
+    },
+    "@zenobius/pi-footer": {
+      "monthly": 24,
+      "weekly": 4
+    },
+    "@yangnay/pi-mcp-bridge": {
+      "monthly": 24,
+      "weekly": 4
+    },
+    "pi-editor": {
+      "monthly": 24,
+      "weekly": 6
+    },
+    "@volh/pi-network-monitor": {
+      "monthly": 23,
+      "weekly": 7
+    },
+    "pi-amp": {
+      "monthly": 23,
+      "weekly": 9
+    },
+    "pi-roam": {
+      "monthly": 24,
+      "weekly": 8
+    },
+    "@hyperprior/pi-safety": {
+      "monthly": 23,
+      "weekly": 11
+    },
+    "pi-cmdr": {
+      "monthly": 23,
+      "weekly": 3
+    },
+    "pi-native-web-search": {
+      "monthly": 23,
+      "weekly": 3
+    },
+    "pi-relay": {
+      "monthly": 23,
+      "weekly": 5
+    },
+    "@samfp/pi-rose-pine": {
+      "monthly": 23,
+      "weekly": 3
+    },
+    "@hyperprior/pi-python": {
+      "monthly": 23,
+      "weekly": 8
+    },
+    "@4meta5/pi-zsh": {
+      "monthly": 23,
+      "weekly": 8
+    },
+    "@hngye02/pi-web-tools": {
+      "monthly": 23,
+      "weekly": 2
+    },
+    "@agustif/pi-talk": {
+      "monthly": 22,
+      "weekly": 6
+    },
+    "@marcfargas/brainiac": {
+      "monthly": 22,
+      "weekly": 1
+    },
+    "@artale/pi-knowledge": {
+      "monthly": 22,
+      "weekly": 3
+    },
+    "pi-otel-telemetry": {
+      "monthly": 22,
+      "weekly": 7
+    },
+    "@clankie/sandbox": {
+      "monthly": 22,
+      "weekly": 0
+    },
+    "pi-agui": {
+      "monthly": 22,
+      "weekly": 11
+    },
+    "@artale/pi-perf": {
+      "monthly": 22,
+      "weekly": 4
+    },
+    "pi-forms": {
+      "monthly": 22,
+      "weekly": 2
+    },
+    "pi-replicant": {
+      "monthly": 22,
+      "weekly": 8
+    },
+    "@recallnet/codecontext-pi": {
+      "monthly": 22,
+      "weekly": 0
+    },
+    "pi-chain": {
+      "monthly": 21,
+      "weekly": 0
+    },
+    "pi-slot-machine": {
+      "monthly": 21,
+      "weekly": 4
+    },
+    "pi-xurl": {
+      "monthly": 21,
+      "weekly": 5
+    },
+    "@ssweens/pi-image-gen": {
+      "monthly": 21,
+      "weekly": 2
+    },
+    "pi-agentkernel": {
+      "monthly": 20,
+      "weekly": 5
+    },
+    "@artale/pi-refactor": {
+      "monthly": 21,
+      "weekly": 5
+    },
+    "pi-session-investigator": {
+      "monthly": 21,
+      "weekly": 8
+    },
+    "@e9n/pi-calendar": {
+      "monthly": 21,
+      "weekly": 1
+    },
+    "@artale/pi-migrate": {
+      "monthly": 21,
+      "weekly": 3
+    },
+    "pi-cryptex": {
+      "monthly": 21,
+      "weekly": 7
+    },
+    "pi-security-scanner": {
+      "monthly": 21,
+      "weekly": 7
+    },
+    "@alexgorbatchev/agentation-skills": {
+      "monthly": 21,
+      "weekly": 8
+    },
+    "@waraq-labs/pi-notify-terminal-notifier": {
+      "monthly": 20,
+      "weekly": 11
+    },
+    "@edmundmiller/pi-beads": {
+      "monthly": 20,
+      "weekly": 8
+    },
+    "pi-open-sessions-files-extension": {
+      "monthly": 20,
+      "weekly": 5
+    },
+    "pi-nudge": {
+      "monthly": 20,
+      "weekly": 6
+    },
+    "@artale/pi-git-hooks": {
+      "monthly": 20,
+      "weekly": 3
+    },
+    "@momomemory/pi-momo": {
+      "monthly": 20,
+      "weekly": 3
+    },
+    "@artale/pi-metrics": {
+      "monthly": 19,
+      "weekly": 4
+    },
+    "shitty-prompt": {
+      "monthly": 19,
+      "weekly": 8
+    },
+    "@patleeman/pi-boy": {
+      "monthly": 20,
+      "weekly": 2
+    },
+    "@jademind/pi-tools": {
+      "monthly": 20,
+      "weekly": 1
+    },
+    "qnaigc-llm-provider": {
+      "monthly": 20,
+      "weekly": 3
+    },
+    "@fnnm/pi-session-breakdown": {
+      "monthly": 20,
+      "weekly": 4
+    },
+    "pi-model-sysprompt-appendix": {
+      "monthly": 20,
+      "weekly": 8
+    },
+    "@burneikis/pi-web-search": {
+      "monthly": 20,
+      "weekly": 1
+    },
+    "wallhaven-random-pi-extension": {
+      "monthly": 20,
+      "weekly": 7
+    },
+    "@guwidoe/pi-wsl-clipboard-image": {
+      "monthly": 20,
+      "weekly": 4
+    },
+    "pi-context-repo": {
+      "monthly": 20,
+      "weekly": 6
+    },
+    "@artale/pi-datasci": {
+      "monthly": 20,
+      "weekly": 5
+    },
+    "pi-branch-ask": {
+      "monthly": 20,
+      "weekly": 3
+    },
+    "pi-gemini-cli-quota": {
+      "monthly": 19,
+      "weekly": 2
+    },
+    "@mjakl/pi-git-research": {
+      "monthly": 19,
+      "weekly": 6
+    },
+    "pi-voxtype": {
+      "monthly": 19,
+      "weekly": 2
+    },
+    "pi-watch": {
+      "monthly": 19,
+      "weekly": 2
+    },
+    "@artale/pi-i18n": {
+      "monthly": 18,
+      "weekly": 4
+    },
+    "pi-linear-worktree": {
+      "monthly": 19,
+      "weekly": 8
+    },
+    "@gordonb/pi-notational": {
+      "monthly": 19,
+      "weekly": 5
+    },
+    "@artale/pi-odu": {
+      "monthly": 19,
+      "weekly": 5
+    },
+    "@mjakl/pi-ooc": {
+      "monthly": 18,
+      "weekly": 2
+    },
+    "video-paste": {
+      "monthly": 18,
+      "weekly": 5
+    },
+    "pi-blindtest": {
+      "monthly": 18,
+      "weekly": 1
+    },
+    "@artale/pi-recon": {
+      "monthly": 18,
+      "weekly": 6
+    },
+    "pi-safety-path-protection": {
+      "monthly": 18,
+      "weekly": 2
+    },
+    "@tryinget/pi-little-helpers": {
+      "monthly": 18,
+      "weekly": 7
+    },
+    "@artale/pi-picker": {
+      "monthly": 18,
+      "weekly": 6
+    },
+    "@edmundmiller/pi-context-repo": {
+      "monthly": 17,
+      "weekly": 6
+    },
+    "@mjakl/pi-dark-or-light": {
+      "monthly": 17,
+      "weekly": 2
+    },
+    "@rbright/pi-notify-desktop": {
+      "monthly": 17,
+      "weekly": 6
+    },
+    "@hemocode/pi-model-selector": {
+      "monthly": 17,
+      "weekly": 0
+    },
+    "@e9n/pi-webnav": {
+      "monthly": 17,
+      "weekly": 4
+    },
+    "@tmustier/pi-weather": {
+      "monthly": 17,
+      "weekly": 5
+    },
+    "@elianiva/pi-starship": {
+      "monthly": 17,
+      "weekly": 3
+    },
+    "@settinghead/pi-voxlert": {
+      "monthly": 17,
+      "weekly": 1
+    },
+    "@hyperprior/pi-commit": {
+      "monthly": 16,
+      "weekly": 5
+    },
+    "@edmundmiller/pi-scurl": {
+      "monthly": 16,
+      "weekly": 6
+    },
+    "@yofriadi/pi-mcp": {
+      "monthly": 17,
+      "weekly": 9
+    },
+    "@kaiserlich-dev/pi-skill-picker": {
+      "monthly": 17,
+      "weekly": 6
+    },
+    "@e9n/pi-supabase": {
+      "monthly": 16,
+      "weekly": 3
+    },
+    "@harigovindarajan/pi-memory-adapter": {
+      "monthly": 16,
+      "weekly": 3
+    },
+    "@hyperspaceng/pi-agent-id": {
+      "monthly": 16,
+      "weekly": 2
+    },
+    "@claaslange/pi-directory-models": {
+      "monthly": 16,
+      "weekly": 3
+    },
+    "@jay-zod/speak": {
+      "monthly": 16,
+      "weekly": 6
+    },
+    "@hyperprior/pi-web": {
+      "monthly": 16,
+      "weekly": 8
+    },
+    "@rbright/pi-notify-koko": {
+      "monthly": 16,
+      "weekly": 3
+    },
+    "pi-dedumbify": {
+      "monthly": 16,
+      "weekly": 1
+    },
+    "@marcfargas/go-holded": {
+      "monthly": 16,
+      "weekly": 1
+    },
+    "@gordonb/pi-archive": {
+      "monthly": 16,
+      "weekly": 0
+    },
+    "@yofriadi/pi-hashline-edit": {
+      "monthly": 15,
+      "weekly": 3
+    },
+    "pi-wandb": {
+      "monthly": 15,
+      "weekly": 3
+    },
+    "pi-zed-shift-enter": {
+      "monthly": 15,
+      "weekly": 5
+    },
+    "pi-search-agent": {
+      "monthly": 15,
+      "weekly": 4
+    },
+    "pi-copy-last-response-extension": {
+      "monthly": 15,
+      "weekly": 3
+    },
+    "@atomic-ai/msco-pi-lot": {
+      "monthly": 15,
+      "weekly": 2
+    },
+    "@jasonish/pi-prompt-history": {
+      "monthly": 14,
+      "weekly": 5
+    },
+    "pi-wc3-sounds": {
+      "monthly": 14,
+      "weekly": 1
+    },
+    "@hyperprior/pi-browser": {
+      "monthly": 14,
+      "weekly": 5
+    },
+    "@yofriadi/pi-commit": {
+      "monthly": 14,
+      "weekly": 3
+    },
+    "@hyperprior/dissolution": {
+      "monthly": 14,
+      "weekly": 3
+    },
+    "@e9n/pi-npm": {
+      "monthly": 14,
+      "weekly": 1
+    },
+    "@hyperprior/pi-model-roles": {
+      "monthly": 13,
+      "weekly": 5
+    },
+    "@hyperprior/pi-bundle": {
+      "monthly": 13,
+      "weekly": 5
+    },
+    "repeat-pi": {
+      "monthly": 13,
+      "weekly": 2
+    },
+    "@yofriadi/pi-lsp": {
+      "monthly": 13,
+      "weekly": 5
+    },
+    "@yevhen.b/pi-macos-theme-sync": {
+      "monthly": 13,
+      "weekly": 0
+    },
+    "pi-open-here": {
+      "monthly": 12,
+      "weekly": 1
+    },
+    "@tryinget/pi-editor-registry": {
+      "monthly": 12,
+      "weekly": 2
+    },
+    "@hyperprior/pi-subagent": {
+      "monthly": 12,
+      "weekly": 5
+    },
+    "@hyperprior/pi-review": {
+      "monthly": 12,
+      "weekly": 5
+    },
+    "@tryinget/pi-trigger-adapter": {
+      "monthly": 12,
+      "weekly": 2
+    },
+    "@howaboua/pi-todomaster": {
+      "monthly": 12,
+      "weekly": 1
+    },
+    "@tryinget/pi-interaction-kit": {
+      "monthly": 11,
+      "weekly": 1
+    },
+    "@hjanuschka/pi-nanny": {
+      "monthly": 11,
+      "weekly": 1
+    },
+    "@fnnm/pi-raw-paste": {
+      "monthly": 11,
+      "weekly": 0
+    },
+    "@tryinget/pi-interaction": {
+      "monthly": 10,
+      "weekly": 1
+    },
+    "@yevhen.b/pi-preflight": {
+      "monthly": 10,
+      "weekly": 0
+    },
+    "@yofriadi/pi-fuzzy-match": {
+      "monthly": 10,
+      "weekly": 4
+    },
+    "@jasonish/pi-default-model": {
+      "monthly": 10,
+      "weekly": 1
+    },
+    "@yofriadi/pi-review": {
+      "monthly": 9,
+      "weekly": 1
+    },
+    "pi-quiz": {
+      "monthly": 3,
+      "weekly": 3
+    },
+    "pi-libsecret": {
+      "monthly": 1,
+      "weekly": 1
+    },
+    "@lydst/pi-webfetch": {
+      "monthly": 1,
+      "weekly": 1
+    },
+    "symphony-pi": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-model-provider-native-prompting": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@baggiiiie/pi-no-ansi": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@baggiiiie/pi-computer-use": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@gogomi/pi-glsl-shader-vision": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-tmux-harness": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@narumitw/pi-web-search": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@javiayala/ai-workers": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@robhowley/pi-yolo-seatbelt": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@sahebjot94/pi-goal": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-cymbal": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-mono-all": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@whynothugo/pi-auto-theme": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-peek": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-context-breadcrumbs": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@narumitw/pi-nyaa": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@vtstech/pi-tgz-installer": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-currency": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-mozart": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-plan": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-theology": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "file-upload-cli": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-see": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@neilurk12/pi-clean-footer": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@pukljak/pi-memory": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@carter-mcalister/pi-codex-ask-user": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@carter-mcalister/pi-protected-files": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@jmfederico/pi-web": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@sherif-fanous/pi-presets-plus": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@jyking/jypi": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-delete-session": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@datspike/pi-runtime-info-extension": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@whynothugo/pi-notify": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@sztlink/pi-ensemble": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "agent-booster-pack-proof": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@lhl/pi-vertex": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fgladisch/pi-persistent-history": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@syedassadullahshah/pi-kilo-provider": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-remote-agent": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@artale/pi-cole": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@cortexkit/pi-anthropic-auth": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-voice-loop": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@richardgill/pi-file-collector": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-build123d": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-kicad": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@alasano/pi-forcefeed": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@narumitw/pi-retry": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-batch-tool": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-prompt-reviewer": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@lumendigitaldev/pi-wsl-images": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-git-things": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "agent-booster-pack-whiteboard": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-qq": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@carter-mcalister/pi-codex-tools": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-scream": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "omp-notify-tool": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-fancy-loader": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-spawn": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@jecruz/pi-dev-workflow": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@taimoorchatha/pi-context-footer": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@grayolson/pi-treebase": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@wkronmiller/pi-subagent-extension": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-sumopod-connector": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-token-meter": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-roles": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-jupyter": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-provider-quota": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-model-suitable-tools": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@oleg_tarasov/pi-compaction-fix": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@sentiolabs/pi-frontend-design": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-banana": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@kky42/pi-sandbox": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@im4all/pi-jira-extension": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-zstack": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-done": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-cortecs": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@denveous/pi-mcp": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@bakaschwarz/pi-update-adesso": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-chrome": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-opencode-bridge": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@carter-mcalister/pi-codex-tasks": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-skillshare": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@codingcoffee/pi-privacy-filter": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@artale/pi-verify": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-account-switcher": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "agent-halter": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "container-dashboard": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-prior": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-mission-control": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-starship": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@pi-unipi/cocoindex": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@artale/pi-canvas": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@artale/pi-music": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@rdyson/pi-pushover": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-mlx-models": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-prayer-times": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-kapso-whatsapp": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-macos-cua": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-cron": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-disable-model-skill-invocation": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-mono-usage": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-mono-context": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@edxeth/pi-fff": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-yaml-hooks": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@capyup/pi-specs": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-delegate-tool": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@tianzong48/pi-doctor-extension": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@bergetai/pi-provider": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "tr-pi": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-tmux-rename": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-protected-paths": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-goals": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@capyup/pi-auto-compact": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-discord-remote": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@jayteelabs/pi-nous-portal-provider": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-browser-debug": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@firstpick/pi-utils": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@adidoes/pi-meep": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@cltec/pi-ollama-web-search": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-windows-path-guard": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@geminixiang/pi-cicd-status": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@arcanemachine/pi-read": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@johnnywu/pi-terminal-signals": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-commandcode-provider": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-footer-mode": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-codex-limit": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@wierdbytes/pi-anthropic": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-safety-modes": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@wierdbytes/pi-tokyo-night": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-nano-context": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@firstpick/pi-extension-plan-executor": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-skidl": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@pi-lab/notify": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-questions-helper": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-context-tools": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@carter-mcalister/pi-codex-subagents": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-web-kit": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@gaodes/pi-graphify": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-quiet-tools": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@oleg_tarasov/pi-zmx-status": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@khmuhtadin/pi-clickup-mcp": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-codex-image-tool": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@nathanhuh/pi-ko": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-codex-status": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-modal": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@adamjen/pi-compact-fast": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-footer": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@taimoorchatha/pi-context-pulse": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@mario-gc/pi-context7": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@ineersa/my-pi-mcp-adapter": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-openrouter-native": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-side-preview": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@gregjohnso/pi-imgview": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-thinking-hotkeys": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@baggiiiie/pi-context-status": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@rejot-dev/pi-openai-search": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@artale/pi-kdot": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@artale/pi-hiphop": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "trifecta-footer": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@spences10/pi-svelte-guardrails": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@pavlokrykh/strip-search": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-chrome-dev-tools": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-micropython": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-litellm": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-skill-dollar": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@firstpick/pi-extension-release-npm": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-fleet": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@hieplp/pi-account-switcher": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@patimweb/pi-email": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@howaboua/pi-auto-reasoning-tool": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-nyaa": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@zackify/pi-sambanova": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@artale/pi-hotline": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@artale/pi-ye": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@artale/pi-video": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-until-done": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "telegram-pi": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@artyomspace/pi-telegram-connect": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@arcanemachine/pi-notify-marker": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-skill-model-effort": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "haagent": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-gods": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@baretread/pi-forge": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@firstpick/pi-extension-upgrade-extensions": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-dude": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-alibaba-models": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "moonpi": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-agent-shell": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-terse": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@fingerskier/pi-email": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-figma-remote-auth": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@x1any/pi-swarm": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-memoir": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-model-effort-coloring": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-theme-synthwave-84": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-grok-search": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@capyup/pi-warp": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@carter-mcalister/pi-codex-image-gen": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@carter-mcalister/pi-multicodex": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@diegopetrucci/pi-context-cap": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@kuyavinny/pi-muninn-mem": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@akuzmenko/rgk": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@jwayong/pi-azure-devops": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@diegopetrucci/pi-compact-bash": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@unfixed3854/pi-usage": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-discord-presence": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@p8n.ai/pi-listens": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-bangla-news": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-autoskills": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-pledit": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-telegram-group-topic": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-export-config": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-resume-on-exit": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@tanyouqing/pi-openviking": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@zackify/pi-wafer": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@wierdbytes/pi-facelift": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@krone9/pi-superpowers": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@reqall/pi-plugin": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-github-identity": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-verifier-agent": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-solo": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@diegopetrucci/pi-quiet-tools": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@spences10/pi-coding-preferences": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-goalie": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@capyup/pi-exa": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "@deevus/pi-wayfinder": {
+      "monthly": 0,
+      "weekly": 0
+    },
+    "pi-sticky-prompt": {
+      "monthly": 0,
+      "weekly": 0
+    }
+  }
+}

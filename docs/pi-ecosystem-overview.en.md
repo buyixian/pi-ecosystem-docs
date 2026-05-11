@@ -2,7 +2,7 @@
 
 > English mirror · 中文默认版: [打开中文版本](./pi-ecosystem-overview.md)
 
-> Generated on 2026-05-10 · 2,364 packages
+> Generated on 2026-05-11 · 2,364 packages
 
 ## Quick Picks
 
