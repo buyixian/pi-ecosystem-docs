@@ -61,11 +61,11 @@ api.registerProvider("my-llm", {
 
 | # | 插件 | 月下载量 | 安装命令 | 说明 |
 |---|---|---|---|---|
-| 1 | [pi-provider-kimi-code](https://www.npmjs.com/package/pi-provider-kimi-code) | 1,392 | `npm install pi-provider-kimi-code` | Pi extension for Kimi Code — reuse your Kimi Code Plan in pi-coding-agent (K2.6, K2.5) |
-| 2 | [@ramarivera/pi-ts-aperture-provider](https://www.npmjs.com/package/@ramarivera/pi-ts-aperture-provider) | 1,085 | `npm install @ramarivera/pi-ts-aperture-provider` | Config-driven aperture provider extraction for Pi-compatible extensions. |
-| 3 | [@sinamtz/pi-minimax-provider](https://www.npmjs.com/package/@sinamtz/pi-minimax-provider) | 916 | `npm install @sinamtz/pi-minimax-provider` | Pi coding agent provider for MiniMax AI - supports MiniMax M2 series models with Anthro… |
-| 4 | [pi-cursor-provider](https://www.npmjs.com/package/pi-cursor-provider) | 912 | `npm install pi-cursor-provider` | Pi extension providing access to Cursor models via OAuth and a local OpenAI-compatible… |
-| 5 | [pi-venice](https://www.npmjs.com/package/pi-venice) | 690 | `npm install pi-venice` | Pi Coding Agent extension for using Venice.ai as provider, access to ANY and ALL models… |
+| 1 | [pi-provider-kimi-code](https://www.npmjs.com/package/pi-provider-kimi-code) | 1,322 | `npm install pi-provider-kimi-code` | Pi extension for Kimi Code — reuse your Kimi Code Plan in pi-coding-agent (K2.6, K2.5) |
+| 2 | [pi-provider-litellm](https://www.npmjs.com/package/pi-provider-litellm) | 800 | `npm install pi-provider-litellm` | LiteLLM proxy provider extension for Pi |
+| 3 | [pi-xiaomi-mimo-provider](https://www.npmjs.com/package/pi-xiaomi-mimo-provider) | 748 | `npm install pi-xiaomi-mimo-provider` | Xiaomi Mimo provider extension for pi coding agent — registers mimo-v2-pro, mimo-v2-omn… |
+| 4 | [@cirthan/pi-cirthan-provider](https://www.npmjs.com/package/@cirthan/pi-cirthan-provider) | 740 | `npm install @cirthan/pi-cirthan-provider` | Pi provider package for the Cirthan API. |
+| 5 | [pi-provider-umans](https://www.npmjs.com/package/pi-provider-umans) | 700 | `npm install pi-provider-umans` | Umans.ai provider for pi — OpenAI-compatible endpoint with dynamic model discovery |
 
 ### 全量目录
 

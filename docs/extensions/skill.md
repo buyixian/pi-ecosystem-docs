@@ -49,11 +49,11 @@ Skill 是**最去中心化**的类别——任何人可以写，通过 GitHub �
 
 | # | 插件 | 月下载量 | 安装命令 | 说明 |
 |---|---|---|---|---|
-| 1 | [@juicesharp/rpiv-args](https://www.npmjs.com/package/@juicesharp/rpiv-args) | 7,370 | `npm install @juicesharp/rpiv-args` | Pi extension. Shell-style $1 and $ARGUMENTS placeholders, expanded into your Pi skills… |
-| 2 | [@heart-of-gold/toolkit](https://www.npmjs.com/package/@heart-of-gold/toolkit) | 6,099 | `npm install @heart-of-gold/toolkit` | Cross-platform installer for Heart of Gold skills — works with Codex, OpenCode, Pi, Cla… |
-| 3 | [pi-docparser](https://www.npmjs.com/package/pi-docparser) | 5,343 | `npm install pi-docparser` | Pi package that adds a document_parse tool and companion skill for parsing PDFs, Office… |
-| 4 | [@aretw0/git-skills](https://www.npmjs.com/package/@aretw0/git-skills) | 2,425 | `npm install @aretw0/git-skills` | First-party git skills: github (gh), gitlab (glab), workflow and commit conventions |
-| 5 | [@aretw0/pi-skills](https://www.npmjs.com/package/@aretw0/pi-skills) | 2,208 | `npm install @aretw0/pi-skills` | Skills para criar, configurar e operar o ecossistema pi — extensões, skills, temas, ter… |
+| 1 | [@juicesharp/rpiv-args](https://www.npmjs.com/package/@juicesharp/rpiv-args) | 11,043 | `npm install @juicesharp/rpiv-args` | Pi extension. Shell-style $1 and $ARGUMENTS placeholders, expanded into your Pi skills… |
+| 2 | [@heart-of-gold/toolkit](https://www.npmjs.com/package/@heart-of-gold/toolkit) | 1,948 | `npm install @heart-of-gold/toolkit` | Cross-platform installer for Heart of Gold skills — works with Codex, OpenCode, Pi, Cla… |
+| 3 | [pi-docparser](https://www.npmjs.com/package/pi-docparser) | 4,456 | `npm install pi-docparser` | Pi package that adds a document_parse tool and companion skill for parsing PDFs, Office… |
+| 4 | [@spences10/pi-skills](https://www.npmjs.com/package/@spences10/pi-skills) | 3,108 | `npm install @spences10/pi-skills` | Agent Skills management for Pi with profiles, enablement rules, GitHub search/install,… |
+| 5 | [pi-loadout](https://www.npmjs.com/package/pi-loadout) | 2,913 | `npm install pi-loadout` | Interactive tool and skill loadouts for Pi sessions. |
 
 ### 全量目录
 

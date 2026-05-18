@@ -92,11 +92,11 @@ PI Root → Sub PI → Sub-Sub PI → ...
 
 | # | 插件 | 月下载量 | 安装命令 | 说明 |
 |---|---|---|---|---|
-| 1 | [pi-subagents](https://www.npmjs.com/package/pi-subagents) | 70,608 | `npm install pi-subagents` | Pi extension for delegating tasks to subagents with chains, parallel execution, and TUI… |
-| 2 | [pi-crew](https://www.npmjs.com/package/pi-crew) | 6,362 | `npm install pi-crew` | Pi extension for coordinated AI teams, workflows, worktrees, and async task orchestrati… |
-| 3 | [pi-minions](https://www.npmjs.com/package/pi-minions) | 1,564 | `npm install pi-minions` | Minimal recursive subagent orchestration for pi. No bundled agents, no opinions. |
-| 4 | [taskplane](https://www.npmjs.com/package/taskplane) | 7,639 | `npm install taskplane` | AI agent orchestration for pi — parallel task execution with checkpoint discipline |
-| 5 | [@tintinweb/pi-subagents](https://www.npmjs.com/package/@tintinweb/pi-subagents) | 7,587 | `npm install @tintinweb/pi-subagents` | A pi extension extension that brings smart Claude Code-style autonomous sub-agents to p… |
+| 1 | [pi-subagents](https://www.npmjs.com/package/pi-subagents) | 86,724 | `npm install pi-subagents` | Pi extension for delegating tasks to subagents with chains, parallel execution, and TUI… |
+| 2 | [pi-crew](https://www.npmjs.com/package/pi-crew) | 9,381 | `npm install pi-crew` | Pi extension for coordinated AI teams, workflows, worktrees, and async task orchestrati… |
+| 3 | [pi-minions](https://www.npmjs.com/package/pi-minions) | 638 | `npm install pi-minions` | Minimal recursive subagent orchestration for pi. No bundled agents, no opinions. |
+| 4 | [@tintinweb/pi-subagents](https://www.npmjs.com/package/@tintinweb/pi-subagents) | 10,324 | `npm install @tintinweb/pi-subagents` | A pi extension extension that brings smart Claude Code-style autonomous sub-agents to p… |
+| 5 | [taskplane](https://www.npmjs.com/package/taskplane) | 6,900 | `npm install taskplane` | AI agent orchestration for pi — parallel task execution with checkpoint discipline |
 
 ### 全量目录
 

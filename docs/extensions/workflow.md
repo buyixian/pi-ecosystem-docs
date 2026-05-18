@@ -41,11 +41,11 @@ Workflow 扩展为 PI 注入**结构化开发流程**：规划→执行→审查
 
 | # | 插件 | 月下载量 | 安装命令 | 说明 |
 |---|---|---|---|---|
-| 1 | [@plannotator/pi-extension](https://www.npmjs.com/package/@plannotator/pi-extension) | 21,911 | `npm install @plannotator/pi-extension` | Plannotator Pi extension - interactive plan review with annotations, annotate agent mes… |
-| 2 | [pi-gsd](https://www.npmjs.com/package/pi-gsd) | 10,542 | `npm install pi-gsd` | Get Shit Done - Unofficial port of the renowned AI-native project-planning spec-driven… |
-| 3 | [@juicesharp/rpiv-pi](https://www.npmjs.com/package/@juicesharp/rpiv-pi) | 8,855 | `npm install @juicesharp/rpiv-pi` | A skill-based development workflow for Pi Agent. Five skills (research, design, plan, i… |
-| 4 | [@pi-unipi/workflow](https://www.npmjs.com/package/@pi-unipi/workflow) | 2,270 | `npm install @pi-unipi/workflow` | Structured development workflow commands for Pi coding agent |
-| 5 | [@tianhai/pi-workflow-kit](https://www.npmjs.com/package/@tianhai/pi-workflow-kit) | 2,144 | `npm install @tianhai/pi-workflow-kit` | Enforce structured brainstorm→plan→execute→finalize workflow with TDD discipline in AI… |
+| 1 | [@plannotator/pi-extension](https://www.npmjs.com/package/@plannotator/pi-extension) | 25,787 | `npm install @plannotator/pi-extension` | Plannotator Pi extension - interactive plan review with annotations, annotate agent mes… |
+| 2 | [pi-gsd](https://www.npmjs.com/package/pi-gsd) | 2,503 | `npm install pi-gsd` | Get Shit Done - Unofficial port of the renowned AI-native project-planning spec-driven… |
+| 3 | [@juicesharp/rpiv-pi](https://www.npmjs.com/package/@juicesharp/rpiv-pi) | 11,733 | `npm install @juicesharp/rpiv-pi` | A skill-based development workflow for Pi Agent. Five skills (research, design, plan, i… |
+| 4 | [@pi-unipi/workflow](https://www.npmjs.com/package/@pi-unipi/workflow) | 2,979 | `npm install @pi-unipi/workflow` | Structured development workflow commands for Pi coding agent |
+| 5 | [@tianhai/pi-workflow-kit](https://www.npmjs.com/package/@tianhai/pi-workflow-kit) | 1,986 | `npm install @tianhai/pi-workflow-kit` | Enforce structured brainstorm→plan→execute→finalize workflow with TDD discipline in AI… |
 
 ### 全量目录
 

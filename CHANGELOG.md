@@ -13,6 +13,58 @@
 
 <!-- CHANGELOG-ENTRIES -->
 
+## 2026-05-18
+
+- 📦 Total packages: **2,766** (previously 2,364, Δ +402)
+
+### ➕ New packages (425)
+
+- `gentle-pi` — 5,373 monthly
+- `@os-eco/mulch-cli` — 4,358 monthly
+- `pi-bar` — 4,295 monthly
+- `pi-loadout` — 2,913 monthly
+- `@nahuelcio/opencode-ado` — 2,870 monthly
+- `@narumitw/pi-goal` — 2,760 monthly
+- `@narumitw/pi-chrome-devtools` — 2,751 monthly
+- `@narumitw/pi-caffeinate` — 2,740 monthly
+- `@narumitw/pi-statusline` — 2,651 monthly
+- `@narumitw/pi-subagents` — 2,396 monthly
+- _…and 415 more_
+
+### ➖ Removed / unpublished (23)
+
+- `@blackbelt-technology/pi-agent-dashboard`
+- `@feniix/pi-conductor`
+- `pi-pkg-guard`
+- `@unbrained/pm-cli`
+- `@harlley/todomd`
+- `@fitchmultz/pi-ephemeral`
+- `pi-ca-leash`
+- `pi-search-multi`
+- `pi-clinical-trial-finder`
+- `pi-video-transcribe`
+- _…and 13 more_
+
+### 📈 Biggest download gainers
+
+| Package | Before | After | Δ |
+|---|---:|---:|---:|
+| `context-mode` | 57,781 | 86,809 | +29,028 (+50.2%) |
+| `pi-mcp-adapter` | 59,788 | 77,049 | +17,261 (+28.9%) |
+| `pi-subagents` | 70,608 | 86,724 | +16,116 (+22.8%) |
+| `pi-web-access` | 34,332 | 46,602 | +12,270 (+35.7%) |
+| `@juicesharp/rpiv-todo` | 11,493 | 23,195 | +11,702 (+101.8%) |
+
+### 📉 Biggest download declines
+
+| Package | Before | After | Δ |
+|---|---:|---:|---:|
+| `pi-gsd` | 10,542 | 2,503 | -8,039 (-76.3%) |
+| `@callumvass/forgeflow-dev` | 7,261 | 736 | -6,525 (-89.9%) |
+| `@heart-of-gold/toolkit` | 6,099 | 1,948 | -4,151 (-68.1%) |
+| `@callumvass/forgeflow-pm` | 4,137 | 420 | -3,717 (-89.8%) |
+| `@feniix/pi-notion` | 4,872 | 1,912 | -2,960 (-60.8%) |
+
 ## Baseline
 
 _This file was introduced on the date of first sync. Future weekly runs will automatically add entries above this line._

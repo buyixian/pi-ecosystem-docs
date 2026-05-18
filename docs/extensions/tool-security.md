@@ -49,11 +49,11 @@ npm install pi-pkg-guard pi-sandbox @gotgenes/pi-permission-system
 
 | # | 插件 | 月下载量 | 安装命令 | 说明 |
 |---|---|---|---|---|
-| 1 | [@gotgenes/pi-permission-system](https://www.npmjs.com/package/@gotgenes/pi-permission-system) | 6,421 | `npm install @gotgenes/pi-permission-system` | Permission enforcement extension for the Pi coding agent. |
-| 2 | [pi-pkg-guard](https://www.npmjs.com/package/pi-pkg-guard) | 1,692 | `npm install pi-pkg-guard` | Guards against unregistered pi packages — installed via npm but not registered in pi's… |
-| 3 | [pi-sandbox](https://www.npmjs.com/package/pi-sandbox) | 1,477 | `npm install pi-sandbox` | OS-level sandboxing for pi with interactive permission prompts |
-| 4 | [@aliou/pi-guardrails](https://www.npmjs.com/package/@aliou/pi-guardrails) | 4,145 | `npm install @aliou/pi-guardrails` | ![banner](https://assets.aliou.me/pi-extensions/banners/pi-guardrails.png) |
-| 5 | [pi-permission-system](https://www.npmjs.com/package/pi-permission-system) | 1,411 | `npm install pi-permission-system` | Permission enforcement extension for the Pi coding agent. |
+| 1 | [@gotgenes/pi-permission-system](https://www.npmjs.com/package/@gotgenes/pi-permission-system) | 10,021 | `npm install @gotgenes/pi-permission-system` | Permission enforcement extension for the Pi coding agent. |
+| 2 | [pi-sandbox](https://www.npmjs.com/package/pi-sandbox) | 1,821 | `npm install pi-sandbox` | OS-level sandboxing for pi with interactive permission prompts |
+| 3 | [@aliou/pi-guardrails](https://www.npmjs.com/package/@aliou/pi-guardrails) | 4,820 | `npm install @aliou/pi-guardrails` | ![banner](https://assets.aliou.me/pi-extensions/banners/pi-guardrails.png) |
+| 4 | [pi-permission-system](https://www.npmjs.com/package/pi-permission-system) | 2,029 | `npm install pi-permission-system` | Permission enforcement extension for the Pi coding agent. |
+| 5 | [@casualjim/pi-heimdall](https://www.npmjs.com/package/@casualjim/pi-heimdall) | 1,755 | `npm install @casualjim/pi-heimdall` | Guardian extension for pi — security guards that block accidental secret exposure, enfo… |
 
 ### 全量目录
 

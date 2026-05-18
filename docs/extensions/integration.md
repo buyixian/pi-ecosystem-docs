@@ -47,11 +47,11 @@
 
 | # | 插件 | 月下载量 | 安装命令 | 说明 |
 |---|---|---|---|---|
-| 1 | [whatsapp-pi](https://www.npmjs.com/package/whatsapp-pi) | 5,802 | `npm install whatsapp-pi` | WhatsApp integration extension for Pi |
-| 2 | [@feniix/pi-notion](https://www.npmjs.com/package/@feniix/pi-notion) | 4,872 | `npm install @feniix/pi-notion` | Notion API extension for pi — read, search, and manage Notion pages, databases, and con… |
-| 3 | [@llblab/pi-telegram](https://www.npmjs.com/package/@llblab/pi-telegram) | 4,712 | `npm install @llblab/pi-telegram` | Telegram Runtime Adapter for π |
-| 4 | [pi-convex](https://www.npmjs.com/package/pi-convex) | 4,573 | `npm install pi-convex` | Pi extension for Convex Cloud - queries, mutations, project management, and best practi… |
-| 5 | [@venthezone/picord](https://www.npmjs.com/package/@venthezone/picord) | 1,399 | `npm install @venthezone/picord` | Discord integration extension for pi that maps project channels to workspaces and threa… |
+| 1 | [@llblab/pi-telegram](https://www.npmjs.com/package/@llblab/pi-telegram) | 6,984 | `npm install @llblab/pi-telegram` | Telegram runtime adapter for π |
+| 2 | [whatsapp-pi](https://www.npmjs.com/package/whatsapp-pi) | 4,676 | `npm install whatsapp-pi` | WhatsApp integration extension for Pi |
+| 3 | [pi-convex](https://www.npmjs.com/package/pi-convex) | 4,622 | `npm install pi-convex` | Pi extension for Convex Cloud - queries, mutations, project management, and best practi… |
+| 4 | [@feniix/pi-notion](https://www.npmjs.com/package/@feniix/pi-notion) | 1,912 | `npm install @feniix/pi-notion` | Notion API extension for pi — read, search, and manage Notion pages, databases, and con… |
+| 5 | [@bytesbrains/pi-telegram-bridge](https://www.npmjs.com/package/@bytesbrains/pi-telegram-bridge) | 1,443 | `npm install @bytesbrains/pi-telegram-bridge` | Telegram bot bridge for pi agents — send messages, ask questions, and listen for human… |
 
 ### 全量目录
 
