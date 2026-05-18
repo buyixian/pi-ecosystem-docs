@@ -1,676 +1,754 @@
 {
-  "generatedAt": "2026-05-11T07:12:02.712Z",
-  "totalPackages": 2364,
+  "generatedAt": "2026-05-18T06:43:05.310Z",
+  "totalPackages": 2766,
   "totalCategories": 34,
-  "totalDownloads": 1497231,
+  "totalDownloads": 1904299,
   "topPackages": [
     {
+      "name": "context-mode",
+      "monthly": 86809,
+      "category": "MCP"
+    },
+    {
       "name": "pi-subagents",
-      "monthly": 70608,
+      "monthly": 86724,
       "category": "SubAgent"
     },
     {
       "name": "pi-mcp-adapter",
-      "monthly": 59788,
-      "category": "MCP"
-    },
-    {
-      "name": "context-mode",
-      "monthly": 57781,
+      "monthly": 77049,
       "category": "MCP"
     },
     {
       "name": "pi-web-access",
-      "monthly": 34332,
+      "monthly": 46602,
       "category": "Web"
     },
     {
       "name": "@ollama/pi-web-search",
-      "monthly": 26114,
+      "monthly": 25917,
       "category": "Web"
     },
     {
       "name": "@plannotator/pi-extension",
-      "monthly": 21911,
+      "monthly": 25787,
       "category": "Workflow"
-    },
-    {
-      "name": "pi-lens",
-      "monthly": 13237,
-      "category": "CodeQuality"
-    },
-    {
-      "name": "pi-markdown-preview",
-      "monthly": 12052,
-      "category": "MarkdownPreview"
     },
     {
       "name": "@juicesharp/rpiv-ask-user-question",
-      "monthly": 11982,
+      "monthly": 23282,
       "category": "UserInteraction"
-    },
-    {
-      "name": "pi-powerline-footer",
-      "monthly": 11650,
-      "category": "TUI"
     },
     {
       "name": "@juicesharp/rpiv-todo",
-      "monthly": 11493,
+      "monthly": 23195,
       "category": "UserInteraction"
     },
     {
-      "name": "pi-gsd",
-      "monthly": 10542,
-      "category": "Workflow"
-    },
-    {
       "name": "pi-simplify",
-      "monthly": 10180,
+      "monthly": 17131,
       "category": "CodeQuality"
     },
     {
-      "name": "@juicesharp/rpiv-advisor",
-      "monthly": 9294,
-      "category": "Other"
+      "name": "pi-lens",
+      "monthly": 17114,
+      "category": "CodeQuality"
     },
     {
-      "name": "pi-btw",
-      "monthly": 9095,
+      "name": "pi-powerline-footer",
+      "monthly": 13938,
       "category": "TUI"
     },
     {
+      "name": "@juicesharp/rpiv-advisor",
+      "monthly": 13440,
+      "category": "Other"
+    },
+    {
       "name": "@juicesharp/rpiv-web-tools",
-      "monthly": 9054,
+      "monthly": 12818,
       "category": "Web"
     },
     {
       "name": "@juicesharp/rpiv-btw",
-      "monthly": 8998,
+      "monthly": 12685,
       "category": "UserInteraction"
     },
     {
-      "name": "@runfusion/fusion",
-      "monthly": 8990,
+      "name": "pi-agent-flow",
+      "monthly": 11854,
       "category": "Other"
     },
     {
       "name": "@juicesharp/rpiv-pi",
-      "monthly": 8855,
+      "monthly": 11733,
       "category": "Workflow"
     },
     {
+      "name": "pi-markdown-preview",
+      "monthly": 11260,
+      "category": "MarkdownPreview"
+    },
+    {
+      "name": "@juicesharp/rpiv-args",
+      "monthly": 11043,
+      "category": "Skill"
+    },
+    {
+      "name": "@runfusion/fusion",
+      "monthly": 10984,
+      "category": "Other"
+    },
+    {
       "name": "glimpseui",
-      "monthly": 8683,
+      "monthly": 10505,
       "category": "Prompt"
     }
   ],
   "categories": {
-    "SubAgent": {
-      "count": 99,
-      "totalDownloads": 152904,
-      "top5": [
-        {
-          "name": "pi-subagents",
-          "monthly": 70608
-        },
-        {
-          "name": "taskplane",
-          "monthly": 7639
-        },
-        {
-          "name": "@tintinweb/pi-subagents",
-          "monthly": 7587
-        },
-        {
-          "name": "pi-crew",
-          "monthly": 6362
-        },
-        {
-          "name": "pi-interactive-shell",
-          "monthly": 3961
-        }
-      ]
-    },
     "MCP": {
-      "count": 63,
-      "totalDownloads": 152219,
+      "count": 75,
+      "totalDownloads": 212840,
       "top5": [
-        {
-          "name": "pi-mcp-adapter",
-          "monthly": 59788
-        },
         {
           "name": "context-mode",
-          "monthly": 57781
+          "monthly": 86809
+        },
+        {
+          "name": "pi-mcp-adapter",
+          "monthly": 77049
         },
         {
           "name": "pi-lean-ctx",
-          "monthly": 4719
+          "monthly": 7394
+        },
+        {
+          "name": "@spences10/pi-mcp",
+          "monthly": 3869
         },
         {
           "name": "agent-comms",
-          "monthly": 3132
+          "monthly": 3331
+        }
+      ]
+    },
+    "SubAgent": {
+      "count": 124,
+      "totalDownloads": 185612,
+      "top5": [
+        {
+          "name": "pi-subagents",
+          "monthly": 86724
         },
         {
-          "name": "pi-claude-style-tools",
-          "monthly": 2616
+          "name": "@tintinweb/pi-subagents",
+          "monthly": 10324
+        },
+        {
+          "name": "pi-crew",
+          "monthly": 9381
+        },
+        {
+          "name": "taskplane",
+          "monthly": 6900
+        },
+        {
+          "name": "gentle-pi",
+          "monthly": 5373
         }
       ]
     },
     "Web": {
-      "count": 95,
-      "totalDownloads": 110036,
+      "count": 110,
+      "totalDownloads": 134893,
       "top5": [
         {
           "name": "pi-web-access",
-          "monthly": 34332
+          "monthly": 46602
         },
         {
           "name": "@ollama/pi-web-search",
-          "monthly": 26114
+          "monthly": 25917
         },
         {
           "name": "@juicesharp/rpiv-web-tools",
-          "monthly": 9054
+          "monthly": 12818
         },
         {
           "name": "pi-smart-fetch",
-          "monthly": 7255
+          "monthly": 5745
         },
         {
-          "name": "@aretw0/web-skills",
-          "monthly": 2457
+          "name": "@pi-unipi/web-api",
+          "monthly": 2864
         }
       ]
     },
     "Workflow": {
-      "count": 37,
-      "totalDownloads": 61073,
+      "count": 49,
+      "totalDownloads": 65325,
       "top5": [
         {
           "name": "@plannotator/pi-extension",
-          "monthly": 21911
-        },
-        {
-          "name": "pi-gsd",
-          "monthly": 10542
+          "monthly": 25787
         },
         {
           "name": "@juicesharp/rpiv-pi",
-          "monthly": 8855
+          "monthly": 11733
         },
         {
           "name": "@pi-unipi/workflow",
-          "monthly": 2270
+          "monthly": 2979
+        },
+        {
+          "name": "pi-gsd",
+          "monthly": 2503
         },
         {
           "name": "@tianhai/pi-workflow-kit",
-          "monthly": 2144
-        }
-      ]
-    },
-    "CodeQuality": {
-      "count": 35,
-      "totalDownloads": 36605,
-      "top5": [
-        {
-          "name": "pi-lens",
-          "monthly": 13237
-        },
-        {
-          "name": "pi-simplify",
-          "monthly": 10180
-        },
-        {
-          "name": "@lpirito/pi-diffloop",
-          "monthly": 2154
-        },
-        {
-          "name": "@spences10/pi-lsp",
-          "monthly": 2092
-        },
-        {
-          "name": "pi-mono-simplify",
-          "monthly": 915
+          "monthly": 1986
         }
       ]
     },
     "UserInteraction": {
-      "count": 30,
-      "totalDownloads": 54760,
+      "count": 34,
+      "totalDownloads": 85716,
       "top5": [
         {
           "name": "@juicesharp/rpiv-ask-user-question",
-          "monthly": 11982
+          "monthly": 23282
         },
         {
           "name": "@juicesharp/rpiv-todo",
-          "monthly": 11493
+          "monthly": 23195
         },
         {
           "name": "@juicesharp/rpiv-btw",
-          "monthly": 8998
+          "monthly": 12685
         },
         {
           "name": "pi-ask-user",
-          "monthly": 7740
+          "monthly": 9864
         },
         {
           "name": "pi-interview",
-          "monthly": 3379
+          "monthly": 3393
         }
       ]
     },
-    "MarkdownPreview": {
-      "count": 12,
-      "totalDownloads": 17738,
+    "CodeQuality": {
+      "count": 53,
+      "totalDownloads": 60452,
       "top5": [
         {
-          "name": "pi-markdown-preview",
-          "monthly": 12052
+          "name": "pi-simplify",
+          "monthly": 17131
         },
         {
-          "name": "@curl.md/pi",
-          "monthly": 2326
+          "name": "pi-lens",
+          "monthly": 17114
         },
         {
-          "name": "pi-todo-md",
-          "monthly": 772
+          "name": "@spences10/pi-lsp",
+          "monthly": 3430
         },
         {
-          "name": "pi-image-tools",
-          "monthly": 749
+          "name": "@nahuelcio/opencode-ado",
+          "monthly": 2870
         },
         {
-          "name": "@codingcoffee/pi-websearch-crawl4ai",
-          "monthly": 676
+          "name": "pi-slopchop",
+          "monthly": 1422
         }
       ]
     },
     "TUI": {
-      "count": 95,
-      "totalDownloads": 65065,
+      "count": 111,
+      "totalDownloads": 82376,
       "top5": [
         {
           "name": "pi-powerline-footer",
-          "monthly": 11650
+          "monthly": 13938
         },
         {
           "name": "pi-btw",
-          "monthly": 9095
+          "monthly": 9524
         },
         {
           "name": "pi-mermaid",
-          "monthly": 5147
+          "monthly": 4384
         },
         {
           "name": "pi-tool-display",
-          "monthly": 2867
+          "monthly": 3636
         },
         {
           "name": "amp-themes",
-          "monthly": 2853
+          "monthly": 3264
         }
       ]
     },
     "Other": {
-      "count": 1158,
-      "totalDownloads": 452951,
+      "count": 1343,
+      "totalDownloads": 564265,
       "top5": [
         {
           "name": "@juicesharp/rpiv-advisor",
-          "monthly": 9294
-        },
-        {
-          "name": "@runfusion/fusion",
-          "monthly": 8990
-        },
-        {
-          "name": "@aliou/pi-processes",
-          "monthly": 7675
-        },
-        {
-          "name": "@callumvass/forgeflow-dev",
-          "monthly": 7261
+          "monthly": 13440
         },
         {
           "name": "pi-agent-flow",
-          "monthly": 6507
-        }
-      ]
-    },
-    "Prompt": {
-      "count": 40,
-      "totalDownloads": 30451,
-      "top5": [
-        {
-          "name": "glimpseui",
-          "monthly": 8683
+          "monthly": 11854
         },
         {
-          "name": "pi-prompt-template-model",
-          "monthly": 5775
+          "name": "@runfusion/fusion",
+          "monthly": 10984
         },
         {
-          "name": "pi-schedule-prompt",
-          "monthly": 5006
+          "name": "@companion-ai/feynman",
+          "monthly": 7078
         },
         {
-          "name": "@ifi/oh-pi-prompts",
-          "monthly": 1755
-        },
-        {
-          "name": "@guwidoe/pi-prompt-suggester",
-          "monthly": 1157
-        }
-      ]
-    },
-    "Skill": {
-      "count": 113,
-      "totalDownloads": 52008,
-      "top5": [
-        {
-          "name": "@juicesharp/rpiv-args",
-          "monthly": 7370
-        },
-        {
-          "name": "@heart-of-gold/toolkit",
-          "monthly": 6099
-        },
-        {
-          "name": "pi-docparser",
-          "monthly": 5343
-        },
-        {
-          "name": "@aretw0/git-skills",
-          "monthly": 2425
-        },
-        {
-          "name": "@aretw0/pi-skills",
-          "monthly": 2208
+          "name": "@howaboua/pi-codex-conversion",
+          "monthly": 6484
         }
       ]
     },
     "Memory": {
-      "count": 71,
-      "totalDownloads": 52277,
+      "count": 79,
+      "totalDownloads": 64702,
       "top5": [
         {
           "name": "@samfp/pi-memory",
-          "monthly": 8013
-        },
-        {
-          "name": "pi-memctx",
-          "monthly": 3883
+          "monthly": 10249
         },
         {
           "name": "pi-hermes-memory",
-          "monthly": 3659
+          "monthly": 6184
+        },
+        {
+          "name": "pi-memctx",
+          "monthly": 4150
         },
         {
           "name": "pi-memory-md",
-          "monthly": 3139
+          "monthly": 3303
         },
         {
           "name": "pi-total-recall",
-          "monthly": 2264
-        }
-      ]
-    },
-    "AgentMode": {
-      "count": 14,
-      "totalDownloads": 17556,
-      "top5": [
-        {
-          "name": "@tmustier/pi-ralph-wiggum",
-          "monthly": 6130
-        },
-        {
-          "name": "@lnilluv/pi-ralph-loop",
-          "monthly": 3040
-        },
-        {
-          "name": "pi-caveman",
-          "monthly": 2357
-        },
-        {
-          "name": "pi-boomerang",
-          "monthly": 1582
-        },
-        {
-          "name": "pi-agent-mode",
-          "monthly": 1484
+          "monthly": 2990
         }
       ]
     },
     "Tool": {
-      "count": 70,
-      "totalDownloads": 31159,
+      "count": 87,
+      "totalDownloads": 41374,
       "top5": [
         {
           "name": "@gotgenes/pi-permission-system",
-          "monthly": 6421
+          "monthly": 10021
         },
         {
           "name": "@aliou/pi-guardrails",
-          "monthly": 4145
-        },
-        {
-          "name": "pi-pkg-guard",
-          "monthly": 1692
-        },
-        {
-          "name": "pi-sandbox",
-          "monthly": 1477
+          "monthly": 4820
         },
         {
           "name": "pi-permission-system",
-          "monthly": 1411
+          "monthly": 2029
+        },
+        {
+          "name": "pi-sandbox",
+          "monthly": 1821
+        },
+        {
+          "name": "@casualjim/pi-heimdall",
+          "monthly": 1755
+        }
+      ]
+    },
+    "Prompt": {
+      "count": 46,
+      "totalDownloads": 35678,
+      "top5": [
+        {
+          "name": "glimpseui",
+          "monthly": 10505
+        },
+        {
+          "name": "pi-prompt-template-model",
+          "monthly": 6324
+        },
+        {
+          "name": "pi-schedule-prompt",
+          "monthly": 3827
+        },
+        {
+          "name": "@ifi/oh-pi-prompts",
+          "monthly": 1702
+        },
+        {
+          "name": "@dkmnx/pi-clarify",
+          "monthly": 997
+        }
+      ]
+    },
+    "Skill": {
+      "count": 127,
+      "totalDownloads": 61777,
+      "top5": [
+        {
+          "name": "@juicesharp/rpiv-args",
+          "monthly": 11043
+        },
+        {
+          "name": "pi-docparser",
+          "monthly": 4456
+        },
+        {
+          "name": "@spences10/pi-skills",
+          "monthly": 3108
+        },
+        {
+          "name": "pi-loadout",
+          "monthly": 2913
+        },
+        {
+          "name": "@ifi/oh-pi-skills",
+          "monthly": 2111
+        }
+      ]
+    },
+    "Browser": {
+      "count": 14,
+      "totalDownloads": 16017,
+      "top5": [
+        {
+          "name": "pi-chrome",
+          "monthly": 9502
+        },
+        {
+          "name": "pi-agent-browser-native",
+          "monthly": 4623
+        },
+        {
+          "name": "pi-agent-browser",
+          "monthly": 789
+        },
+        {
+          "name": "@steel-experiments/pi-steel",
+          "monthly": 360
+        },
+        {
+          "name": "@dreki-gg/pi-browser-tools",
+          "monthly": 231
+        }
+      ]
+    },
+    "MarkdownPreview": {
+      "count": 16,
+      "totalDownloads": 17741,
+      "top5": [
+        {
+          "name": "pi-markdown-preview",
+          "monthly": 11260
+        },
+        {
+          "name": "@curl.md/pi",
+          "monthly": 2219
+        },
+        {
+          "name": "pi-image-tools",
+          "monthly": 1175
+        },
+        {
+          "name": "pi-todo-md",
+          "monthly": 811
+        },
+        {
+          "name": "@codingcoffee/pi-websearch-crawl4ai",
+          "monthly": 753
         }
       ]
     },
     "Theme": {
-      "count": 37,
-      "totalDownloads": 13769,
+      "count": 44,
+      "totalDownloads": 18183,
       "top5": [
         {
           "name": "pi-studio",
-          "monthly": 5873
+          "monthly": 7279
         },
         {
           "name": "pi-terminal-theme",
-          "monthly": 1106
+          "monthly": 1726
         },
         {
           "name": "@victor-software-house/pi-curated-themes",
-          "monthly": 1058
+          "monthly": 1677
+        },
+        {
+          "name": "@spences10/pi-themes",
+          "monthly": 930
         },
         {
           "name": "@open-hax/uxx",
-          "monthly": 929
-        },
-        {
-          "name": "@m64/pi-remembra-theme",
-          "monthly": 596
-        }
-      ]
-    },
-    "Meta": {
-      "count": 13,
-      "totalDownloads": 18568,
-      "top5": [
-        {
-          "name": "pi-depo",
-          "monthly": 5347
-        },
-        {
-          "name": "@pi-unipi/core",
-          "monthly": 3445
-        },
-        {
-          "name": "@pi-unipi/unipi",
-          "monthly": 1774
-        },
-        {
-          "name": "@pi-unipi/ask-user",
-          "monthly": 1341
-        },
-        {
-          "name": "@pi-unipi/btw",
-          "monthly": 1329
-        }
-      ]
-    },
-    "Integration": {
-      "count": 24,
-      "totalDownloads": 24724,
-      "top5": [
-        {
-          "name": "whatsapp-pi",
-          "monthly": 5802
-        },
-        {
-          "name": "@feniix/pi-notion",
-          "monthly": 4872
-        },
-        {
-          "name": "@llblab/pi-telegram",
-          "monthly": 4712
-        },
-        {
-          "name": "pi-convex",
-          "monthly": 4573
-        },
-        {
-          "name": "@venthezone/picord",
-          "monthly": 1399
+          "monthly": 919
         }
       ]
     },
     "FileSearch": {
       "count": 5,
-      "totalDownloads": 7769,
+      "totalDownloads": 12198,
       "top5": [
         {
           "name": "@ff-labs/pi-fff",
-          "monthly": 4963
+          "monthly": 7617
         },
         {
           "name": "pi-fff",
-          "monthly": 1658
+          "monthly": 2884
+        },
+        {
+          "name": "@edxeth/pi-fff",
+          "monthly": 1150
         },
         {
           "name": "@the-forge-flow/fff-pi",
-          "monthly": 1138
+          "monthly": 537
         },
         {
           "name": "@yofriadi/pi-fuzzy-match",
           "monthly": 10
+        }
+      ]
+    },
+    "Integration": {
+      "count": 27,
+      "totalDownloads": 26473,
+      "top5": [
+        {
+          "name": "@llblab/pi-telegram",
+          "monthly": 6984
         },
         {
-          "name": "@edxeth/pi-fff",
-          "monthly": 0
+          "name": "whatsapp-pi",
+          "monthly": 4676
+        },
+        {
+          "name": "pi-convex",
+          "monthly": 4622
+        },
+        {
+          "name": "@feniix/pi-notion",
+          "monthly": 1912
+        },
+        {
+          "name": "@bytesbrains/pi-telegram-bridge",
+          "monthly": 1443
         }
       ]
     },
     "Chat": {
       "count": 9,
-      "totalDownloads": 8372,
+      "totalDownloads": 9216,
       "top5": [
         {
           "name": "pi-intercom",
-          "monthly": 5430
-        },
-        {
-          "name": "@0xkobold/pi-gateway",
-          "monthly": 1319
+          "monthly": 6957
         },
         {
           "name": "pi-chatgpt-limit",
-          "monthly": 504
+          "monthly": 801
+        },
+        {
+          "name": "@0xkobold/pi-gateway",
+          "monthly": 468
         },
         {
           "name": "pi-side-chat",
-          "monthly": 374
+          "monthly": 378
         },
         {
-          "name": "@wechatbot/pi-agent",
-          "monthly": 247
+          "name": "@codexstar/pi-side-chat",
+          "monthly": 175
         }
       ]
     },
-    "Browser": {
+    "Meta": {
+      "count": 13,
+      "totalDownloads": 26910,
+      "top5": [
+        {
+          "name": "pi-depo",
+          "monthly": 5782
+        },
+        {
+          "name": "@pi-unipi/core",
+          "monthly": 5210
+        },
+        {
+          "name": "@pi-unipi/unipi",
+          "monthly": 2425
+        },
+        {
+          "name": "@pi-unipi/btw",
+          "monthly": 1995
+        },
+        {
+          "name": "@pi-unipi/ask-user",
+          "monthly": 1986
+        }
+      ]
+    },
+    "AgentMode": {
+      "count": 17,
+      "totalDownloads": 18943,
+      "top5": [
+        {
+          "name": "@tmustier/pi-ralph-wiggum",
+          "monthly": 5521
+        },
+        {
+          "name": "pi-caveman",
+          "monthly": 2792
+        },
+        {
+          "name": "@lnilluv/pi-ralph-loop",
+          "monthly": 2707
+        },
+        {
+          "name": "pi-autoresearch",
+          "monthly": 2459
+        },
+        {
+          "name": "pi-boomerang",
+          "monthly": 1908
+        }
+      ]
+    },
+    "Context": {
+      "count": 100,
+      "totalDownloads": 46010,
+      "top5": [
+        {
+          "name": "pi-bar",
+          "monthly": 4295
+        },
+        {
+          "name": "pi-continue",
+          "monthly": 3311
+        },
+        {
+          "name": "@sting8k/pi-vcc",
+          "monthly": 2682
+        },
+        {
+          "name": "pi-context-prune",
+          "monthly": 2574
+        },
+        {
+          "name": "@spences10/pi-context",
+          "monthly": 2476
+        }
+      ]
+    },
+    "CostProxy": {
+      "count": 23,
+      "totalDownloads": 15023,
+      "top5": [
+        {
+          "name": "pi-antigravity-rotator",
+          "monthly": 3898
+        },
+        {
+          "name": "pi-free",
+          "monthly": 2535
+        },
+        {
+          "name": "@schultzp2020/pi-cursor",
+          "monthly": 1293
+        },
+        {
+          "name": "pi-vision-proxy",
+          "monthly": 1166
+        },
+        {
+          "name": "pi-multi-auth",
+          "monthly": 962
+        }
+      ]
+    },
+    "Dashboard": {
+      "count": 25,
+      "totalDownloads": 12339,
+      "top5": [
+        {
+          "name": "@pi-unipi/info-screen",
+          "monthly": 3784
+        },
+        {
+          "name": "@posthog/pi",
+          "monthly": 2544
+        },
+        {
+          "name": "@raindrop-ai/pi-agent",
+          "monthly": 2017
+        },
+        {
+          "name": "@braintrust/pi-extension",
+          "monthly": 722
+        },
+        {
+          "name": "pi-observability",
+          "monthly": 678
+        }
+      ]
+    },
+    "Settings": {
       "count": 9,
-      "totalDownloads": 5898,
+      "totalDownloads": 8219,
       "top5": [
         {
-          "name": "pi-agent-browser-native",
-          "monthly": 4410
+          "name": "@juanibiapina/pi-extension-settings",
+          "monthly": 2787
         },
         {
-          "name": "pi-agent-browser",
-          "monthly": 578
+          "name": "@axnic/pi-extension-settings",
+          "monthly": 2376
         },
         {
-          "name": "demo-dev",
-          "monthly": 346
+          "name": "@axnic/pi-extension-settings-sdk",
+          "monthly": 1840
         },
         {
-          "name": "@steel-experiments/pi-steel",
-          "monthly": 340
+          "name": "@vanillagreen/pi-extension-manager",
+          "monthly": 855
         },
         {
-          "name": "@artale/pi-browser",
-          "monthly": 98
-        }
-      ]
-    },
-    "Session": {
-      "count": 40,
-      "totalDownloads": 12982,
-      "top5": [
-        {
-          "name": "@kaiserlich-dev/pi-session-search",
-          "monthly": 4217
-        },
-        {
-          "name": "pi-session-search",
-          "monthly": 1244
-        },
-        {
-          "name": "pi-edit-session-in-place",
-          "monthly": 1221
-        },
-        {
-          "name": "@vanillagreen/pi-session-manager",
-          "monthly": 743
-        },
-        {
-          "name": "pi-sessions",
-          "monthly": 492
+          "name": "pi-sync-extension",
+          "monthly": 139
         }
       ]
     },
     "DataViz": {
-      "count": 5,
-      "totalDownloads": 6928,
+      "count": 7,
+      "totalDownloads": 5217,
       "top5": [
         {
           "name": "@walterra/pi-charts",
-          "monthly": 4169
+          "monthly": 3120
         },
         {
           "name": "@tungthedev/pi-extensions",
-          "monthly": 1765
+          "monthly": 1691
         },
         {
           "name": "@the-forge-flow/visual-explainer-pi",
-          "monthly": 833
+          "monthly": 285
         },
         {
           "name": "@miclivs/pi-charts",
-          "monthly": 102
+          "monthly": 62
         },
         {
           "name": "@eliemessiecode/pi-render",
@@ -678,287 +756,217 @@
         }
       ]
     },
-    "Utils": {
-      "count": 2,
-      "totalDownloads": 4513,
+    "Session": {
+      "count": 47,
+      "totalDownloads": 16498,
       "top5": [
         {
-          "name": "@vtstech/pi-shared",
-          "monthly": 4513
+          "name": "@kaiserlich-dev/pi-session-search",
+          "monthly": 2682
         },
         {
-          "name": "@firstpick/pi-utils",
-          "monthly": 0
-        }
-      ]
-    },
-    "CostProxy": {
-      "count": 20,
-      "totalDownloads": 11384,
-      "top5": [
-        {
-          "name": "pi-antigravity-rotator",
-          "monthly": 3683
+          "name": "pi-session-search",
+          "monthly": 1663
         },
         {
-          "name": "pi-free",
-          "monthly": 2131
+          "name": "pi-edit-session-in-place",
+          "monthly": 1137
         },
         {
-          "name": "pi-vision-proxy",
-          "monthly": 979
+          "name": "@vanillagreen/pi-session-manager",
+          "monthly": 1132
         },
         {
-          "name": "pi-edgee-proxy",
-          "monthly": 820
-        },
-        {
-          "name": "pi-multi-auth",
-          "monthly": 715
-        }
-      ]
-    },
-    "Dashboard": {
-      "count": 19,
-      "totalDownloads": 9595,
-      "top5": [
-        {
-          "name": "@blackbelt-technology/pi-agent-dashboard",
-          "monthly": 3082
-        },
-        {
-          "name": "@pi-unipi/info-screen",
-          "monthly": 2932
-        },
-        {
-          "name": "@braintrust/pi-extension",
-          "monthly": 883
-        },
-        {
-          "name": "pi-observability",
-          "monthly": 580
-        },
-        {
-          "name": "@hdkiller/pi-langfuse",
-          "monthly": 486
-        }
-      ]
-    },
-    "Context": {
-      "count": 83,
-      "totalDownloads": 30680,
-      "top5": [
-        {
-          "name": "pi-continue",
-          "monthly": 2677
-        },
-        {
-          "name": "@sting8k/pi-vcc",
-          "monthly": 2580
-        },
-        {
-          "name": "pi-context-prune",
-          "monthly": 2397
-        },
-        {
-          "name": "pi-context",
-          "monthly": 1728
-        },
-        {
-          "name": "pi-subdir-context",
-          "monthly": 1506
-        }
-      ]
-    },
-    "Testing": {
-      "count": 12,
-      "totalDownloads": 9357,
-      "top5": [
-        {
-          "name": "@vtstech/pi-model-test",
-          "monthly": 2935
-        },
-        {
-          "name": "@vtstech/pi-diag",
-          "monthly": 2853
-        },
-        {
-          "name": "@marcfargas/pi-test-harness",
-          "monthly": 2552
-        },
-        {
-          "name": "pi-droid",
-          "monthly": 301
-        },
-        {
-          "name": "@gaodes/pi-test-harness",
-          "monthly": 204
+          "name": "@agnishc/edb-session-manager",
+          "monthly": 954
         }
       ]
     },
     "Audio": {
-      "count": 25,
-      "totalDownloads": 6850,
+      "count": 28,
+      "totalDownloads": 11759,
       "top5": [
         {
           "name": "@codexstar/pi-listen",
-          "monthly": 2208
+          "monthly": 2263
+        },
+        {
+          "name": "pi-voice-input",
+          "monthly": 1844
+        },
+        {
+          "name": "@juicesharp/rpiv-voice",
+          "monthly": 1133
         },
         {
           "name": "voipi",
-          "monthly": 937
+          "monthly": 977
         },
         {
-          "name": "pi-smart-voice-notify",
-          "monthly": 715
-        },
-        {
-          "name": "@pithings/voipi-pi",
-          "monthly": 477
-        },
-        {
-          "name": "@s1m0n38/pi-voice",
-          "monthly": 432
-        }
-      ]
-    },
-    "Settings": {
-      "count": 7,
-      "totalDownloads": 7249,
-      "top5": [
-        {
-          "name": "@axnic/pi-extension-settings",
-          "monthly": 2255
-        },
-        {
-          "name": "@juanibiapina/pi-extension-settings",
-          "monthly": 2137
-        },
-        {
-          "name": "@axnic/pi-extension-settings-sdk",
-          "monthly": 1815
-        },
-        {
-          "name": "@vanillagreen/pi-extension-manager",
-          "monthly": 526
-        },
-        {
-          "name": "@alexgorbatchev/pi-env",
-          "monthly": 500
+          "name": "@p8n.ai/pi-listens",
+          "monthly": 965
         }
       ]
     },
     "Image": {
       "count": 29,
-      "totalDownloads": 8098,
+      "totalDownloads": 8016,
       "top5": [
         {
           "name": "pi-better-openai",
-          "monthly": 1610
+          "monthly": 2102
         },
         {
           "name": "@injaneity/pi-computer-use",
-          "monthly": 1399
+          "monthly": 1648
         },
         {
           "name": "pi-codex-image-gen",
-          "monthly": 793
+          "monthly": 1416
         },
         {
-          "name": "pi-image-gen-openai",
-          "monthly": 412
+          "name": "pi-imagegen",
+          "monthly": 417
         },
         {
-          "name": "pi-image-gen-google",
-          "monthly": 389
+          "name": "pi-codex-image",
+          "monthly": 285
         }
       ]
     },
-    "Provider": {
-      "count": 60,
-      "totalDownloads": 17267,
+    "Testing": {
+      "count": 13,
+      "totalDownloads": 7790,
       "top5": [
         {
-          "name": "pi-provider-kimi-code",
-          "monthly": 1392
+          "name": "@marcfargas/pi-test-harness",
+          "monthly": 1984
         },
         {
-          "name": "@ramarivera/pi-ts-aperture-provider",
-          "monthly": 1085
+          "name": "@vtstech/pi-model-test",
+          "monthly": 1857
         },
         {
-          "name": "@sinamtz/pi-minimax-provider",
-          "monthly": 916
+          "name": "@vtstech/pi-diag",
+          "monthly": 1773
         },
         {
-          "name": "pi-cursor-provider",
-          "monthly": 912
+          "name": "@tianzong48/pi-doctor-extension",
+          "monthly": 420
         },
         {
-          "name": "pi-venice",
-          "monthly": 690
+          "name": "pi-droid",
+          "monthly": 377
         }
       ]
     },
     "Notification": {
       "count": 27,
-      "totalDownloads": 5012,
+      "totalDownloads": 8327,
       "top5": [
         {
           "name": "@pi-unipi/notify",
-          "monthly": 1233
+          "monthly": 2024
         },
         {
           "name": "pi-gotify-notifier",
-          "monthly": 913
-        },
-        {
-          "name": "pi-notify",
-          "monthly": 458
-        },
-        {
-          "name": "desktop-notify-kitty",
-          "monthly": 445
+          "monthly": 730
         },
         {
           "name": "@diegopetrucci/pi-notify",
-          "monthly": 406
+          "monthly": 583
+        },
+        {
+          "name": "pi-notify",
+          "monthly": 509
+        },
+        {
+          "name": "desktop-notify-kitty",
+          "monthly": 460
+        }
+      ]
+    },
+    "Utils": {
+      "count": 2,
+      "totalDownloads": 2629,
+      "top5": [
+        {
+          "name": "@vtstech/pi-shared",
+          "monthly": 1863
+        },
+        {
+          "name": "@firstpick/pi-utils",
+          "monthly": 766
+        }
+      ]
+    },
+    "Provider": {
+      "count": 65,
+      "totalDownloads": 19112,
+      "top5": [
+        {
+          "name": "pi-provider-kimi-code",
+          "monthly": 1322
+        },
+        {
+          "name": "pi-provider-litellm",
+          "monthly": 800
+        },
+        {
+          "name": "pi-xiaomi-mimo-provider",
+          "monthly": 748
+        },
+        {
+          "name": "@cirthan/pi-cirthan-provider",
+          "monthly": 740
+        },
+        {
+          "name": "pi-provider-umans",
+          "monthly": 700
+        }
+      ]
+    },
+    "Learning": {
+      "count": 4,
+      "totalDownloads": 1257,
+      "top5": [
+        {
+          "name": "@majorgilles/pi-learning-tutor",
+          "monthly": 967
+        },
+        {
+          "name": "teach-me",
+          "monthly": 150
+        },
+        {
+          "name": "@artale/pi-continuous",
+          "monthly": 109
+        },
+        {
+          "name": "pi-quiz",
+          "monthly": 31
         }
       ]
     },
     "Output": {
       "count": 4,
-      "totalDownloads": 1315,
+      "totalDownloads": 1412,
       "top5": [
         {
           "name": "@vanillagreen/pi-output-policy",
-          "monthly": 542
+          "monthly": 728
         },
         {
           "name": "@nonplanarslicer/pi-save-output",
-          "monthly": 312
+          "monthly": 338
         },
         {
           "name": "@badliveware/pi-rich-output",
-          "monthly": 249
+          "monthly": 263
         },
         {
           "name": "pi-copy-output",
-          "monthly": 212
-        }
-      ]
-    },
-    "Learning": {
-      "count": 2,
-      "totalDownloads": 99,
-      "top5": [
-        {
-          "name": "@artale/pi-continuous",
-          "monthly": 96
-        },
-        {
-          "name": "pi-quiz",
-          "monthly": 3
+          "monthly": 83
         }
       ]
     }

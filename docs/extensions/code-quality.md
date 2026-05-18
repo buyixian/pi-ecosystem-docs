@@ -40,11 +40,11 @@ TypeScript 类型覆盖 → jscpd 重复检测 → knip 死代码
 
 | # | 插件 | 月下载量 | 安装命令 | 说明 |
 |---|---|---|---|---|
-| 1 | [pi-lens](https://www.npmjs.com/package/pi-lens) | 13,237 | `npm install pi-lens` | Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural an… |
-| 2 | [pi-simplify](https://www.npmjs.com/package/pi-simplify) | 10,180 | `npm install pi-simplify` | A Pi extension that reviews recently changed code for clarity, consistency, and maintai… |
-| 3 | [@lpirito/pi-diffloop](https://www.npmjs.com/package/@lpirito/pi-diffloop) | 2,154 | `npm install @lpirito/pi-diffloop` | Pair programming with Pi, be aware of every change made to the codebase. |
-| 4 | [@spences10/pi-lsp](https://www.npmjs.com/package/@spences10/pi-lsp) | 2,092 | `npm install @spences10/pi-lsp` | Pi extension that exposes Language Server Protocol diagnostics, hover, definition, and… |
-| 5 | [pi-mono-simplify](https://www.npmjs.com/package/pi-mono-simplify) | 915 | `npm install pi-mono-simplify` | Pi extension that reviews changed code for reuse, quality, and efficiency, then fixes a… |
+| 1 | [pi-simplify](https://www.npmjs.com/package/pi-simplify) | 17,131 | `npm install pi-simplify` | A Pi extension that reviews recently changed code for clarity, consistency, and maintai… |
+| 2 | [pi-lens](https://www.npmjs.com/package/pi-lens) | 17,114 | `npm install pi-lens` | Real-time code feedback for pi — LSP, linters, formatters, type-checking, structural an… |
+| 3 | [@spences10/pi-lsp](https://www.npmjs.com/package/@spences10/pi-lsp) | 3,430 | `npm install @spences10/pi-lsp` | Language Server Protocol tools for Pi agents to inspect diagnostics, hovers, definition… |
+| 4 | [@nahuelcio/opencode-ado](https://www.npmjs.com/package/@nahuelcio/opencode-ado) | 2,870 | `npm install @nahuelcio/opencode-ado` | Azure DevOps plugin for OpenCode — PR reviews, profiles, sidebar panel |
+| 5 | [pi-slopchop](https://www.npmjs.com/package/pi-slopchop) | 1,422 | `npm install pi-slopchop` | Terminal-native code review and annotation workflow for the Pi coding agent. |
 
 ### 全量目录
 

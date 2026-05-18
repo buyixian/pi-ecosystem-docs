@@ -51,11 +51,11 @@ ctx.ui.setWidget("my-panel", content, { placement: "aboveEditor" });
 
 | # | 插件 | 月下载量 | 安装命令 | 说明 |
 |---|---|---|---|---|
-| 1 | [pi-powerline-footer](https://www.npmjs.com/package/pi-powerline-footer) | 11,650 | `npm install pi-powerline-footer` | Powerline-style status bar extension for pi coding agent |
-| 2 | [pi-btw](https://www.npmjs.com/package/pi-btw) | 9,095 | `npm install pi-btw` | A pi extension for parallel side conversations with /btw |
-| 3 | [pi-mermaid](https://www.npmjs.com/package/pi-mermaid) | 5,147 | `npm install pi-mermaid` | 🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI |
-| 4 | [pi-tool-display](https://www.npmjs.com/package/pi-tool-display) | 2,867 | `npm install pi-tool-display` | Compact tool call rendering, diff visualization, and output truncation extension for Pi… |
-| 5 | [amp-themes](https://www.npmjs.com/package/amp-themes) | 2,853 | `npm install amp-themes` | Amp-inspired Pi UI suite: theme, editor chrome, and compact tool display. |
+| 1 | [pi-powerline-footer](https://www.npmjs.com/package/pi-powerline-footer) | 13,938 | `npm install pi-powerline-footer` | Powerline-style status bar extension for pi coding agent |
+| 2 | [pi-btw](https://www.npmjs.com/package/pi-btw) | 9,524 | `npm install pi-btw` | A pi extension for parallel side conversations with /btw |
+| 3 | [pi-mermaid](https://www.npmjs.com/package/pi-mermaid) | 4,384 | `npm install pi-mermaid` | 🧜‍♀️ Pi extension that renders Mermaid diagrams as ASCII in the TUI |
+| 4 | [pi-tool-display](https://www.npmjs.com/package/pi-tool-display) | 3,636 | `npm install pi-tool-display` | Compact tool call rendering, diff visualization, and output truncation extension for Pi… |
+| 5 | [amp-themes](https://www.npmjs.com/package/amp-themes) | 3,264 | `npm install amp-themes` | Amp-inspired Pi UI suite: theme, editor chrome, and compact tool display. |
 
 ### 全量目录
 

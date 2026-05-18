@@ -54,21 +54,21 @@
 
 | # | 插件 | 月下载量 | 安装命令 | 说明 |
 |---|---|---|---|---|
-| 1 | [glimpseui](https://www.npmjs.com/package/glimpseui) | 8,683 | `npm install glimpseui` | Native micro-UI for scripts and agents — cross-platform WebView windows with bidirectio… |
-| 2 | [pi-prompt-template-model](https://www.npmjs.com/package/pi-prompt-template-model) | 5,775 | `npm install pi-prompt-template-model` | Prompt template model selector extension for pi coding agent |
-| 3 | [pi-schedule-prompt](https://www.npmjs.com/package/pi-schedule-prompt) | 5,006 | `npm install pi-schedule-prompt` | Pi's Heartbeat - A pi extension for scheduling recurring and one-shot agent prompts wit… |
-| 4 | [@ifi/oh-pi-prompts](https://www.npmjs.com/package/@ifi/oh-pi-prompts) | 1,755 | `npm install @ifi/oh-pi-prompts` | Prompt templates for pi: review, fix, explain, refactor, test, commit, and more. |
-| 5 | [@guwidoe/pi-prompt-suggester](https://www.npmjs.com/package/@guwidoe/pi-prompt-suggester) | 1,157 | `npm install @guwidoe/pi-prompt-suggester` | Intent-aware next-prompt suggestion extension for pi |
+| 1 | [glimpseui](https://www.npmjs.com/package/glimpseui) | 10,505 | `npm install glimpseui` | Native micro-UI for scripts and agents — cross-platform WebView windows with bidirectio… |
+| 2 | [pi-prompt-template-model](https://www.npmjs.com/package/pi-prompt-template-model) | 6,324 | `npm install pi-prompt-template-model` | Prompt template model selector extension for pi coding agent |
+| 3 | [pi-schedule-prompt](https://www.npmjs.com/package/pi-schedule-prompt) | 3,827 | `npm install pi-schedule-prompt` | Pi's Heartbeat - A pi extension for scheduling recurring and one-shot agent prompts wit… |
+| 4 | [@ifi/oh-pi-prompts](https://www.npmjs.com/package/@ifi/oh-pi-prompts) | 1,702 | `npm install @ifi/oh-pi-prompts` | Prompt templates for pi: review, fix, explain, refactor, test, commit, and more. |
+| 5 | [@dkmnx/pi-clarify](https://www.npmjs.com/package/@dkmnx/pi-clarify) | 997 | `npm install @dkmnx/pi-clarify` | Prompt clarification extension for pi coding agent |
 
 ### 代理模式
 
 | # | 插件 | 月下载量 | 安装命令 | 说明 |
 |---|---|---|---|---|
-| 1 | [pi-caveman](https://www.npmjs.com/package/pi-caveman) | 2,357 | `npm install pi-caveman` | Why use many token when few do trick. Caveman mode for pi — cuts ~75% output tokens whi… |
-| 2 | [pi-boomerang](https://www.npmjs.com/package/pi-boomerang) | 1,582 | `npm install pi-boomerang` | Token-efficient autonomous task execution with context collapse |
-| 3 | [@tmustier/pi-ralph-wiggum](https://www.npmjs.com/package/@tmustier/pi-ralph-wiggum) | 6,130 | `npm install @tmustier/pi-ralph-wiggum` | Long-running agent loops for iterative development in Pi. |
-| 4 | [@lnilluv/pi-ralph-loop](https://www.npmjs.com/package/@lnilluv/pi-ralph-loop) | 3,040 | `npm install @lnilluv/pi-ralph-loop` | Pi-native ralph loop — autonomous coding iterations with mid-turn supervision |
-| 5 | [pi-agent-mode](https://www.npmjs.com/package/pi-agent-mode) | 1,484 | `npm install pi-agent-mode` | OpenCode-style default agent mode for PI. Markdown agents with YAML frontmatter. Ctrl+S… |
+| 1 | [pi-caveman](https://www.npmjs.com/package/pi-caveman) | 2,792 | `npm install pi-caveman` | Why use many token when few do trick. Caveman mode for pi — cuts ~75% output tokens whi… |
+| 2 | [pi-boomerang](https://www.npmjs.com/package/pi-boomerang) | 1,908 | `npm install pi-boomerang` | Token-efficient autonomous task execution with context collapse |
+| 3 | [@tmustier/pi-ralph-wiggum](https://www.npmjs.com/package/@tmustier/pi-ralph-wiggum) | 5,521 | `npm install @tmustier/pi-ralph-wiggum` | Long-running agent loops for iterative development in Pi. |
+| 4 | [@lnilluv/pi-ralph-loop](https://www.npmjs.com/package/@lnilluv/pi-ralph-loop) | 2,707 | `npm install @lnilluv/pi-ralph-loop` | Pi-native ralph loop — autonomous coding iterations with mid-turn supervision |
+| 5 | [pi-autoresearch](https://www.npmjs.com/package/pi-autoresearch) | 2,459 | `npm install pi-autoresearch` | Autonomous experiment loop for pi — run, measure, keep or discard. Inspired by karpathy… |
 
 ### 全量目录
 
